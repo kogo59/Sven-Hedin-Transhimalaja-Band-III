@@ -85,9 +85,9 @@ anspruchslosen Nomaden.
 
 Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell des Verfassers. Titelbild.
 
-1. Die Indusquelle.
-2. Manimauer. Skizzen des Verfassers.
-3. Pema Tense, mein Führer zur Indusquelle und nach Jumba-matsen. Skizze des Verfassers.
+1. [Die Indusquelle.](ch002.xhtml#b0027_1)
+2. [Manimauer.](ch002.xhtml#b0027_2) Skizzen des Verfassers.
+3. [Pema Tense, mein Führer zur Indusquelle und nach Jumba-matsen.](ch002.xhtml#b0027_3) Skizze des Verfassers.
 4. Augenblicksbilder aus dem Lager. Skizzen des Verfassers.
 5. Transport von Schafwolle.
 6. Nomaden unterwegs.

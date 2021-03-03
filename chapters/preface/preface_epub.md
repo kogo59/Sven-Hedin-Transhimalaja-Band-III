@@ -11,7 +11,7 @@ Dritter Band.
 ::::
 
 :::: {.wrap-100 .align-center .break-after}
-![Der heilige See der Inder und Tibeter. <small>Aquarell des Verfassers</small>](Transhimalaja_Vol_III_8.jpg "Der heilige See der Inder und Tibeter."){#b000}
+![Der heilige See der Inder und Tibeter. <small>Aquarell des Verfassers.</small>](Transhimalaja_Vol_III_8.jpg "Der heilige See der Inder und Tibeter."){#b000}
 ::::
 
 :::: { .fs-jumbo .align-center }
@@ -32,13 +32,13 @@ Sven Hedin.<br /><br />
 ::::
 
 :::: { .fs-xs .align-center }
-Mit 169 Abbildungen nach photographischen Aufnahmen,<br />
-Aquarellen und Zeichnungen des Verfassers und mit<br />
+Mit 169 Abbildungen nach photographischen Aufnahmen,
+Aquarellen und Zeichnungen des Verfassers und mit
 4 Karten.<br /><br />
 ::::
 
 :::: { .fs-l .align-center }
-**Dritter Band.**<br />
+**Dritter Band.**
 ::::
 
 :::: { .wrap-20 }
