@@ -88,11 +88,11 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 1. [Die Indusquelle.](ch002.xhtml#b0027_1)
 2. [Manimauer.](ch002.xhtml#b0027_2) Skizzen des Verfassers.
 3. [Pema Tense, mein Führer zur Indusquelle und nach Jumba-matsen.](ch002.xhtml#b0027_3) Skizze des Verfassers.
-4. Augenblicksbilder aus dem Lager. Skizzen des Verfassers.
-5. Transport von Schafwolle.
-6. Nomaden unterwegs.
-7. Nomade aus Jumba-matsen. Skizze des Verfassers.
-8. Nomadenzelt.
+4. [Augenblicksbilder aus dem Lager.](ch003.xhtml#b0036_4) Skizzen des Verfassers.
+5. [Transport von Schafwolle.](ch003.xhtml#b0037_5)
+6. [Nomaden unterwegs.](ch003.xhtml#b0037_6)
+7. [Nomade aus Jumba-matsen.](ch004.xhtml#b0046_7) Skizze des Verfassers.
+8. [Nomadenzelt.](ch004.xhtml#b0047_8)
 9. Neugierige bei meinem Aufbruch.
 10. Neugierige bei meinem Aufbruch.
 11. Freundliche Nachbarn.

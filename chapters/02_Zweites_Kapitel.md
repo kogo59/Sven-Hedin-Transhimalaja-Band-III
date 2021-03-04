@@ -110,7 +110,7 @@ Der Häuptling von Jumba-matsen besitzt 500 Schafe, seine ganze
 Zeltgenossenschaft 8000. 200 Yaks und 15 Pferde gehören auch zu
 seinen Untertanen. Mitte August werden die Schafe geschoren und die
 Wolle an Händler verkauft, die aus Ladak und von der indischen Grenze
-herkommen (Abb. 5). Ein großes Schaf bringt eine halbe Rupie ein.
+herkommen ([Abb. 5](ch003.xhtml#b0037_5)). Ein großes Schaf bringt eine halbe Rupie ein.
 Am Tso-mavang ist die Wolle teurer, aber dort fällt für den Abnehmer
 auch ein großer Teil der Beförderungskosten weg.
 
@@ -195,8 +195,8 @@ Nach einer kalten Nacht brach der 17. September an. Schwer und
 langsam schritten vierzig vollbeladene Yaks talabwärts. Es war eine
 neue, aus vier Zeltgemeinschaften bestehende Genossenschaft, die aus
 Jumba-matsen nach der Mündung eines weiter abwärts liegenden Nebentales
-übersiedelte (Abb. 6—8). Jede Zeltgenossenschaft hat ihren eigenen Lagerplatz,
-und da, wo man sich unverbrüchlich dem alten Herkommen fügt,
+übersiedelte (Abb. [6](ch003.xhtml#b0037_6)—[8](ch003.xhtml#b0047_8)). Jede Zeltgenossenschaft hat ihren
+eigenen Lagerplatz, und da, wo man sich unverbrüchlich dem alten Herkommen fügt,
 kommt es nicht zu Weidestreitigkeiten.
 
 Die bestellten Lasttiere wurden rechtzeitig herangeführt. Die Pferde
@@ -308,6 +308,19 @@ den Süßwassertümpeln von Luma-ringmo aufgeschlagen. Es ist, als
 ob man auf einer Wasserstraße inmitten eines Archipels ankere. Wie
 Holme tauchen auf allen Seiten flache Bergrücken auf. Dank der
 Luftspiegelung scheinen sie ein wenig über der Erdoberfläche zu schweben.
+
+
+:::: {.wrap-60 .break-before }
+![4. Augenblicksbilder aus dem Lager. (S 6.) <small>Skizzen des Verfassers.</small>](Transhimalaja_Vol_III_36.jpg "Augenblicksbilder aus dem Lager."){#b0036_4}
+::::
+
+:::: {.wrap-100 .break-before }
+![5. Transport von Schafwolle. (S 12.)](Transhimalaja_Vol_III_37a.jpg "Transport von Schafwolle."){#b0037_5}
+::::
+
+:::: {.wrap-100 }
+![6. Nomaden unterwegs. (S 12.)](Transhimalaja_Vol_III_37b.jpg "Nomaden unterwegs."){#b0037_5}
+::::
 
 :::
 

@@ -246,8 +246,8 @@ Ebene aus, und wir wenden uns von dem Bache ab, der im Norden
 verschwindet. Sein Wasser rieselte melodisch unter einer dünnen Eishaut.
 Eine kleine Herde von Wildeseln oder Kiangs tummelte sich auf der Ebene,
 räumte aber das Feld, als wir unsere Zelte im Lager 238 an einer
-richtigen Mauer aus trocknem Yakdung aufschlugen (Abb. 4). Die
-Nomaden, die dieses Feuerungsmaterial gesammelt hatten und nun in
+richtigen Mauer aus trocknem Yakdung aufschlugen ([Abb. 4](ch003.xhtml#b0036_4)).
+Die Nomaden, die dieses Feuerungsmaterial gesammelt hatten und nun in
 irgendeiner andern Gegend ihre Herden weideten, werden bei ihrer Rückkehr
 sicherlich sehr verwundert sein, zu finden, daß ihr Feuerungsvorrat zum
 größten Teil verschwunden war. Denn wenn wir hier kein anderes
