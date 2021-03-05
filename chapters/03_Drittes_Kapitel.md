@@ -135,7 +135,7 @@ Zelt an dem Anblicke des stolzen Flusses freuen, dessen kristallklare Flut
 sich lautlos zwischen den Vergen fortringelte.
 
 Einen Steinwurf weit von uns standen zwei Zelte, deren Bewohner
-(Abb. 11-13) gar nicht wußten, was sie uns alles Gutes erweisen sollten.
+([Abb. 11-13](ch005.xhtml#b0057_11)) gar nicht wußten, was sie uns alles Gutes erweisen sollten.
 Ich lebte auch wie ein Prinz in dieser wilden, naturschönen Gegend, die
 mir um so entzückender erschien, weil ich in der letzten Zeit nichts anderes
 als Wüsten gesehen hatte. Ein feistes Schaf wurde sofort erstanden und
@@ -152,7 +152,7 @@ Der Tag war herrlich, die Luft in dem tiefen Tale warm und still,
 Flusse. Nur gelegentlich kam ein Windstoß von dem nächsten Grate heruntergesaust.
 
 Mit ausgestreckter Zunge und höflicher Verbeugung erschienen vor
-meinem Zelte drei Häuptlinge, die den Titel „Gova“ führten (Abb. 14).
+meinem Zelte drei Häuptlinge, die den Titel „Gova“ führten ([Abb. 14](ch005.xhtml#b0058_14)).
 „Es freut mich, euch zu sehen; nehmt Platz“, begrüßte ich sie.
 
 „Wir sind gekommen, um Ihnen nach besten Kräften zu dienen,

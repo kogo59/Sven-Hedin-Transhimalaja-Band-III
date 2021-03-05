@@ -216,9 +216,9 @@ polierte Bronze.
 
 So sagten wir denn den freundlichen Nomaden des Gijekungtals
 Lebewohl und zogen auf dem Wege, den wir gekommen waren,
-wieder talabwärts (Abb. 9, 10). Bei den Seen aber schwenkten wir nach
-Westen ab und ließen unsere alte Straße links hinter uns zurück. In der
-Verlängerung der kleinen Seen dehnt sich die Mugu-täläp, eine
+wieder talabwärts (Abb. [9](ch004.xhtml#b0047_9), [10](ch004.xhtml#b0047_10)).
+Bei den Seen aber schwenkten wir nach Westen ab und ließen unsere alte Straße links
+hinter uns zurück. In der Verlängerung der kleinen Seen dehnt sich die Mugu-täläp, eine
 Salzsteppe, aus. Hier machten die Tibeter an einem Süßwassertümpel halt
 und rieten uns, während der Nacht hier zu lagern, weil die nächste Quelle
 weit entfernt liege. Einige Kiangs, Pantholopsantilopen^[^0203]^ und Wildgänse

@@ -93,12 +93,12 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 6. [Nomaden unterwegs.](ch003.xhtml#b0037_6)
 7. [Nomade aus Jumba-matsen.](ch004.xhtml#b0046_7) Skizze des Verfassers.
 8. [Nomadenzelt.](ch004.xhtml#b0047_8)
-9. Neugierige bei meinem Aufbruch.
-10. Neugierige bei meinem Aufbruch.
-11. Freundliche Nachbarn.
-12. Freundliche Nachbarn.
-13. Freundliche Nachbarn. Skizzen des Verfassers.
-14. Einer der Häuptlinge. Skizze des Verfassers.
+9. [Neugierige bei meinem Aufbruch.](ch004.xhtml#b0047_9)
+10. [Neugierige bei meinem Aufbruch.](ch004.xhtml#b0047_10)
+11. [Freundliche Nachbarn.](ch005.xhtml#b0057_11)
+12. [Freundliche Nachbarn.](ch005.xhtml#b0057_11)
+13. [Freundliche Nachbarn.](ch005.xhtml#b0057_11) Skizzen des Verfassers.
+14. [Einer der Häuptlinge.](ch005.xhtml#b0058_14) Skizze des Verfassers.
 15. Meine Lastyaks.
 16. Tibetische Führer.
 17. Mein Zelt.
