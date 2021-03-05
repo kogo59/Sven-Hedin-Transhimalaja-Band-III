@@ -122,10 +122,10 @@ Von der Tschiu-Quelle aus erblickt man in Nordost den leicht zu
 ersteigenden, flachen Paß Pele-rakpa--la, von welchem ich schon früher
 gehört hatte. Auf seiner andern Seite liegt das Tal des Lang-tschuflusses.
 Am Abend herrschte eine heitere Stimmung unter meinen Leuten.
-Prächtige Feuer loderten und sprühten zwischen den Dickichten der Ombo-
-sträucher, und in ihre Schafspelze gehüllt saßen die Männer in Gruppen
-so dicht wie möglich am flackernden Feuer. Die braunen, wetter-
-harten Gesichter glänzten vor Freude bei dem Gedanken an das nahe
+Prächtige Feuer loderten und sprühten zwischen den Dickichten der
+Ombosträucher, und in ihre Schafspelze gehüllt saßen die Männer in Gruppen
+so dicht wie möglich am flackernden Feuer. Die braunen,
+wetterharten Gesichter glänzten vor Freude bei dem Gedanken an das nahe
 Ladak. Scharf gelb und rot beleuchtet, stachen die halbwilden Gestalten
 grell gegen die hinter ihnen herrschende schwarze Nacht ab. Man merkte,
 daß der Winter ernstlich seine Hand auf die Erde gelegt hatte.
@@ -133,8 +133,8 @@ Schon um neun Uhr hatten wir 16,<small>6</small> Grad unter Null, eine grimmige
 Kälte nach dem warmen Tage. Die Luft war in völligem Gleichgewicht;
 die Flamme meines Lichtes zitterte nicht ein bißchen, die Zeltleinwand
 hing schlaff und regungslos, und von den Lagerfeuern stieg der Rauch
-kerzengerade zu den Sternen empor. Über den Bergen schwebte die Mond-
-scheibe an einem kaltblauen Winterhimmel; wir sollten auf dem ganzen
+kerzengerade zu den Sternen empor. Über den Bergen schwebte die
+Mondscheibe an einem kaltblauen Winterhimmel; wir sollten auf dem ganzen
 Wege nach Ladak Abendbeleuchtung haben.
 
 Als ich nach 23,<small>2</small> Grad Kälte in der Nacht in das helle Licht des
@@ -152,12 +152,12 @@ ausgemeißelt die heiligen Worte ihre stille Sprache sprechen.
 Weiter vorwärts wird der Boden sandig und höckerig infolge der
 vielen Grasbüschel; der Weg zieht sich längs des Fußes der Schuttkegel
 der Ladakkette hin. Diese Kegel breiten sich von den Mündungen der
-Nebentäler aus und lösen einander, soweit der Blick reicht, wechsel-
-weise auf beiden Seiten des Haupttales ab. Zwischen ihrem vorderen
+Nebentäler aus und lösen einander, soweit der Blick reicht,
+wechselweise auf beiden Seiten des Haupttales ab. Zwischen ihrem vorderen
 Rande beträgt die Breite des ebenen Talgrundes gegen 10-15
 Kilometer. Die dunklen Felsengiebel, welche die Ladakkette nach dem Haupttale
 ausschickt, bilden eine unendliche Perspektive bis in eine weite Ferne,
-wo sie in. immer leichter und heller werdenden Farbentönen verschwimmen.
+wo sie in immer leichter und heller werdenden Farbentönen verschwimmen.
 Zwischen ihnen gähnen die kurzen, engen und finsteren Schluchten der
 Quertäler. Da wir oben auf der linken Uferterrasse reiten, befinden
 wir uns auf höherem Niveau als dem des Flusses, über dessen
@@ -228,8 +228,8 @@ aufgeschlagen.
 Daß es keine leichte Sache sein würde, konnte ich mir sagen; denn
 der Gartong-Arm war, eine schmale Rinne in der Mitte abgerechnet, fest
 zugefroren. In dem Eise an unserm Ufer wurde ein Hafen aufgehauen
-und dann die Eisbrücke vom Boote aus mit Spaten und Beilen an-
-gegriffen. Wir bedurften eines offenen Durchganges, um Tiefe und
+und dann die Eisbrücke vom Boote aus mit Spaten und Beilen
+angegriffen. Wir bedurften eines offenen Durchganges, um Tiefe und
 Stromgeschwindigkeit ungehindert messen zu können. Kaum aber war
 unsere Rinne fertig, so trieben von oben her gewaltige Eisschollen heran,
 die den Durchgang ärger als vorher verstopften. Das Boot wäre
@@ -262,16 +262,17 @@ Schlammbank vermehrte die Wassermasse auf 6,<small>670</small> Kubikmeter.
 :::: {.wrap-100 .break-before }
 ![17. Mein Zelt. (S 24.)](Transhimalaja_Vol_III_67b.jpg "Mein Zelt."){#b0067_17}
 ::::
+
 Der Singi-kamba war beim Zusammenfluß in zwei Arme geteilt,
 und es hatte den Anschein, als ob dieser Fluß nach ergiebigen
 Niederschlägen ein ausgedehntes Delta bilden könne, während der Gartong
 stets in einer schmalen Rinne zusammengepreßt ist. Der obere Ast des
 Singi-kamba hatte folgende Dimensionen: Breite 27,<small>5</small> Meter,
 Durchschnittstiefe 0,<small>304</small> Meter, Maximaltiefe 0,<small>510</small> Meter,
-Durchschnittsgeschwindigkeit 0,<small>678</small> Meter und Wassermenge 5,<small>670</small>
+Durchschnittsgeschwindigkeit 0,<small>678</small>&nbsp;Meter und Wassermenge 5,<small>670</small>
 Kubikmeter in der Sekunde. Die Dimensionen des untern Armes waren: Breite
 32,<small>7</small> Meter, mittlere Tiefe 0,<small>288</small> Meter, Maximaltiefe
-0,<small>480</small> Meter, Durchschnittsgeschwindigkeit 0,<small>437</small> Meter
+0,<small>480</small> Meter, Durchschnittsgeschwindigkeit 0,<small>437</small>&nbsp;Meter
 und Wassermenge 4,<small>110</small> Kubikmeter in der Sekunde.
 Der ganze Fluß führte also 9,<small>780</small> Kubikmeter Wasser und war demnach
 gut 3 Kubikmeter stärker als der Gartong.
@@ -323,7 +324,6 @@ beleuchteten Partien gerade gegenüber sind nur schwach sichtbar. Zwischen
 beiden scheint der ganze Talgrund voller Wasser zu sein, und das Treibeis
 gleitet dahin wie ein bewegliches Trottoir aus Glasscherben und
 glänzendem Porzellan.
-
 
 :::
 

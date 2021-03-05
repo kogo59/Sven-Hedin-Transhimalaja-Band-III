@@ -99,13 +99,13 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 12. [Freundliche Nachbarn.](ch005.xhtml#b0057_11)
 13. [Freundliche Nachbarn.](ch005.xhtml#b0057_11) Skizzen des Verfassers.
 14. [Einer der Häuptlinge.](ch005.xhtml#b0058_14) Skizze des Verfassers.
-15. Meine Lastyaks.
-16. Tibetische Führer.
-17. Mein Zelt.
-18. Lager im Transhimalaja.
-19. Reityak.
-20. Gäste bei meinem Zelt.
-21. Mein Zelt wird eingepackt.
+15. [Meine Lastyaks.](ch006.xhtml#b0067_15)
+16. [Tibetische Führer.](ch006.xhtml#b0067_16)
+17. [Mein Zelt.](ch006.xhtml#b0067_17)
+18. [Lager im Transhimalaja.](ch007.xhtml#b0077_18)
+19. [Reityak.](ch007.xhtml#b0077_19)
+20. [Gäste bei meinem Zelt.](ch007.xhtml#b0077_20)
+21. [Mein Zelt wird eingepackt.](ch007.xhtml#b0077_21)
 22. Rast unterwegs auf einem Passe.
 23. Thakur Jaj Chand, der englischindische Agent in Gartok, von einigen seiner Diener umgeben.
 24. Lastyats.

@@ -256,7 +256,7 @@ Male gehört, wurde aber nie ihrer sehnsuchtsvollen Klänge überdrüssig.
 Achtzehn Grad Kälte in der Nacht auf den 18. September! Das ist
 schlimm, so früh im Herbst! Hat man sich nicht in Verteidigungszustand gesetzt,
 wenn man ins Bett gekrochen ist, so wird man bald durch die schleichende
-Bodenkälte daran erinnert, daß es nötig ist, sich mit den Pelzen zuzudecken.
+Bodenkälte daran erinnert daß es nötig ist, sich mit den Pelzen zuzudecken.
 Der Tümpel war mit spiegelblankem Eise überzogen. Die Luft war klar
 und windstill, und die Sonne ging strahlend auf. Schon um 7 Uhr
 hatten wir 3,<small>4</small> Grad über Null und um 1 Uhr 18,<small>2</small>

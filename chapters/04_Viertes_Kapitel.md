@@ -127,7 +127,7 @@ es in der Gegend viele Wölfe und Luchse gebe.
 Nach den schaurigen Höhen mit ihrer Kälte und ihren Winden war
 es ein schönes Gefühl, in Dunglung-sumbo (5171 Meter) vom Pferde
 steigen zu können, wo uns das Lager 250 erwartete und das Kohlenbecken
-wohltuende Wärme in meinem Zelte verbreitete (Abb. 16, 17).
+wohltuende Wärme in meinem Zelte verbreitete (Abb. [16](ch006.xhtml#b0067_16), [17](ch006.xhtml#b0067_17)).
 Wir waren um 654 Meter tiefer gelangt, und gerade hier mündete das
 Tal Lasar, das sich von dem dritten Passe, dem Lasar-la, herabzieht.
 

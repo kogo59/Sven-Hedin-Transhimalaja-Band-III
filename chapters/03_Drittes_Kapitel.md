@@ -205,12 +205,12 @@ war höchstens 41 Zentimeter tief, und seine Durchschnittsgeschwindigkeit
 betrug 66 Zentimeter in der Sekunde.
 
 Am Morgen des 22. September grunzten sieben starke Yaks im
-Lager (Abb. 15). Einige wurden beladen, die andern sollten geritten
+Lager ([Abb. 15](ch006.xhtml#b0067_15)). Einige wurden beladen, die andern sollten geritten
 werden, und ich selbst erhielt ein ausgeruhtes Pferd. Die Rupien klimperten in
 den schwarzen Tatzen der wettergebräunten Bergbewohner, die
 Nomaden von Gjekung zogen ihres Weges, um wieder in ihre Heimat
 zurückzukehren. Ich sagte allen freundlich Lebewohl und mit zwei jungen
-Führern (Abb. 16) patschten wir durch den ruhmreichen Fluß, der hier,
+Führern ([Abb. 16](ch006.xhtml#b0067_16)) patschten wir durch den ruhmreichen Fluß, der hier,
 in der Nähe seiner Quelle, so bescheiden und dort, wo seine ungeheueren
 Wassermassen über die Ebene am Fuße des Himalaja hinrollen, so
 gigantisch ist.
@@ -248,7 +248,7 @@ bestrahlten Firnfelder scheinen wie weiße Wölkchen am Rande des Horizontes zu 
 Der Wind hat aufgehört. Es ist mir, als ob etwas Gewohntes fehle.
 Schwer liegt das Schweigen über den Bergen. Der Weltenraum, die
 unendliche Leere wacht draußen vor meinem Zelt. Noch unterhalten sich
-meine Leute mit halblauter Stimme. Die Yaks (Abb. 14) stehen an
+meine Leute mit halblauter Stimme. Die Yaks ([Abb. 14](ch005.xhtml#b0058_14) stehen an
 einem Taue angepflöckt und knirschen ab und zu mit den Zähnen gegen
 die hornigen Schwielen. Gelegentlich ertönt Hundegebell, und manchmal
 knistert es in der Dungglut, wenn das Feuer wieder aufflackert.
@@ -319,8 +319,8 @@ wächst. Der Rauch steigt einladend aus den Spalten eines halben
 Dutzend schwarzer Zelte, und zwei indische Wollkarawanen halten auf
 dem Platze Rast.
 
-Sobald mein Zelt im Lager 248 fertig ist (Abb. 17-21), lasse ich
-mir die Hindus zur Befragung rufen. Sie sind aus Rampur und haben
+Sobald mein Zelt im Lager 248 fertig ist (Abb. [17](ch006.xhtml#b0067_17)-[21](ch007.xhtml#b0077_21)),
+lasse ich mir die Hindus zur Befragung rufen. Sie sind aus Rampur und haben
 in Gerke Wolle gekauft. Diese sollte auf 500 Schafen, die sie ebenfalls
 in Gerke erstanden hatten, nach Gartok und Indien befördert werden.
 Für jedes Schaf hatten sie zwei Rupien bezahlt. Es sollen jährlich
