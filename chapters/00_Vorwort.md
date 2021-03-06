@@ -106,9 +106,9 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 19. [Reityak.](ch007.xhtml#b0077_19)
 20. [Gäste bei meinem Zelt.](ch007.xhtml#b0077_20)
 21. [Mein Zelt wird eingepackt.](ch007.xhtml#b0077_21)
-22. Rast unterwegs auf einem Passe.
-23. Thakur Jaj Chand, der englischindische Agent in Gartok, von einigen seiner Diener umgeben.
-24. Lastyats.
+22. [Rast unterwegs auf einem Passe.](ch008.xhtml#b0087_22)
+23. [Thakur Jaj Chand, der englischindische Agent in Gartok, von einigen seiner Diener umgeben.](ch008.xhtml#b0087_23)
+24. [Lastyaks.](ch008.xhtml#b0087_24)
 25. Lager im Industal.
 26. Kleinpuppy hält Wache.
 27. Roberts Probefahrt auf dem Indus.

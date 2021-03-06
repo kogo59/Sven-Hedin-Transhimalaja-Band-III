@@ -92,7 +92,7 @@ Reise überschritten hatte! Der allerhöchste war der Ding-la mit seinen
 5885 Metern.
 
 Mit Wohlbehagen packt man nach einem solchen Zusammenstoße mit
-dem Winde seine Geräte wieder ein (Abb. 22). Ich war zu steif, um
+dem Winde seine Geräte wieder ein ([Abb. 22](ch008.xhtml#b0087_22)). Ich war zu steif, um
 reiten zu können, und ging zu Fuß, um meine Glieder wieder geschmeidig
 zu machen. Schnell kann man hier nicht gehen, denn die Luft wird hier
 knapp und das Herz klopft, als ob es bersten wolle. Bald nehme ich
@@ -177,7 +177,7 @@ würde doch hineinziehen. Sogar der Winter würde mir Hindernisse in
 den Weg legen. Dann muß also die neue Karawane durch Schneemassen
 hindurchmarschieren, um ihr Ziel zu erreichen und die weißen Stellen
 auszufüllen, die noch den mittleren Teil der Karte des Transhimalaja bedecken.
-In meiner freien Zeit besuchte ich neue und alte Freunde (Abb. 23).
+In meiner freien Zeit besuchte ich neue und alte Freunde ([Abb. 23](ch008.xhtml#b0087_23)).
 Der hauptsächlichste unter den letzteren war der große Kaufmann Gulam
 Rasul, dem ich später beim Vizekönig von Indien den Ehrentitel Khan
 Bahadur auswirkte. Er war es, der meine neue Karawane zusammenstellte
@@ -291,7 +291,7 @@ ein bedeutend milderes Klima und gewöhnlich nur wenig Schnee.
 Der Abwechslung halber beschloß ich, mein Lager nach Gar-gunsa zu
 verlegen. Zu einer Abschiedsvisite bei den Vizekönigen kam es nicht. Der eine war
 krank, der andere hatte es nicht für nötig gehalten, mir meinen Antrittsbesuch
-zu erwidern. Mit Lastyaks (Abb. 24) mußte er mich jedoch versehen, und
+zu erwidern. Mit Lastyaks ([Abb. 24](ch008.xhtml#b0087_24)) mußte er mich jedoch versehen, und
 zwei seiner Leute sollten mich auf dem ganzen Wege nach der Grenze von Ladak
 begleiten, um aufzupassen, daß ich nicht auf verbotenen Wegen durchbrannte!
 

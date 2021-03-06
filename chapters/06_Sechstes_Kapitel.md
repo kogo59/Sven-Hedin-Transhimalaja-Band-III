@@ -24,7 +24,7 @@ Boden des Industals auftaucht. Das Ganze erinnert lebhaft an das
 Dorf Jesdekast in Persien und an die befestigten Felsendörfer im westlichen
 Transkaukasien. Von Osten hat man den besten Überblick über die
 Klostergebäude; hier liegt auch am Fuße des Hügels das kleine ärmliche Dorf
-Taschi-gang^[^0213]^ mit seinen zwanzig niedrigen Steinhütten, die mit Reisig
+Taschi-gang^[^0313]^ mit seinen zwanzig niedrigen Steinhütten, die mit Reisig
 gedeckt sind.
 
 Während die Zelte am linken Indusufer im Lager 258 aufgeschlagen
@@ -351,6 +351,6 @@ und Geister ihr Spiel trieben?
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
-[^0213]: [*Taschi-gang*:  vergleiche [Zhaxigang](https://de.wikipedia.org/wiki/Zhaxigang)]{.footnote}
+[^0313]: [*Taschi-gang*:  vergleiche [Zhaxigang](https://de.wikipedia.org/wiki/Zhaxigang)]{.footnote}
 
 [^0214]: [*Tsongkapa*:  vergleiche [Tsongkhapa](https://de.wikipedia.org/wiki/Tsongkhapa)]{.footnote}
