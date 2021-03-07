@@ -109,11 +109,11 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 22. [Rast unterwegs auf einem Passe.](ch008.xhtml#b0087_22)
 23. [Thakur Jaj Chand, der englischindische Agent in Gartok, von einigen seiner Diener umgeben.](ch008.xhtml#b0087_23)
 24. [Lastyaks.](ch008.xhtml#b0087_24)
-25. Lager im Industal.
-26. Kleinpuppy hält Wache.
-27. Roberts Probefahrt auf dem Indus.
-28. Aussicht aus dem Industal nach Nordwesten.
-29. Ladakkette südlich des Indus.
+25. [Lager im Industal.](ch009.xhtml#b0097_25)
+26. [Kleinpuppy hält Wache.](ch009.xhtml#b0097_26)
+27. [Roberts Probefahrt auf dem Indus.](ch009.xhtml#b0097_27)
+28. [Aussicht aus dem Industal nach Nordwesten.](ch009.xhtml#b0097_28)
+29. [Ladakkette südlich des Indus.](ch009.xhtml#b0097_29)
 30. In Gar-gunsa.
 31. Aus dem Lager in Gar-gunsa.
 32. Kloster Gar-gunsa.

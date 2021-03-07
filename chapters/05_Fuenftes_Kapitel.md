@@ -12,7 +12,7 @@ jetzt wieder breit und offen; der Gar-tschu, an dessen Ufer wir hinziehen,
 gleitet nicht so lautlos dahin, wie er es weiter oben getan, sondern
 rauscht leise und bildet kleine Stromschnellen, die größeres Gefälle verraten.
 
-Feierlich und still wie ein Sonntag liegt das Tal vor uns (Abb. 28);
+Feierlich und still wie ein Sonntag liegt das Tal vor uns ([Abb. 28](ch009.xhtml#b0097_28));
 Menschen und Herden fehlen, alles ist tot und still und so verlassen, als ob
 feindliche Heere verwüstend durch das Land gezogen seien. Eine
 Manimauer und die Straße nach Ladak sind die einzigen Zeichen, die von
@@ -25,8 +25,8 @@ Im Hintergrunde des auf der linken Seite einmündenden Nebentals
 Schinkar erhebt sich ein dunkles Bergmassiv mit schneebedecktem Gipfel
 — ein flüchtiger Schimmer des gewaltigen Kammes, dem wir bis nach
 Ladak folgen und den die englischen Topographen die Ladakkette genannt
-haben (Abb. 29). Sie bildet die Wasserscheide zwischen Indus und Satledsch.
-In früheren Zeiten sind ihre Abhänge und steilen Wände von ungeheueren
+haben ([Abb. 29](ch009.xhtml#b0097_29)). Sie bildet die Wasserscheide zwischen Indus
+und Satledsch. In früheren Zeiten sind ihre Abhänge und steilen Wände von ungeheueren
 Regengüssen bespült worden. Davon zeugen noch die 50 Meter hohen
 Flußterrassen, die wir an der Mündung des Schinkartales erblicken.
 

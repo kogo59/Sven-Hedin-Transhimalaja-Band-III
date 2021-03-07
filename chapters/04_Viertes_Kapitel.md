@@ -330,14 +330,14 @@ hinunter.
 Das Tal verschmälert sich. Himalaja und Transhimalaja reichen
 einander die Hand. Vor uns zeigt sich ein schmaler Durchgang, den der
 Fluß ausgeschnitten hat. Nima-lung heißt diese Passage; dort schlagen
-wir im Lager 252 unsere Zelte auf (Abb. 25, 26). Hier hatten sich alle
-Arme zu einem Flusse vereinigt, dessen Wasser zwischen 20 und 30 Meter
+wir im Lager 252 unsere Zelte auf (Abb. [25](ch009.xhtml#b0097_25), [26](ch009.xhtml#b0097_26)).
+Hier hatten sich alle Arme zu einem Flusse vereinigt, dessen Wasser zwischen 20 und 30 Meter
 hohen Terrassen unter langsamem Saugen in den Engpaß hineinglitt. Wenn
 der Fluß sich nicht unterhalb der engen Stelle wieder zersplitterte, könnte
 ich mit dem Strome nach Gargunsa hinuntertreiben. Der junge Eurasier
 Alexander Robert, der mich in Gartok erwartet hatte, war auf dem
-heiligen See ein geschickter Bootsmann geworden (Abb. 27). Er konnte das
-Boot steuern, während ich den Flußlauf auf meiner Karte eintrug. Eine
+heiligen See ein geschickter Bootsmann geworden ([Abb. 27](ch009.xhtml#b0097_27).
+Er konnte das Boot steuern, während ich den Flußlauf auf meiner Karte eintrug. Eine
 Kartenaufnahme des Tales war schon von Engländern gemacht worden,
 aber der Fluß mit allen seinen Windungen war darin nicht angegeben.
 
