@@ -114,17 +114,17 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 27. [Roberts Probefahrt auf dem Indus.](ch009.xhtml#b0097_27)
 28. [Aussicht aus dem Industal nach Nordwesten.](ch009.xhtml#b0097_28)
 29. [Ladakkette südlich des Indus.](ch009.xhtml#b0097_29)
-30. In Gar-gunsa.
-31. Aus dem Lager in Gar-gunsa.
-32. Kloster Gar-gunsa.
-33. Mein Zelt mit dem Sonnensegel.
-34. Lastyaks auf dem Marsch.
-35. Lager am Indus.
-36. Dorf Langmar.
-37. An der Vereinigung beider Indusarme.
-38. Industal bei Taschi-gang.
-39. Kloster Taschi--gang.
-40. Tschorten bei Taschi-gang.
+30. [In Gar-gunsa.](ch009.xhtml#b0106_30)
+31. [Aus dem Lager in Gar-gunsa.](ch009.xhtml#b0097_31)
+32. [Kloster Gar-gunsa.](ch009.xhtml#b0097_32)
+33. [Mein Zelt mit dem Sonnensegel.](ch009.xhtml#b0097_33)
+34. [Lastyaks auf dem Marsch.](ch009.xhtml#b0097_34)
+35. [Lager am Indus.](ch009.xhtml#b0117_35)
+36. [Dorf Langmar.](ch009.xhtml#b0117_36)
+37. [An der Vereinigung beider Indusarme.](ch009.xhtml#b0117_36)
+38. [Industal bei Taschi-gang.](ch009.xhtml#b0117_38)
+39. [Kloster Taschi-gang.](ch009.xhtml#b0117_39)
+40. [Tschorten bei Taschi-gang.](ch009.xhtml#b0117_40)
 41. Kloster Taschi-gang.
 42. Kloster Taschi-gang.
 43. Kloster Taschi-gang.

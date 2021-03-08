@@ -56,7 +56,8 @@ oder Sumpfstellen bedeckt ist. Hier weiden eine Menge Yaks
 und Pferde, und man merkt, daß der Winterumzug von Gartok hierher
 begonnen hat.
 
-In Gar-gunsa nahm mein langes Warten endlich ein Ende (Abb. 30—33).
+In Gar-gunsa nahm mein langes Warten endlich ein Ende
+(Abb. [30](ch009.xhtml#b0106_30)—[33](ch009.xhtml#b0097_33)).
 Die Post kam aus Indien mit Proviant, Geld, Waffen und
 Munition, und am 9. November konnte ich nach Ladak aufbrechen. —
 
@@ -64,7 +65,7 @@ Nun ist die Karawane wieder groß und stattlich; wie eine schwarze
 Schlange windet sie sich über den grauen Boden. In Gar-gunsa hatte ich
 von Gulam Rasul Maulesel gekauft. Sie durften unbeladen gehen, weil
 sie ihre Kräfte zu dem harten Winterfeldzug, der ihrer im Norden wartete,
-schonen sollten. Unser sämtliches Gepäck tragen gemietete Yaks (Abb. 34),
+schonen sollten. Unser sämtliches Gepäck tragen gemietete Yaks ([Abb. 34](ch009.xhtml#b0097_34)),
 und die tibetische Eskorte, zwei Reiter aus der Garde der Garpune aus
 Gartok, ordnet alles an den Lagerplätzen. Streng genommen begleiten
 sie uns, um unsere Bewegungen zu überwachen; aber das ist mir einerlei,
@@ -172,7 +173,7 @@ Geographie Tibets; die Ladakkette wegen der Rolle, die sie als
 Wasserscheide spielt, und der Transhimalaja als das eigentliche
 Randgebirge des Hochlandes.
 
-Das Haupttal ist merkwürdig gerade (Abb. 35). Daher konnte der
+Das Haupttal ist merkwürdig gerade ([Abb. 35](ch009.xhtml#b0117_35)). Daher konnte der
 Blick von einem hohen Schuttkegel aus weit nach Nordwesten schweifen, bis
 weit über Demtschok und die Westgrenze Tibets hinweg nach den rosigen
 und braunroten Gebirgen, die in Ladak liegen. Jenseits dieser Berge
@@ -186,7 +187,7 @@ heraustritt, um sich mit dem Gar-tschu zu vereinigen. Dort erweitert
 sich das Haupttal zu einer wirklichen Ebene, die von Gras gelb schillert
 und von Sträuchern braungefleckt ist.
 
-Bald sind wir in dem kleinen Dorfe Langmar (Abb. 36)
+Bald sind wir in dem kleinen Dorfe Langmar ([Abb. 36](ch009.xhtml#b0117_36))
 angelangt, wo sechs bis sieben Familien in schwarzen Zelten wohnen, die
 zum Schutze gegen Wind und Kälte mit Reisighecken umzäunt sind. Um
 sich der bösen Geister, die in der Luft hausen, zu erwehren, haben sie
@@ -206,7 +207,8 @@ vermischen. Der Gartong oder Gar--tschu strömte langsam und ruhig
 dahin, aber der Singi-kamba eilte reißend und lebensfroh aus seinem
 Tore im Transhimalaja heraus. Auf dem Graswalle am linken Ufer
 des Gartong schlugen wir im Lager 257 unsere Zelte auf. Ich hatte eine
-ebenso hübsche wie ungewohnte Aussicht über weite, eisbedeckte Wasserflächen (Abb. 37).
+ebenso hübsche wie ungewohnte Aussicht über weite, eisbedeckte Wasserflächen
+([Abb. 37](ch009.xhtml#b0117_36)).
 
 Nun galt es, die Wassermenge der beiden Flüsse zu messen.
 Vielleicht wird der Leser eine solche Arbeit ziemlich unnötig und uninteressant

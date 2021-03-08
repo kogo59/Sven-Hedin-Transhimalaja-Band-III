@@ -272,6 +272,7 @@ besser in ihrer Hand hatten.
 
 So zog ich denn westwärts am Teri-nam-tso vorbei über den
 5570 Meter hohen Paß Lunkar-la und drang schließlich am Ngangla-ring-tso in
+
 Gegenden ein, über welche die Punditen nur einige
 außerordentlich dürftige, unbestimmte Gerüchte gesammelt hatten. Das Kloster
 Selipuk^[^1000]^ ist der Hauptort in diesem Teile Tibets.
@@ -292,7 +293,6 @@ See, entfernt.
 
 Dem Wege zwischen Selipuk und Simla^[^0393]^ sind die folgenden Kapitel
 gewidmet.
-
 
 :::
 

@@ -29,7 +29,7 @@ gedeckt sind.
 
 Während die Zelte am linken Indusufer im Lager 258 aufgeschlagen
 wurden, machte ich einen Spaziergang um die eigentümliche Lamaburg
-herum (Abb. 38—44). Ihre schmutzig graugelben und roten Mauern
+herum (Abb. [38](ch009.xhtml#b0117_38)—44). Ihre schmutzig graugelben und roten Mauern
 neigen sich schwach pyramidenförmig nach innen; zu oberst, unter der
 Dachleiste, läuft ein breiter hagebuttenroter Rand entlang. Auch die
 Fenster haben farbige Rahmen, die in Rot gehalten sind. Der Lhakang
