@@ -85,53 +85,54 @@ anspruchslosen Nomaden.
 
 Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell des Verfassers. Titelbild.
 
-1. [Die Indusquelle.](ch002.xhtml#b0027_1)
-2. [Manimauer.](ch002.xhtml#b0027_2) Skizzen des Verfassers.
-3. [Pema Tense, mein Führer zur Indusquelle und nach Jumba-matsen.](ch002.xhtml#b0027_3) Skizze des Verfassers.
-4. [Augenblicksbilder aus dem Lager.](ch003.xhtml#b0036_4) Skizzen des Verfassers.
-5. [Transport von Schafwolle.](ch003.xhtml#b0037_5)
-6. [Nomaden unterwegs.](ch003.xhtml#b0037_6)
-7. [Nomade aus Jumba-matsen.](ch004.xhtml#b0046_7) Skizze des Verfassers.
-8. [Nomadenzelt.](ch004.xhtml#b0047_8)
-9. [Neugierige bei meinem Aufbruch.](ch004.xhtml#b0047_9)
-10. [Neugierige bei meinem Aufbruch.](ch004.xhtml#b0047_10)
-11. [Freundliche Nachbarn.](ch005.xhtml#b0057_11)
-12. [Freundliche Nachbarn.](ch005.xhtml#b0057_11)
-13. [Freundliche Nachbarn.](ch005.xhtml#b0057_11) Skizzen des Verfassers.
-14. [Einer der Häuptlinge.](ch005.xhtml#b0058_14) Skizze des Verfassers.
-15. [Meine Lastyaks.](ch006.xhtml#b0067_15)
-16. [Tibetische Führer.](ch006.xhtml#b0067_16)
-17. [Mein Zelt.](ch006.xhtml#b0067_17)
-18. [Lager im Transhimalaja.](ch007.xhtml#b0077_18)
-19. [Reityak.](ch007.xhtml#b0077_19)
-20. [Gäste bei meinem Zelt.](ch007.xhtml#b0077_20)
-21. [Mein Zelt wird eingepackt.](ch007.xhtml#b0077_21)
-22. [Rast unterwegs auf einem Passe.](ch008.xhtml#b0087_22)
-23. [Thakur Jaj Chand, der englischindische Agent in Gartok, von einigen seiner Diener umgeben.](ch008.xhtml#b0087_23)
-24. [Lastyaks.](ch008.xhtml#b0087_24)
-25. [Lager im Industal.](ch009.xhtml#b0097_25)
-26. [Kleinpuppy hält Wache.](ch009.xhtml#b0097_26)
-27. [Roberts Probefahrt auf dem Indus.](ch009.xhtml#b0097_27)
-28. [Aussicht aus dem Industal nach Nordwesten.](ch009.xhtml#b0097_28)
-29. [Ladakkette südlich des Indus.](ch009.xhtml#b0097_29)
-30. [In Gar-gunsa.](ch009.xhtml#b0106_30)
-31. [Aus dem Lager in Gar-gunsa.](ch009.xhtml#b0097_31)
-32. [Kloster Gar-gunsa.](ch009.xhtml#b0097_32)
-33. [Mein Zelt mit dem Sonnensegel.](ch009.xhtml#b0097_33)
-34. [Lastyaks auf dem Marsch.](ch009.xhtml#b0097_34)
-35. [Lager am Indus.](ch009.xhtml#b0117_35)
-36. [Dorf Langmar.](ch009.xhtml#b0117_36)
-37. [An der Vereinigung beider Indusarme.](ch009.xhtml#b0117_36)
-38. [Industal bei Taschi-gang.](ch009.xhtml#b0117_38)
-39. [Kloster Taschi-gang.](ch009.xhtml#b0117_39)
-40. [Tschorten bei Taschi-gang.](ch009.xhtml#b0117_40)
-41. Kloster Taschi-gang.
-42. Kloster Taschi-gang.
-43. Kloster Taschi-gang.
-44. Kloster Taschi-gang. Skizzen des Verfassers.
-45. Lager in Demtschok.
-46. Demtschok.
-47. Eisbrücke über den Indus. Bunte Tafel. Tibetische Modelle. Aquarelle des Verfassers.
+1. [Die Indusquelle.](ch004.xhtml#b0027_1)
+2. [Manimauer.](ch004.xhtml#b0027_2) Skizzen des Verfassers.
+3. [Pema Tense, mein Führer zur Indusquelle und nach Jumba-matsen.](ch004.xhtml#b0027_3) Skizze des Verfassers.
+4. [Augenblicksbilder aus dem Lager.](ch005.xhtml#b0036_4) Skizzen des Verfassers.
+5. [Transport von Schafwolle.](ch005.xhtml#b0037_5)
+6. [Nomaden unterwegs.](ch005.xhtml#b0037_6)
+7. [Nomade aus Jumba-matsen.](ch006.xhtml#b0046_7) Skizze des Verfassers.
+8. [Nomadenzelt.](ch006.xhtml#b0047_8)
+9. [Neugierige bei meinem Aufbruch.](ch006.xhtml#b0047_9)
+10. [Neugierige bei meinem Aufbruch.](ch006.xhtml#b0047_10)
+11. [Freundliche Nachbarn.](ch007.xhtml#b0057_11)
+12. [Freundliche Nachbarn.](ch007.xhtml#b0057_11)
+13. [Freundliche Nachbarn.](ch007.xhtml#b0057_11) Skizzen des Verfassers.
+14. [Einer der Häuptlinge.](ch007.xhtml#b0058_14) Skizze des Verfassers.
+15. [Meine Lastyaks.](ch008.xhtml#b0067_15)
+16. [Tibetische Führer.](ch008.xhtml#b0067_16)
+17. [Mein Zelt.](ch008.xhtml#b0067_17)
+18. [Lager im Transhimalaja.](ch009.xhtml#b0077_18)
+19. [Reityak.](ch009.xhtml#b0077_19)
+20. [Gäste bei meinem Zelt.](ch009.xhtml#b0077_20)
+21. [Mein Zelt wird eingepackt.](ch009.xhtml#b0077_21)
+22. [Rast unterwegs auf einem Passe.](ch010.xhtml#b0087_22)
+23. [Thakur Jaj Chand, der englischindische Agent in Gartok, von einigen seiner Diener umgeben.](ch010.xhtml#b0087_23)
+24. [Lastyaks.](ch010.xhtml#b0087_24)
+25. [Lager im Industal.](ch011.xhtml#b0097_25)
+26. [Kleinpuppy hält Wache.](ch011.xhtml#b0097_26)
+27. [Roberts Probefahrt auf dem Indus.](ch011.xhtml#b0097_27)
+28. [Aussicht aus dem Industal nach Nordwesten.](ch011.xhtml#b0097_28)
+29. [Ladakkette südlich des Indus.](ch011.xhtml#b0097_29)
+30. [In Gar-gunsa.](ch011.xhtml#b0106_30)
+31. [Aus dem Lager in Gar-gunsa.](ch011.xhtml#b0097_31)
+32. [Kloster Gar-gunsa.](ch011.xhtml#b0097_32)
+33. [Mein Zelt mit dem Sonnensegel.](ch011.xhtml#b0097_33)
+34. [Lastyaks auf dem Marsch.](ch011.xhtml#b0097_34)
+35. [Lager am Indus.](ch011.xhtml#b0117_35)
+36. [Dorf Langmar.](ch011.xhtml#b0117_36)
+37. [An der Vereinigung beider Indusarme.](ch011.xhtml#b0117_36)
+38. [Industal bei Taschi-gang.](ch011.xhtml#b0117_38)
+39. [Kloster Taschi-gang.](ch011.xhtml#b0117_39)
+40. [Tschorten bei Taschi-gang.](ch011.xhtml#b0117_40)
+41. [Kloster Taschi-gang.](ch012.xhtml#b0127_41)
+42. [Kloster Taschi-gang.](ch012.xhtml#b0127_41)
+43. [Kloster Taschi-gang.](ch012.xhtml#b0127_41)
+44. [Kloster Taschi-gang.](ch012.xhtml#b0127_41) Skizzen des Verfassers.
+45. [Lager in Demtschok.](ch012.xhtml#b0127_45)
+46. [Demtschok.](ch012.xhtml#b0127_46)
+47. [Eisbrücke über den Indus.](ch012.xhtml#b0127_47)
+* Bunte Tafel. Tibetische Modelle. Aquarelle des Verfassers.
 48. Tsake-la.
 49. Unterwegs nach Tschuschl.
 50. Tänzerinnen in Tschuschul. Skizzen des Verfassesrs.

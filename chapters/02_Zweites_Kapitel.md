@@ -110,7 +110,7 @@ Der Häuptling von Jumba-matsen besitzt 500 Schafe, seine ganze
 Zeltgenossenschaft 8000. 200 Yaks und 15 Pferde gehören auch zu
 seinen Untertanen. Mitte August werden die Schafe geschoren und die
 Wolle an Händler verkauft, die aus Ladak und von der indischen Grenze
-herkommen ([Abb. 5](ch003.xhtml#b0037_5)). Ein großes Schaf bringt eine halbe Rupie ein.
+herkommen ([Abb. 5](ch005.xhtml#b0037_5)). Ein großes Schaf bringt eine halbe Rupie ein.
 Am Tso-mavang ist die Wolle teurer, aber dort fällt für den Abnehmer
 auch ein großer Teil der Beförderungskosten weg.
 
@@ -195,7 +195,7 @@ Nach einer kalten Nacht brach der 17. September an. Schwer und
 langsam schritten vierzig vollbeladene Yaks talabwärts. Es war eine
 neue, aus vier Zeltgemeinschaften bestehende Genossenschaft, die aus
 Jumba-matsen nach der Mündung eines weiter abwärts liegenden Nebentales
-übersiedelte (Abb. [6](ch003.xhtml#b0037_6)—[8](ch003.xhtml#b0047_8)). Jede Zeltgenossenschaft hat ihren
+übersiedelte (Abb. [6](ch005.xhtml#b0037_6)—[8](ch005.xhtml#b0047_8)). Jede Zeltgenossenschaft hat ihren
 eigenen Lagerplatz, und da, wo man sich unverbrüchlich dem alten Herkommen fügt,
 kommt es nicht zu Weidestreitigkeiten.
 
@@ -216,7 +216,7 @@ polierte Bronze.
 
 So sagten wir denn den freundlichen Nomaden des Gijekungtals
 Lebewohl und zogen auf dem Wege, den wir gekommen waren,
-wieder talabwärts (Abb. [9](ch004.xhtml#b0047_9), [10](ch004.xhtml#b0047_10)).
+wieder talabwärts (Abb. [9](ch006.xhtml#b0047_9), [10](ch006.xhtml#b0047_10)).
 Bei den Seen aber schwenkten wir nach Westen ab und ließen unsere alte Straße links
 hinter uns zurück. In der Verlängerung der kleinen Seen dehnt sich die Mugu-täläp, eine
 Salzsteppe, aus. Hier machten die Tibeter an einem Süßwassertümpel halt
@@ -319,7 +319,7 @@ Luftspiegelung scheinen sie ein wenig über der Erdoberfläche zu schweben.
 ::::
 
 :::: {.wrap-100 }
-![6. Nomaden unterwegs. (S 12.)](Transhimalaja_Vol_III_37b.jpg "Nomaden unterwegs."){#b0037_5}
+![6. Nomaden unterwegs. (S 12.)](Transhimalaja_Vol_III_37b.jpg "Nomaden unterwegs."){#b0037_6}
 ::::
 
 :::

@@ -92,7 +92,7 @@ Reise überschritten hatte! Der allerhöchste war der Ding-la mit seinen
 5885 Metern.
 
 Mit Wohlbehagen packt man nach einem solchen Zusammenstoße mit
-dem Winde seine Geräte wieder ein ([Abb. 22](ch008.xhtml#b0087_22)). Ich war zu steif, um
+dem Winde seine Geräte wieder ein ([Abb. 22](ch010.xhtml#b0087_22)). Ich war zu steif, um
 reiten zu können, und ging zu Fuß, um meine Glieder wieder geschmeidig
 zu machen. Schnell kann man hier nicht gehen, denn die Luft wird hier
 knapp und das Herz klopft, als ob es bersten wolle. Bald nehme ich
@@ -127,7 +127,7 @@ es in der Gegend viele Wölfe und Luchse gebe.
 Nach den schaurigen Höhen mit ihrer Kälte und ihren Winden war
 es ein schönes Gefühl, in Dunglung-sumbo (5171 Meter) vom Pferde
 steigen zu können, wo uns das Lager 250 erwartete und das Kohlenbecken
-wohltuende Wärme in meinem Zelte verbreitete (Abb. [16](ch006.xhtml#b0067_16), [17](ch006.xhtml#b0067_17)).
+wohltuende Wärme in meinem Zelte verbreitete (Abb. [16](ch008.xhtml#b0067_16), [17](ch008.xhtml#b0067_17)).
 Wir waren um 654 Meter tiefer gelangt, und gerade hier mündete das
 Tal Lasar, das sich von dem dritten Passe, dem Lasar-la, herabzieht.
 
@@ -177,7 +177,7 @@ würde doch hineinziehen. Sogar der Winter würde mir Hindernisse in
 den Weg legen. Dann muß also die neue Karawane durch Schneemassen
 hindurchmarschieren, um ihr Ziel zu erreichen und die weißen Stellen
 auszufüllen, die noch den mittleren Teil der Karte des Transhimalaja bedecken.
-In meiner freien Zeit besuchte ich neue und alte Freunde ([Abb. 23](ch008.xhtml#b0087_23)).
+In meiner freien Zeit besuchte ich neue und alte Freunde ([Abb. 23](ch010.xhtml#b0087_23)).
 Der hauptsächlichste unter den letzteren war der große Kaufmann Gulam
 Rasul, dem ich später beim Vizekönig von Indien den Ehrentitel Khan
 Bahadur auswirkte. Er war es, der meine neue Karawane zusammenstellte
@@ -291,7 +291,7 @@ ein bedeutend milderes Klima und gewöhnlich nur wenig Schnee.
 Der Abwechslung halber beschloß ich, mein Lager nach Gar-gunsa zu
 verlegen. Zu einer Abschiedsvisite bei den Vizekönigen kam es nicht. Der eine war
 krank, der andere hatte es nicht für nötig gehalten, mir meinen Antrittsbesuch
-zu erwidern. Mit Lastyaks ([Abb. 24](ch008.xhtml#b0087_24)) mußte er mich jedoch versehen, und
+zu erwidern. Mit Lastyaks ([Abb. 24](ch010.xhtml#b0087_24)) mußte er mich jedoch versehen, und
 zwei seiner Leute sollten mich auf dem ganzen Wege nach der Grenze von Ladak
 begleiten, um aufzupassen, daß ich nicht auf verbotenen Wegen durchbrannte!
 
@@ -330,13 +330,13 @@ hinunter.
 Das Tal verschmälert sich. Himalaja und Transhimalaja reichen
 einander die Hand. Vor uns zeigt sich ein schmaler Durchgang, den der
 Fluß ausgeschnitten hat. Nima-lung heißt diese Passage; dort schlagen
-wir im Lager 252 unsere Zelte auf (Abb. [25](ch009.xhtml#b0097_25), [26](ch009.xhtml#b0097_26)).
+wir im Lager 252 unsere Zelte auf (Abb. [25](ch011.xhtml#b0097_25), [26](ch011.xhtml#b0097_26)).
 Hier hatten sich alle Arme zu einem Flusse vereinigt, dessen Wasser zwischen 20 und 30 Meter
 hohen Terrassen unter langsamem Saugen in den Engpaß hineinglitt. Wenn
 der Fluß sich nicht unterhalb der engen Stelle wieder zersplitterte, könnte
 ich mit dem Strome nach Gargunsa hinuntertreiben. Der junge Eurasier
 Alexander Robert, der mich in Gartok erwartet hatte, war auf dem
-heiligen See ein geschickter Bootsmann geworden ([Abb. 27](ch009.xhtml#b0097_27).
+heiligen See ein geschickter Bootsmann geworden ([Abb. 27](ch011.xhtml#b0097_27).
 Er konnte das Boot steuern, während ich den Flußlauf auf meiner Karte eintrug. Eine
 Kartenaufnahme des Tales war schon von Engländern gemacht worden,
 aber der Fluß mit allen seinen Windungen war darin nicht angegeben.

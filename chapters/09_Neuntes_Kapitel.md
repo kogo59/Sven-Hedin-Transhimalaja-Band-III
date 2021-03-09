@@ -16,7 +16,7 @@ Es ist Mittsommer! Ich schreibe den 26. Juni 1908 in mein
 Tagebuch ein. Jahrelange Abenteuer liegen hinter mir, nur der
 Rückzug steht noch bevor. Ich habe vier Ladaki und einen Tibeter, den
 prächtigen Lobsang, bei mir, nebst zwei Yakbesitzern und Führern, die
-mich durch Rundor-tschangma nach Selipuk geleitet haben. Abdul Kerim
+mich durch Rundor-tschangma nach Selipuk^[^1001]^ geleitet haben. Abdul Kerim
 und seine Gefährten sind noch immer nicht zu uns gestoßen, und wir
 haben uns darauf gefaßt gemacht, daß wir sie wohl nie wieder sehen
 werden.
@@ -114,7 +114,7 @@ Festtag flaggendes Drachenschiff zu halten.
 Ein ganzes Dorf schwarzer Zelte ist auf der Ebene entstanden.
 Drei weiße Zelte kündigen irgendeinen Häuptling an. Bald erfuhren
 wir auch, daß der Besitzer des ganzen Dorfes der Häuptling des Gebietes
-Tschoktschu war, welches im Westen des Dangra-jum-tso liegt. Schon
+Tschoktschu war, welches im Westen des Dangra-jum-tso^[^0361]^ liegt. Schon
 am Schovo-tso hatten wir seine Karawane westwärts ziehen sehen, und
 wir wußten, daß er sich mit seiner Familie und seinem Gesinde auf der
 Wallfahrt nach dem Kang-rinpotsche befand. Zwischen seinem Lager und
@@ -155,7 +155,7 @@ Seiten zugleich.
 
 „Woher kommen Sie?“
 
-„Aus Indien und Ladak, aber ich bin in Schigatse gewesen; vom
+„Aus Indien und Ladak, aber ich bin in Schigatse^[^0360]^ gewesen; vom
 Dangra-jum-tso, aber ich habe den heiligen See umwandert; von Osten,
 aber ich bin auch im Westen gewesen; von Norden, aber ich bin durch
 ganz Südtibet gezogen. Meine Hauptkarawane hat sich verirrt. Schafft
@@ -458,9 +458,9 @@ scharf. Dann sagte er:
 es nicht wissen, aber ich habe Sie oft gesehen. Ich bin einen Monat
 in Schigatse gewesen, als Sie im vorigen Jahre dorthin kamen. In
 dem Pilgergewühle während der Festtage konnte ich Ihnen nicht
-auffallen. Aber ich habe Sie täglich nach den Tempeln von Taschi-lunpo
+auffallen. Aber ich habe Sie täglich nach den Tempeln von Taschi-lunpo^[^0500]^
 hinaufgehen sehen, und ich hörte, daß Sie der Freund Seiner Heiligkeit des
-Taschi-Lama seien. Ich erkannte daraus, daß Sie ein vornehmer Herr
+Taschi-Lama^[^0362]^ seien. Ich erkannte daraus, daß Sie ein vornehmer Herr
 sind, auch wenn Ihre Karawane klein und unansehnlich ist.“
 
 Der gute Taschi-Lama kam mir also unvermutet in einer schwierigen
@@ -985,3 +985,13 @@ und keine Lebensmittel besaßen.
 [^0351]: [*Nganglaring-tso*: vergleiche [Ang Laren Lake](https://en.wikipedia.org/wiki/Ang_Laren_Lake)]{.footnote}
 
 [^0561]: [*Fröding*: vergleiche [Gustaf Fröding](https://de.wikipedia.org/wiki/Gustaf_Fr%C3%B6ding)]{.footnote}
+
+[^1001]: [*Selipuk*:  vergleiche [Selipuk Gompa](http://wikimapia.org/15223723/Selipuk-Gompa-ruins)]{.footnote}
+
+[^0360]: [*Schigatse*: vergleiche [Xigazê](https://de.wikipedia.org/wiki/Xigaz%C3%AA)]{.footnote}
+
+[^0361]: [*Dangra-jum-tso*:  vergleiche [Tangra Yumco](https://de.wikipedia.org/wiki/Tangra_Yumco)]{.footnote}
+
+[^0362]: [*Taschi-Lama*: vergleiche [Penchen Lama](https://de.wikipedia.org/wiki/Penchen_Lama)]{.footnote}
+
+[^0500]: [*Taschi-lunpo*: vergleiche [Trashilhünpo](https://de.wikipedia.org/wiki/Trashilh%C3%BCnpo)]{.footnote}

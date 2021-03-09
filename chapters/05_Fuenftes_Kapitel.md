@@ -12,7 +12,7 @@ jetzt wieder breit und offen; der Gar-tschu, an dessen Ufer wir hinziehen,
 gleitet nicht so lautlos dahin, wie er es weiter oben getan, sondern
 rauscht leise und bildet kleine Stromschnellen, die größeres Gefälle verraten.
 
-Feierlich und still wie ein Sonntag liegt das Tal vor uns ([Abb. 28](ch009.xhtml#b0097_28));
+Feierlich und still wie ein Sonntag liegt das Tal vor uns ([Abb. 28](ch011.xhtml#b0097_28));
 Menschen und Herden fehlen, alles ist tot und still und so verlassen, als ob
 feindliche Heere verwüstend durch das Land gezogen seien. Eine
 Manimauer und die Straße nach Ladak sind die einzigen Zeichen, die von
@@ -25,7 +25,7 @@ Im Hintergrunde des auf der linken Seite einmündenden Nebentals
 Schinkar erhebt sich ein dunkles Bergmassiv mit schneebedecktem Gipfel
 — ein flüchtiger Schimmer des gewaltigen Kammes, dem wir bis nach
 Ladak folgen und den die englischen Topographen die Ladakkette genannt
-haben ([Abb. 29](ch009.xhtml#b0097_29)). Sie bildet die Wasserscheide zwischen Indus
+haben ([Abb. 29](ch011.xhtml#b0097_29)). Sie bildet die Wasserscheide zwischen Indus
 und Satledsch. In früheren Zeiten sind ihre Abhänge und steilen Wände von ungeheueren
 Regengüssen bespült worden. Davon zeugen noch die 50 Meter hohen
 Flußterrassen, die wir an der Mündung des Schinkartales erblicken.
@@ -57,7 +57,7 @@ und Pferde, und man merkt, daß der Winterumzug von Gartok hierher
 begonnen hat.
 
 In Gar-gunsa nahm mein langes Warten endlich ein Ende
-(Abb. [30](ch009.xhtml#b0106_30)—[33](ch009.xhtml#b0097_33)).
+(Abb. [30](ch011.xhtml#b0106_30)—[33](ch011.xhtml#b0097_33)).
 Die Post kam aus Indien mit Proviant, Geld, Waffen und
 Munition, und am 9. November konnte ich nach Ladak aufbrechen. —
 
@@ -65,7 +65,7 @@ Nun ist die Karawane wieder groß und stattlich; wie eine schwarze
 Schlange windet sie sich über den grauen Boden. In Gar-gunsa hatte ich
 von Gulam Rasul Maulesel gekauft. Sie durften unbeladen gehen, weil
 sie ihre Kräfte zu dem harten Winterfeldzug, der ihrer im Norden wartete,
-schonen sollten. Unser sämtliches Gepäck tragen gemietete Yaks ([Abb. 34](ch009.xhtml#b0097_34)),
+schonen sollten. Unser sämtliches Gepäck tragen gemietete Yaks ([Abb. 34](ch011.xhtml#b0097_34)),
 und die tibetische Eskorte, zwei Reiter aus der Garde der Garpune aus
 Gartok, ordnet alles an den Lagerplätzen. Streng genommen begleiten
 sie uns, um unsere Bewegungen zu überwachen; aber das ist mir einerlei,
@@ -173,7 +173,7 @@ Geographie Tibets; die Ladakkette wegen der Rolle, die sie als
 Wasserscheide spielt, und der Transhimalaja als das eigentliche
 Randgebirge des Hochlandes.
 
-Das Haupttal ist merkwürdig gerade ([Abb. 35](ch009.xhtml#b0117_35)). Daher konnte der
+Das Haupttal ist merkwürdig gerade ([Abb. 35](ch011.xhtml#b0117_35)). Daher konnte der
 Blick von einem hohen Schuttkegel aus weit nach Nordwesten schweifen, bis
 weit über Demtschok und die Westgrenze Tibets hinweg nach den rosigen
 und braunroten Gebirgen, die in Ladak liegen. Jenseits dieser Berge
@@ -187,7 +187,7 @@ heraustritt, um sich mit dem Gar-tschu zu vereinigen. Dort erweitert
 sich das Haupttal zu einer wirklichen Ebene, die von Gras gelb schillert
 und von Sträuchern braungefleckt ist.
 
-Bald sind wir in dem kleinen Dorfe Langmar ([Abb. 36](ch009.xhtml#b0117_36))
+Bald sind wir in dem kleinen Dorfe Langmar ([Abb. 36](ch011.xhtml#b0117_36))
 angelangt, wo sechs bis sieben Familien in schwarzen Zelten wohnen, die
 zum Schutze gegen Wind und Kälte mit Reisighecken umzäunt sind. Um
 sich der bösen Geister, die in der Luft hausen, zu erwehren, haben sie
@@ -208,7 +208,7 @@ dahin, aber der Singi-kamba eilte reißend und lebensfroh aus seinem
 Tore im Transhimalaja heraus. Auf dem Graswalle am linken Ufer
 des Gartong schlugen wir im Lager 257 unsere Zelte auf. Ich hatte eine
 ebenso hübsche wie ungewohnte Aussicht über weite, eisbedeckte Wasserflächen
-([Abb. 37](ch009.xhtml#b0117_36)).
+([Abb. 37](ch011.xhtml#b0117_36)).
 
 Nun galt es, die Wassermenge der beiden Flüsse zu messen.
 Vielleicht wird der Leser eine solche Arbeit ziemlich unnötig und uninteressant

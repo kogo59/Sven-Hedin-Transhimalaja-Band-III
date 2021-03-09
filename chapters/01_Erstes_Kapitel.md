@@ -4,7 +4,7 @@
 **N**un weiden meine Pferde und Maulesel im Lager 236 in dem
 spärlichen Grase, das an der Indusquelle wächst. Der Steinmann,
 den ich an dieser bedeutungsvollen Stelle errichtet hatte, stand auf einer
-Terrasse von weißem, porösem Kalkstein ([Abb. 1](ch002.xhtml#b0027_1)). Rechts unterhalb der
+Terrasse von weißem, porösem Kalkstein ([Abb. 1](ch004.xhtml#b0027_1)). Rechts unterhalb der
 Terrasse entspringen mehrere Wasseradern, die den Quellarm des Indus bilden.
 
 Klangvoll lallt der neugeborene Fluß zwischen den Steinen seines
@@ -49,7 +49,7 @@ in seiner Obhut, und Adul rührte in den Töpfen, die über dem
 Küchenfeuer brodelten.
 
 Ein glückliches Geschick hatte mir einen tibetischen Nomaden namens
-Pema Tense in den Weg geführt ([Abb. 3](ch002.xhtml#b0027_3)). Angelockt durch die
+Pema Tense in den Weg geführt ([Abb. 3](ch004.xhtml#b0027_3)). Angelockt durch die
 verführerische Vergütung, die in blanken Rupien in meiner Hand klimperte,
 hatte er seine Kameraden laufen lassen und mir seine Dienste auf dem
 Wege nach Nordosten durch unbekanntes Land angeboten. Von ihm mietete
@@ -94,7 +94,7 @@ her und ist immer bereit, mir die Aufklärungen zu geben, die ich von
 ihm verlange.
 
 „Wie heißt dieser Platz?“ frage ich an einem Punkte, wo sich eine
-mit Manisteinen bedeckte Reihe Steinmale über den Weg hinzieht ([Abb. 2](ch002.xhtml#b0027_2)).
+mit Manisteinen bedeckte Reihe Steinmale über den Weg hinzieht ([Abb. 2](ch004.xhtml#b0027_2)).
 
 „Schantse gong“, antwortet er. „Hier begrüßen die Pilger die
 Götter des Kang-rinpotsche, denn von hier aus sieht man zuerst die
@@ -246,7 +246,7 @@ Ebene aus, und wir wenden uns von dem Bache ab, der im Norden
 verschwindet. Sein Wasser rieselte melodisch unter einer dünnen Eishaut.
 Eine kleine Herde von Wildeseln oder Kiangs tummelte sich auf der Ebene,
 räumte aber das Feld, als wir unsere Zelte im Lager 238 an einer
-richtigen Mauer aus trocknem Yakdung aufschlugen ([Abb. 4](ch003.xhtml#b0036_4)).
+richtigen Mauer aus trocknem Yakdung aufschlugen ([Abb. 4](ch005.xhtml#b0036_4)).
 Die Nomaden, die dieses Feuerungsmaterial gesammelt hatten und nun in
 irgendeiner andern Gegend ihre Herden weideten, werden bei ihrer Rückkehr
 sicherlich sehr verwundert sein, zu finden, daß ihr Feuerungsvorrat zum
