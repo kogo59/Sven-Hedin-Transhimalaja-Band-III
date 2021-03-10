@@ -195,7 +195,7 @@ Nach einer kalten Nacht brach der 17. September an. Schwer und
 langsam schritten vierzig vollbeladene Yaks talabwärts. Es war eine
 neue, aus vier Zeltgemeinschaften bestehende Genossenschaft, die aus
 Jumba-matsen nach der Mündung eines weiter abwärts liegenden Nebentales
-übersiedelte (Abb. [6](ch005.xhtml#b0037_6)—[8](ch005.xhtml#b0047_8)). Jede Zeltgenossenschaft hat ihren
+übersiedelte (Abb. [6](ch005.xhtml#b0037_6)—[8](ch006.xhtml#b0047_8)). Jede Zeltgenossenschaft hat ihren
 eigenen Lagerplatz, und da, wo man sich unverbrüchlich dem alten Herkommen fügt,
 kommt es nicht zu Weidestreitigkeiten.
 

@@ -114,28 +114,28 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 27. [Roberts Probefahrt auf dem Indus.](ch011.xhtml#b0097_27)
 28. [Aussicht aus dem Industal nach Nordwesten.](ch011.xhtml#b0097_28)
 29. [Ladakkette südlich des Indus.](ch011.xhtml#b0097_29)
-30. [In Gar-gunsa.](ch011.xhtml#b0106_30)
-31. [Aus dem Lager in Gar-gunsa.](ch011.xhtml#b0097_31)
-32. [Kloster Gar-gunsa.](ch011.xhtml#b0097_32)
-33. [Mein Zelt mit dem Sonnensegel.](ch011.xhtml#b0097_33)
-34. [Lastyaks auf dem Marsch.](ch011.xhtml#b0097_34)
-35. [Lager am Indus.](ch011.xhtml#b0117_35)
-36. [Dorf Langmar.](ch011.xhtml#b0117_36)
-37. [An der Vereinigung beider Indusarme.](ch011.xhtml#b0117_36)
-38. [Industal bei Taschi-gang.](ch011.xhtml#b0117_38)
-39. [Kloster Taschi-gang.](ch011.xhtml#b0117_39)
-40. [Tschorten bei Taschi-gang.](ch011.xhtml#b0117_40)
-41. [Kloster Taschi-gang.](ch012.xhtml#b0127_41)
-42. [Kloster Taschi-gang.](ch012.xhtml#b0127_41)
-43. [Kloster Taschi-gang.](ch012.xhtml#b0127_41)
-44. [Kloster Taschi-gang.](ch012.xhtml#b0127_41) Skizzen des Verfassers.
-45. [Lager in Demtschok.](ch012.xhtml#b0127_45)
-46. [Demtschok.](ch012.xhtml#b0127_46)
-47. [Eisbrücke über den Indus.](ch012.xhtml#b0127_47)
-* Bunte Tafel. Tibetische Modelle. Aquarelle des Verfassers.
-48. Tsake-la.
-49. Unterwegs nach Tschuschl.
-50. Tänzerinnen in Tschuschul. Skizzen des Verfassesrs.
+30. [In Gar-gunsa.](ch012.xhtml#b0106_30)
+31. [Aus dem Lager in Gar-gunsa.](ch012.xhtml#b0106_31)
+32. [Kloster Gar-gunsa.](ch012.xhtml#b0106_32)
+33. [Mein Zelt mit dem Sonnensegel.](ch012.xhtml#b0106_33)
+34. [Lastyaks auf dem Marsch.](ch012.xhtml#b0106_34)
+35. [Lager am Indus.](ch012.xhtml#b0117_35)
+36. [Dorf Langmar.](ch012.xhtml#b0117_36)
+37. [An der Vereinigung beider Indusarme.](ch012.xhtml#b0117_36)
+38. [Industal bei Taschi-gang.](ch012.xhtml#b0117_38)
+39. [Kloster Taschi-gang.](ch012.xhtml#b0117_39)
+40. [Tschorten bei Taschi-gang.](ch012.xhtml#b0117_40)
+41. [Kloster Taschi-gang.](ch013.xhtml#b0127_41)
+42. [Kloster Taschi-gang.](ch013.xhtml#b0127_41)
+43. [Kloster Taschi-gang.](ch013.xhtml#b0127_41)
+44. [Kloster Taschi-gang.](ch013.xhtml#b0127_41) Skizzen des Verfassers.
+45. [Lager in Demtschok.](ch013.xhtml#b0127_45)
+46. [Demtschok.](ch013.xhtml#b0127_46)
+47. [Eisbrücke über den Indus.](ch013.xhtml#b0127_47)
+* Bunte Tafel. [Tibetische Modelle.](ch013.xhtml#b0137_48) Aquarelle des Verfassers.
+48. [Tsake-la.](ch014.xhtml#b0139_48)
+49. [Unterwegs nach Tschuschl.](ch014.xhtml#b0139_49)
+50. [Tänzerinnen in Tschuschul.](ch014.xhtml#b0139_50) Skizzen des Verfassesrs.
 51. Singende Schönheiten in Tschuschul.
 52. Mädchen aus Tschuschul. Skizze des Verfassers.
 53. Auf dem Kongta-la.

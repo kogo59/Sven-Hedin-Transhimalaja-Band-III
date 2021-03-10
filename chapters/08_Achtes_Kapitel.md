@@ -32,15 +32,15 @@ sieht man gar nicht, dazu ist die Entfernung zu groß.
 
 Am folgenden Morgen sind wir schon früh droben bei dem mit
 Hörnern und Wimpeln geschmückten Steinmale des Passes Tsake-la
-(Abb. 48), wo die Höhe 4523 Meter beträgt und der Wind bei 5 Grad
+([Abb. 48](ch014.xhtml#b0139_48)), wo die Höhe 4523 Meter beträgt und der Wind bei 5 Grad
 unter Null in die Haut schneidet. Dann eilen wir abwärts, zu Fuß,
 um das Blut wieder in Umlauf zu bringen. Täler, Felsvorsprünge und
 Manimauern folgen einander, und die kärgliche Vegetation, die hier um
 ihr Dasein kämpft, bildet kleine gelbe Flecke um die Quellen herum. Der
 hohe, mit Schnee bedeckte Gebirgsstock, den wir schon so lange gesehen
 haben, ist jetzt in unserer Nähe, aber seine Firnfelder sind durch
-dazwischenliegende Berge verdeckt (Abb. 49). Der Panggong—tso ist nicht zu sehen,
-wohl aber einige der Kämme, die sich an seinem Nordufer erheben.
+dazwischenliegende Berge verdeckt ([Abb. 49](ch014.xhtml#b0139_49)). Der Panggong—tso
+ist nicht zu sehen, wohl aber einige der Kämme, die sich an seinem Nordufer erheben.
 
 Schon auf dem Passe erblickten wir in der Ferne den vorspringenden
 Berg, hinter welchem sich unser Lager 266, das Dorf Tschuschul,
@@ -77,7 +77,7 @@ In schleppendem, rhythmischem Takt tanzten die zwölf Schönheiten
 Tschuschuls vor meinen Zelten. Sie waren in grüne und rote Schafspelze gekleidet,
 allerlei Krimskrams baumelte ihnen in den Locken, und
 einzelne mit Türkisen verzierte Bänder fielen vom Scheitel herab über den
-Rücken (Abb. 50—52). Ihre Blicke waren auf den Boden gerichtet, ihr
+Rücken (Abb. [50](ch014.xhtml#b0139_50)—52). Ihre Blicke waren auf den Boden gerichtet, ihr
 Mienenspiel verriet keine Leidenschaftlichkeit, keinen Frohsinn; bald erhoben
 sie die rechte Hand, bald die linke und sie drehten sich im Kreise, während
 sie langsam im Gänsemarsch einherschritten. Schön waren sie nicht, diese

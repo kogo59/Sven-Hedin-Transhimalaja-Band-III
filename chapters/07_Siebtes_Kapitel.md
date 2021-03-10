@@ -133,7 +133,7 @@ bedeckte Mauern aus Geröllblöcken.
 Das Geröll spielt in der Gegend, in der wir uns jetzt befinden,
 eine wichtige Rolle. Ganz Demtschok^[^0117]^, unser letztes Dorf auf
 tibetischem Gebiete, ist daraus gebaut. Es besteht aber auch nur aus
-vier oder fünf Hütten mit Reisigdächern ([Abb. 46](ch012.xhtml#b0127_46)). Und
+vier oder fünf Hütten mit Reisigdächern ([Abb. 46](ch013.xhtml#b0127_46)). Und
 Geröllsteinmauern umzäunen die ärmlichen Gerstenfelder und die Schafhürden und
 die ebenen Flecke festgestampften Bodens, wo später gedroschen wird.
 Eine zerlumpte Alte und ein ausgehungerter Junge waren die einzigen
@@ -150,7 +150,7 @@ Problemen hinter mir zurücklassen zu müssen. Ich war jedoch entschlossen, nach
 einigen Monaten wieder in dem unbekannten Lande zu sein.
 
 Am 17. November sagen wir Tibets letztem Dorfe Lebewohl und
-ziehen aus unserm Lager 260 ([Abb. 45](ch012.xhtml#b0127_45)) von dem Schuttkegel
+ziehen aus unserm Lager 260 ([Abb. 45](ch013.xhtml#b0127_45)) von dem Schuttkegel
 von Demtschok nach dem Indusufer hinunter. Unter dem am Lande haftenden
 Eisrande stehen die Fische in dichten Scharen, und wenn man sie mit
 Steinwürfen verscheucht, so kommen sie sofort wieder, möglicherweise
@@ -218,7 +218,7 @@ und dort lag der Fluß an ruhigen Stellen gefroren da. Die Schönheit der Landsc
 wurde durch den jetzt kristallklaren, blauschillernden Wasserstreifen erhöht,
 der vergeblich gegen die Winterkälte ankämpfte. Bei Puktse, wo hin
 und wieder ein Strauch zwischen dem verdorrten Grase wuchs, führte
-eine schmale Eisbrücke quer über den Fluß ([Abb. 47](ch012.xhtml#b0127_47)). Es
+eine schmale Eisbrücke quer über den Fluß ([Abb. 47](ch013.xhtml#b0127_47)). Es
 knackte in der Brücke, als meine Leute sie auf ihre Tragfähigkeit prüften.
 
 Farbengesättigt und entzückend in all ihrer verzweifelten Öde liegt
