@@ -2,7 +2,8 @@
 
 ::: justified
 **A**m 9. Juli setzten wir den Marsch in südlicher Richtung durch die
-Labyrinthe des Transhimalaja fort, und nun klärten sich allmählich meine hydrographischen Begriffe. Im Osten sieht man die Ding-la-Kette
+Labyrinthe des Transhimalaja fort, und nun klärten sich allmählich meine hydrographischen
+Begriffe. Im Osten sieht man die Ding-la-Kette
 mit ihren Berggiebeln und Firnfeldern, mit ihren Gletscherzungen,
 deren Schmelzwasser sich zu einem Bache vereinigt, der 2,<small>5</small> Kubikmeter
 Wasser in der Sekunde führte. Rechts erhebt sich ein kleinerer Kamm
@@ -37,15 +38,15 @@ diese Gelegenheit fabriziert hatte.
 
 :::: {.wrap-100  .break-before }
 ![48. Tsake-la. (S. 60.)](Transhimalaja_Vol_III_139a.jpg "Tsake-la."){#b0139_48}
-::
+::::
 
 :::: {.wrap-100  }
-![49. Unterwegs nach Tschuschl. (S. 60.)](Transhimalaja_Vol_III_139b.jpg "Unterwegs nach Tschuschl."){#b0139_49}
-::.:
+![49. Unterwegs nach Tschuschul. (S. 60.)](Transhimalaja_Vol_III_139b.jpg "Unterwegs nach Tschuschul."){#b0139_49}
+::::
 
 :::: {.wrap-100  .break-before }
 ![50. Tänzerinnen in Tschuschul. (S. 61.) <small>Skizzen des Verfassers.</small>](Transhimalaja_Vol_III_139c.jpg "Tänzerinnen in Tschuschul."){#b0139_50}
-:::
+::::
 
 „Er vereinigt sich in der Gegend Aong-dunker mit dem Aong-tsangpo.
 Von allen den Bergen und aus allen Tälern, die Sie im Süden erblicken,
@@ -136,7 +137,7 @@ und kläffte vor Freude. Nach diesem Beweis der Treue wurde er von allen
 verzogen, und er begleitete uns nun auf dem ganzen Wege nach Indien,
 bis er dort in einem der ersten Dörfer aus eigenem Antrieb haltmachte.
 
-Er fürchtete die Wärme und sehnte sich nach dem Sommerschnee im Kjang-jang-Tal zurück.
+Er fürchtete die Wärme und sehnte sich nach dem Sommerschnee im Kjangjang-Tal zurück.
 
 In Taktsche blieben wir noch einen Tag. Hier wollten wir Schafe,
 Tsamba und Milch, sowie Gerste für die Pferde kaufen. Das Wetter
@@ -201,8 +202,8 @@ Tätigkeit treten und gab eine Höhe von 5276 Metern an. Die vielen
 Steinmale des Passes verwirren, denn sie sind eine gute Strecke westlich
 von dem höchsten Punkte errichtet.
 
-Bald wird der Aufbau deutlicher; wir reiten in einem langsam ab-
-fallenden Tal abwärts, dem Surnge-lungpa, dessen Bach zum
+Bald wird der Aufbau deutlicher; wir reiten in einem langsam
+abfallenden Tal abwärts, dem Surnge-lungpa, dessen Bach zum
 Flußgebiete des Satledsch gehört. Ich hatte also den Transhimalaja
 zum achten Male überschritten. Der Paß Surnge-la war viel
 bequemer gewesen als irgendeiner der andern. Man kann ihn kaum
@@ -225,9 +226,100 @@ Das ganze Land wurde wieder kreideweiß, aber die weiße Decke wurde
 bald von dichtfallendem Regen fortgespült. Nur die höheren Regionen
 des Gebirges, wo die Niederschläge noch immer als Hagel oder in
 Schneegestalt fielen, blieben weiß. Es klatscht und quatscht draußen in der
+Nässe. Kleinpuppy kommt ins Zelt gelaufen und richtet es natürlich
+so ein, daß er sich gerade vor meiner Nase, meinen Notizbüchern
+und meinen Karten das Wasser aus dem Felle schüttelt. Dann rollt er
+sich auf seiner Matte in der Ecke zum Trocknen zusammen. Aber er hat
+nun einmal keine Ruhe im Leib. Wenn er draußen Schritte patschen
+hört, muß er sofort hinaus, um den Gehenden anzusehen und
+anzuknurren, und wenn er dann wieder hereinkommt, verabreicht er mir eine
+neue Dusche.
+
+Gegen Abend ging der Regen in Schnee über. Im Sommer ist
+in Hochtibet der Gang der Witterung immer so. Zuerst ein heftiger
+Hagelschauer, dieser geht in Regen über und endet mit Schneefall. Wie wenig
+glichen sich doch die beiden Regenzeiten 1907 und 1908! Während der
+ersteren waren nur ein paarmal einige Sprühregen gefallen, aber jetzt
+hatten wir unaufhörliche heftige anhaltende Regengüsse.
+
+Die nächste Tagereise führt in dem Tale Gelle-lungpa abwärts,
+das zwischen Felsen aus Hälleflinta^[^1312]^ und Grauwacke^[^1313]^ eingezwängt liegt.
+An einer Stelle, wo das Tal sich erweitert, holten uns zwölf Reiter
+ein, die mit großer Eile eine Yakherde und eine Menge Schafe vor
+sich hertrieben. Sie waren aus Nepal; ich fragte sie, als sie an uns
+vorüberzogen, weshalb sie es so verzweifelt eilig hätten. „Diebe aus
+Tibet hatten uns unser Vieh gestohlen“, antworteten sie, „und deshalb
+setzten wir der Bande sofort nach. Wir holten sie vor zwei Tagen ein
+und haben die Schufte so windelweich geprügelt, daß sie kaum gehen
+konnten. Aber unsere Tiere haben wir wiederbekommen, und nun sputen
+wir uns, um schnell über die Grenze und nach Hause zu gelangen.“
+
+„Wo überschreitet ihr die Grenze?“
+
+„Auf dem Passe Tschakpalung-la.“ Ein Unheil verkündender Name,
+denn er bedeutet „Paß des Räubertals“!
+
+„Helfen euch die Behörden nicht, wenn ihr euch beim Devaschung
+beschwert?“
+
+„Nein. Die tibetische Regierung rührt keinen Finger, um bestohlenen
+Ausländern beizustehen. Wird man durch Tibeter beraubt, so muß man
+sich selbst Hals über Kopf in Feindesland hineinbegeben und sich seine
+Habe mit Gewalt wiedernehmen. Sonst ist sie spurlos verschwunden wie
+Rauch. Wie Sie sehen, sind wir gut bewaffnet. Leben Sie wohl“
+
+Noch einen Fluch über die Feigheit der Tibeter stieß der Sprecher
+der Nepalesen aus, dann verschwand die merkwürdige Reiterschar hinter
+einer Biegung des Tales.
+
+Wir sind jetzt im Gebiete von Toktschen. Der Distrikt, den
+wir zuletzt durchzogen haben, heißt Hor-parjang. Noch bleibt eine
+kleine Paßschwelle zu überschreiten, der Rigong-la; von seiner Höhe
+aus sieht man in S&nbsp;69°&nbsp;W einen kleinen Zipfel des heiligen Sees.
+Sonst ist die Aussicht dort oben nicht viel wert. Bleischwere, blauschwarze
+Wolken hängen über dem ganzen Land und verhüllen alles. Der Weg
+geht schließlich über schwach gewölbte Hügel in das Tal des
+Samo-tsangpo hinunter. Am linken Ufer des Flusses lagerten wir ganz in der
+Nähe des Platzes, auf welchem der Gova von Toktschen seine
+Sommerzelte aufgeschlagen hatte (Lager 451).
+
+Wie gewöhnlich war das Lager schon fertig, und der Rauch stieg
+von dem Feuer auf, als ich anlangte. Ich stieg ab, reichte Lobsang die
+Reitpeitsche, ließ mir von Gulam die Lederstiefel ausziehen und die
+Leibbinde losknüpfen, schlug den tibetischen Mantel zurück, ging in das Zelt
+hinein und dankte Gott, daß er die anstrengende Arbeit ein glückliches
+Ende hatte nehmen lassen.
+
+Dann legte ich mich auf mein Bett und dachte nach. Sieben
+Monate waren verstrichen, seitdem wir Ladak verlassen hatten. In mehreren
+Richtungen hatte ich den großen weißen Fleck im Norden des Tsangpo,
+des oberen Brahmaputra, durchquert. Ich hatte meinen Zweck erreicht,
+meine Pflicht getan und konnte nun mit gutem Gewissen die Straße
+nach Indien einschlagen.
+
+Doch bevor wir die Rückreise durch das Satledschtal antreten, laßt
+uns gerade hier am Endpunkte der achten Überschreitung des
+Transhimalaja einen Augenblick haltmachen und uns ins Gedächtnis zurückrufen,
+was vergangene Zeiten von diesem Gebirgssystem gewußt haben. Und
+laßt uns auch das Andenken derjenigen Männer ehren, die jeder an
+seinem Teil zur Kenntnis des Transhimalaja beigetragen haben. Sie
+hatten hauptsächlich den östlichen und den westlichen Flügel berührt. Mir
+blieb das Zentrum, „der weiße Fleck“. Daher war mir das Glück
+beschieden, Theorien verwerfen zu können, die bei verschiedenen
+Gelegenheiten aufgestellt worden waren; ich konnte die beiden Flügel miteinander
+verbinden und beweisen, daß der Transhimalaja ein einziges,
+zusammenhängendes System ist, das aus einer Welt verschiedener Ketten besteht,
+ein Faltensystem der Erdrinde, das zwar vom Himalaja an Höhe weit
+übertroffen wird, aber an Mächtigkeit und Bedeutung seinesgleichen ist.
 
 :::
 
 :::: align-center
 ****
 ::::
+
+#### **Anmerkungen** {.break-before .unnumbered}
+
+[^1312]: [*Hälleflinta*: vergleiche [Hälleflinta](https://de.wikipedia.org/wiki/H%C3%A4lleflinta)]{.footnote}
+
+[^1313]: [*Grauwacke*: vergleiche [Grauwacke](https://de.wikipedia.org/wiki/Grauwacke)]{.footnote}

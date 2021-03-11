@@ -136,12 +136,12 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 48. [Tsake-la.](ch014.xhtml#b0139_48)
 49. [Unterwegs nach Tschuschl.](ch014.xhtml#b0139_49)
 50. [Tänzerinnen in Tschuschul.](ch014.xhtml#b0139_50) Skizzen des Verfassesrs.
-51. Singende Schönheiten in Tschuschul.
-52. Mädchen aus Tschuschul. Skizze des Verfassers.
-53. Auf dem Kongta-la.
-54. Drugub.
-55. Tschorten in Drugub.
-56. Musikanten in Drugub.
+51. [Singende Schönheiten in Tschuschul.](ch015.xhtml#b0149_51)
+52. [Mädchen aus Tschuschul.](ch015.xhtml#b0149_52) Skizze des Verfassers.
+53. [Auf dem Kongta-la.](ch015.xhtml#b0159_53)
+54. [Drugub.](ch015.xhtml#b0159_54)
+55. [Tschorten in Drugub.](ch015.xhtml#b0159_55)
+56. [Musikanten in Drugub.](ch015.xhtml#b0159_56)
 57. Kaufleute aus Kaschmir in Drugub.
 58. Der Tesildar.
 59. Kaufleute aus Rudok in Drugub.

@@ -77,11 +77,11 @@ In schleppendem, rhythmischem Takt tanzten die zwölf Schönheiten
 Tschuschuls vor meinen Zelten. Sie waren in grüne und rote Schafspelze gekleidet,
 allerlei Krimskrams baumelte ihnen in den Locken, und
 einzelne mit Türkisen verzierte Bänder fielen vom Scheitel herab über den
-Rücken (Abb. [50](ch014.xhtml#b0139_50)—52). Ihre Blicke waren auf den Boden gerichtet, ihr
-Mienenspiel verriet keine Leidenschaftlichkeit, keinen Frohsinn; bald erhoben
-sie die rechte Hand, bald die linke und sie drehten sich im Kreise, während
-sie langsam im Gänsemarsch einherschritten. Schön waren sie nicht, diese
-„ladies of the mountains“, aber dafür um so schmutziger, schüchterner
+Rücken (Abb. [50](ch014.xhtml#b0139_50)—[52](ch015.xhtml#b0149_52)). Ihre Blicke
+waren auf den Boden gerichtet, ihr Mienenspiel verriet keine Leidenschaftlichkeit,
+keinen Frohsinn; bald erhoben sie die rechte Hand, bald die linke und sie drehten
+sich im Kreise, während sie langsam im Gänsemarsch einherschritten. Schön waren
+sie nicht, diese „ladies of the mountains“, aber dafür um so schmutziger, schüchterner
 und anspruchsloser. Beim Ballett im Dorfe Tschuschul hatte man keine
 Eile. Sie tanzten stundenlang, und der Tanz bot keine überraschenden
 oder abwechselnden Touren. Ein alter Mann leitete ihn mit seinem
@@ -254,7 +254,7 @@ Tibet gelegt hatte, hier lösten sich alle Bande, meine alten Diener wurden in
 ihre Hütten entlassen, und ein neues, ernstes Kapitel begann! —<br /><br />
 
 Einige Tage später befand ich mich in dem benachbarten Dorf
-Drugub (Abb. 54--57, 59) inmitten neuer Leute. Mit ihnen begann ich
+Drugub (Abb. [54](ch015.xhtml#b0159_54)—57, 59) inmitten neuer Leute. Mit ihnen begann ich
 die schwerste Reise, die ich in Asien je ausgeführt habe. Am 4. Dezember
 brachen wir nach dem Kara-korumgebirge auf, überstiegen mitten im Winter
 bei 40 Grad Kälte die höchsten Höhen von Tschang-tang und wurden
