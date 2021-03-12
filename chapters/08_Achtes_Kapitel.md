@@ -232,7 +232,7 @@ Zwischen gewaltigen Granitblöcken erscheint eine Reiterschar. Dort
 kommen sie, meine alten Freunde Anmar Dschu und Hiraman, die
 nun zum viertenmal Augenzeuge meines Einzugs in Ladak sind und
 mir ihre Dienste anbieten. Sie kommen im Auftrag des „Tesildar“
-von Leh (Abb. 58).
+von Leh ([Abb. 58](ch016.xhtml#b0169_58)).
 
 Immer enger wird das Tal. Es ist so eng wie ein Hohlweg. Der
 Pfad windet sich im Zickzack bergauf und bergab über die Schuttkegel.
@@ -254,8 +254,8 @@ Tibet gelegt hatte, hier lösten sich alle Bande, meine alten Diener wurden in
 ihre Hütten entlassen, und ein neues, ernstes Kapitel begann! —<br /><br />
 
 Einige Tage später befand ich mich in dem benachbarten Dorf
-Drugub (Abb. [54](ch015.xhtml#b0159_54)—57, 59) inmitten neuer Leute. Mit ihnen begann ich
-die schwerste Reise, die ich in Asien je ausgeführt habe. Am 4. Dezember
+Drugub (Abb. [54](ch015.xhtml#b0159_54)—[57](ch016.xhtml#b0169_57), [59](ch016.xhtml#b0169_59)) inmitten neuer Leute.
+Mit ihnen begann ich die schwerste Reise, die ich in Asien je ausgeführt habe. Am 4. Dezember
 brachen wir nach dem Kara-korumgebirge auf, überstiegen mitten im Winter
 bei 40 Grad Kälte die höchsten Höhen von Tschang-tang und wurden
 am 24. April 1908 durch Dortsche Tsuän, den Gouverneur von
@@ -266,7 +266,7 @@ Transhimalaja ihre Kämme erheben. Tibetische Soldaten geleiteten mich
 nach dem Tarok-tso, wo ich ein Zusammentreffen mit dem
 Karawanenführer Abdul Kerim und sechs meiner Leute aus Ladak verabredet hatte.
 Mich begleiteten nur fünf Ladaki, Gulam, Lobsang, Kutus, Tubges und
-Kuntschuk (Abb. 60--63). Diese an und für sich unpraktische Anordnung
+Kuntschuk ([Abb. 60-63](ch016.xhtml#b0169_60)). Diese an und für sich unpraktische Anordnung
 war mir von den Tibetern aufgezwungen worden, weil sie mich dadurch
 besser in ihrer Hand hatten.
 

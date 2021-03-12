@@ -142,16 +142,16 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 54. [Drugub.](ch015.xhtml#b0159_54)
 55. [Tschorten in Drugub.](ch015.xhtml#b0159_55)
 56. [Musikanten in Drugub.](ch015.xhtml#b0159_56)
-57. Kaufleute aus Kaschmir in Drugub.
-58. Der Tesildar.
-59. Kaufleute aus Rudok in Drugub.
-61. Meine treuen Diener, die Ladaki Gulam, Tubges, Kutus und der Tibeter Lobsang.
-62. Meine treuen Diener, die Ladaki Gulam, Tubges, Kutus und der Tibeter Lobsang.
-63. Meine treuen Diener, die Ladaki Gulam, Tubges, Kutus und der Tibeter Lobsang.
-64. Meine treuen Diener, die Ladaki Gulam, Tubges, Kutus und der Tibeter Lobsang.
-64. Auf dem Weg nach Kloster Selipuk.
-65. Auf dem Weg nach Kloster Selipuk.
-66. Der Gova von Selipuk. Zeichnung des Verfassers.
+57. [Kaufleute aus Kaschmir in Drugub.](ch016.xhtml#b0169_57)
+58. [Der Tesildar.](ch016.xhtml#b0169_58)
+59. [Kaufleute aus Rudok in Drugub.](ch016.xhtml#b0169_59)
+60. [Meine treuen Diener, die Ladaki Gulam, Tubges, Kutus und der Tibeter Lobsang.](ch016.xhtml#b0169_60)
+61. [Meine treuen Diener, die Ladaki Gulam, Tubges, Kutus und der Tibeter Lobsang.](ch016.xhtml#b0169_60)
+62. [Meine treuen Diener, die Ladaki Gulam, Tubges, Kutus und der Tibeter Lobsang.](ch016.xhtml#b0169_60)
+63. [Meine treuen Diener, die Ladaki Gulam, Tubges, Kutus und der Tibeter Lobsang.](ch016.xhtml#b0169_60)
+64. [Auf dem Weg nach Kloster Selipuk.](ch016.xhtml#b0169_64)
+65. [Auf dem Weg nach Kloster Selipuk.](ch016.xhtml#b0169_65)
+66. [Der Gova von Selipuk.](ch016.xhtml#b0169_66) Zeichnung des Verfassers.
 67. Der Häuptling Sonam Ngurbu und einer seiner Brüder.
 68. Sonam Ngurbu.
 69. Sonam Ngurbus Bruder.

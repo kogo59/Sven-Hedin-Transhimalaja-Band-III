@@ -119,7 +119,7 @@ am Schovo-tso hatten wir seine Karawane westwärts ziehen sehen, und
 wir wußten, daß er sich mit seiner Familie und seinem Gesinde auf der
 Wallfahrt nach dem Kang-rinpotsche befand. Zwischen seinem Lager und
 dem Klosterhügel strömt der Sumdang-tsangpo. Wir lagerten am linken
-Ufer, am Fuße des Klosterhügels (Abb. 64, 65).
+Ufer, am Fuße des Klosterhügels (Abb. [64.](ch016.xhtml#b0169_64), [65.](ch016.xhtml#b0169_65)).
 
 Unsere Lage war recht beunruhigend. Wir kamen wie sechs
 zerlumpte Kerle an, niemand wußte woher. Ich war wie ein Tibeter
@@ -139,8 +139,8 @@ dem Tschoktschuhäuptlinge und dem Klosterprior am Ufer des
 Sumdang-tsangpo auf.
 
 Kaum waren wir mit den Zelten fertig, so erschien auch schon der
-Gova des Ortes (Abb. 66), den zehn Männer begleiteten. Sie nahmen
-unaufgefordert unter meinem Filzdach Platz und lärmten tapfer darauf los,
+Gova des Ortes ([Abb. 66](ch016.xhtml#b0169_66)), den zehn Männer begleiteten.
+Sie nahmen unaufgefordert unter meinem Filzdach Platz und lärmten tapfer darauf los,
 indem sie verzweifelte Versuche machten, mein Vaterland zu ergründen;
 Indien, Turkestan oder Ladak? Ein weißer Mann in tibetischem Gewand?
 Daraus konnte kein Mensch klug werden.
