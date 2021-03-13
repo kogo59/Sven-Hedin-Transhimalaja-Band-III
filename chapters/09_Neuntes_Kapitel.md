@@ -261,9 +261,9 @@ uns, und er wollte mir auch wohl mit pomphaftem Auftreten und einem
 zahlreichen Gefolge imponieren. Einen hübschen Anblick gewährte die
 wilde Schar, als sie in starkem Trab ans Ufer sprengte und mit
 Getöse und Geplätscher über den Fluß setzte. Der Häuptling und seine
-Brüder (Abb. 67—69) hatten Pantherfelle als Satteldecken, und die
-Holzrahmen ihrer Sättel waren mit glänzend gelben Metallknöpfen und Platten
-beschlagen. Sie selber trugen kirschrote Mäntel mit langen aufgekrempten
+Brüder (Abb. [67](ch017.xhtml#b0189_67)—[69](ch017.xhtml#b0189_69)) hatten Pantherfelle
+als Satteldecken, und die Holzrahmen ihrer Sättel waren mit glänzend gelben Metallknöpfen
+und Platten beschlagen. Sie selber trugen kirschrote Mäntel mit langen aufgekrempten
 Ärmeln, niedrige Lederstiefel von mongolischem Schnitt, um den Leib
 Gürtel und an der linken Seite ein wertvolles Gehänge mit Dolchen und
 Feuerstahl an goldenen und silbernen Ketten. Der Säbel steckte quer im
@@ -792,8 +792,8 @@ ein großes silbernes Futteral, ein tragbarer Tempel, und im Gürtel saß,
 wagerecht eingesteckt, der Säbel. Die Gattinnen saßen nach Männerart
 auf ihren kleinen munteren Pferden, hatten ihre Filzstiefel in die
 Steigbügel gesteckt und ihre Kapuzen über den Kopf gezogen. Die übrige Schar
-war wie zu einem Kriegszuge gerüstet (Abb. 70—72). Sie trugen Säbel;
-lange Lanzen mit flacher Stahlspitze und polierten Stahlstreifen, die sich
+war wie zu einem Kriegszuge gerüstet (Abb. [70](ch017.xhtml#b0189_70)—72).
+Sie trugen Säbel; lange Lanzen mit flacher Stahlspitze und polierten Stahlstreifen, die sich
 wie Schlangen um den Schaft ringelten, hingen ihnen an Riemen von
 der Schulter, und sie schleppten sich mit plumpen Musketen mit langen
 scharfspitzigen Stützgabeln, die den nächsten Nachbarn, wenn er nicht

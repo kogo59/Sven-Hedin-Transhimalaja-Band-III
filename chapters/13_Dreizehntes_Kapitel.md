@@ -548,7 +548,7 @@ auf Asiens Stirn geschrieben hat.
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
-[^1010]: [*Kang Hi*: vergleiche [Kangxi](hthttps://de.wikipedia.org/wiki/Kangxi)]{.footnote}
+[^1010]: [*Kang Hi*: vergleiche [Kangxi](https://de.wikipedia.org/wiki/Kangxi)]{.footnote}
 
 [^1011]: [*Regis*: vergleiche [Jean-Baptiste Régis](https://de.wikipedia.org/wiki/Jean-Baptiste_R%C3%A9gis)]{.footnote}
 
