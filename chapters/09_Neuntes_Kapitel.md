@@ -792,7 +792,7 @@ ein großes silbernes Futteral, ein tragbarer Tempel, und im Gürtel saß,
 wagerecht eingesteckt, der Säbel. Die Gattinnen saßen nach Männerart
 auf ihren kleinen munteren Pferden, hatten ihre Filzstiefel in die
 Steigbügel gesteckt und ihre Kapuzen über den Kopf gezogen. Die übrige Schar
-war wie zu einem Kriegszuge gerüstet (Abb. [70](ch017.xhtml#b0189_70)—72).
+war wie zu einem Kriegszuge gerüstet (Abb. [70](ch017.xhtml#b0189_70)—[72](ch018.xhtml#b0209_72)).
 Sie trugen Säbel; lange Lanzen mit flacher Stahlspitze und polierten Stahlstreifen, die sich
 wie Schlangen um den Schaft ringelten, hingen ihnen an Riemen von
 der Schulter, und sie schleppten sich mit plumpen Musketen mit langen
@@ -801,7 +801,7 @@ aufpaßte, in die Augen und die Ohren stechen mußten. Jetzt stemmten sich
 die wilden Reiter mit den Lanzen gegen den Boden und schwangen sich
 mit akrobatischer Gewandtheit auf ihre Pferde. In einer Staubwolke
 eilte die Reiterschar davon und bald war sie hinter dem Klosterhügel
-verschwunden (Abb. 73, 74).
+verschwunden (Abb. [73](ch018.xhtml#b0209_73), [74](ch018.xhtml#b0209_74)).
 
 Nachdem Sonam Ngurbu fortgezogen war, sah es auf der Steppe
 öde und leer aus. Nur zwei armselige Nomadenzelte standen noch da,

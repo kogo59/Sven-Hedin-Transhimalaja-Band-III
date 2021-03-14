@@ -157,9 +157,9 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 69. [Sonam Ngurbus Bruder.](ch017.xhtml#b0189_69)
 70. [Zwei Reiter Sonam Ngurbus.](ch017.xhtml#b0189_70)
 71. [Soldaten Sonam Ngurbus.](ch017.xhtml#b0189_71) Skizze des Verfassers.
-72. Soldaten Sonam Ngurbus. Skizze des Verfassess.
-73. Sonam Ngurbus Abmarsch aus Selipuk.
-74. Sonam Ngurbus Abmarsch aus Selipuk.
+72. [Soldaten Sonam Ngurbus.](ch018.xhtml#b0209_72) Skizze des Verfassers.
+73. [Sonam Ngurbus Abmarsch aus Selipuk.](ch018.xhtml#b0209_73)
+74. [Sonam Ngurbus Abmarsch aus Selipuk.](ch018.xhtml#b0209_74)
 75. Eingang zum Kloster Selipuk.
 76. Aus dem innern Klosterhof in Selipuk.
 77. Alter Tibeter.

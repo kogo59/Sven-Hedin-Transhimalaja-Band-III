@@ -832,6 +832,6 @@ vorläufigen Mitteilungen fußenden Aufsatz zugeschrieben hat.“
 
 [^1216]: [*S. G. Burrard*: vergleiche [Sidney Gerald Burrard](https://en.wikipedia.org/wiki/Sidney_Gerald_Burrard)]{.footnote}
 
-[^1217]: [*Stoliczka*: vergleiche [Ferdinand Stoliczka](https://en.wikipedia.org/wiki/Ferdinand_Stoliczka]{.footnote}
+[^1217]: [*Stoliczka*: vergleiche [Ferdinand Stoliczka](https://en.wikipedia.org/wiki/Ferdinand_Stoliczka)]{.footnote}
 
-[^1218]: [*Anders Hennig*: vergleiche [Anders Hennig](https://de.wikipedia.org/wiki/Anders_Hennig]{.footnote}
+[^1218]: [*Anders Hennig*: vergleiche [Anders Hennig](https://de.wikipedia.org/wiki/Anders_Hennig)]{.footnote}
