@@ -186,7 +186,7 @@ Das Terrain hebt sich außerordentlich langsam. Wir sind dicht beim
 Surnge-la, einem wasserscheidenden Passe erster Ordnung im
 Transhimalaja. Und dennoch ist das vor uns liegende Land so gut wie eben.
 Auf beiden Seiten erheben sich Berge, aber wir wandern zwischen ihnen
-wie in einem offenen Tal (Abb. 82).
+wie in einem offenen Tal ([Abb. 82](ch020.xhtml#b0229_82)).
 
 „Hier ist der Surnge-la“, behauptet mein Begleiter.
 

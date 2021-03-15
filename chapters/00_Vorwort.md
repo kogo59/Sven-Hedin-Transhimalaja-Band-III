@@ -149,25 +149,25 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 61. [Meine treuen Diener, die Ladaki Gulam, Tubges, Kutus und der Tibeter Lobsang.](ch016.xhtml#b0169_60)
 62. [Meine treuen Diener, die Ladaki Gulam, Tubges, Kutus und der Tibeter Lobsang.](ch016.xhtml#b0169_60)
 63. [Meine treuen Diener, die Ladaki Gulam, Tubges, Kutus und der Tibeter Lobsang.](ch016.xhtml#b0169_60)
-64. [Auf dem Weg nach Kloster Selipuk.](ch016.xhtml#b0169_64)
-65. [Auf dem Weg nach Kloster Selipuk.](ch016.xhtml#b0169_65)
-66. [Der Gova von Selipuk.](ch016.xhtml#b0169_66) Zeichnung des Verfassers.
+64. [Auf dem Weg nach Kloster Selipuk.](ch016.xhtml#b0179_64)
+65. [Auf dem Weg nach Kloster Selipuk.](ch016.xhtml#b0179_65)
+66. [Der Gova von Selipuk.](ch016.xhtml#b0179_66) Zeichnung des Verfassers.
 67. [Der Häuptling Sonam Ngurbu und einer seiner Brüder.](ch017.xhtml#b0189_67)
 68. [Sonam Ngurbu.](ch017.xhtml#b0189_68)
 69. [Sonam Ngurbus Bruder.](ch017.xhtml#b0189_69)
-70. [Zwei Reiter Sonam Ngurbus.](ch017.xhtml#b0189_70)
-71. [Soldaten Sonam Ngurbus.](ch017.xhtml#b0189_71) Skizze des Verfassers.
+70. [Zwei Reiter Sonam Ngurbus.](ch017.xhtml#b0199_70)
+71. [Soldaten Sonam Ngurbus.](ch017.xhtml#b0199_71) Skizze des Verfassers.
 72. [Soldaten Sonam Ngurbus.](ch018.xhtml#b0209_72) Skizze des Verfassers.
 73. [Sonam Ngurbus Abmarsch aus Selipuk.](ch018.xhtml#b0209_73)
 74. [Sonam Ngurbus Abmarsch aus Selipuk.](ch018.xhtml#b0209_74)
-75. Eingang zum Kloster Selipuk.
-76. Aus dem innern Klosterhof in Selipuk.
-77. Alter Tibeter.
-78. Bettellama.
-79. Nomade. Skizzen des Verfassers.
-80. Abdul Kerims großes Zelt.
-81. Neugierige Besucher.
-82. Auf einem Passe des Transhimalaja.
+75. [Eingang zum Kloster Selipuk.](ch019.xhtml#b0219_75)
+76. [Aus dem innern Klosterhof in Selipuk.](ch019.xhtml#b0219_76)
+77. [Alter Tibeter.](ch019.xhtml#b0219_77)
+78. [Bettellama.](ch019.xhtml#b0219_78)
+79. [Nomade.](ch019.xhtml#b0219_79) Skizzen des Verfassers.
+80. [Abdul Kerims großes Zelt.](ch020.xhtml#b0229_80)
+81. [Neugierige Besucher.](ch020.xhtml#b0229_81)
+82. [Auf einem Passe des Transhimalaja.](ch020.xhtml#b0229_82)
 83. Gebirgslandschaft in Sudwesttibet
 84. Der Gouverneur von Saka-dsong.
 85. Der Gipfel des Kang-rinpotsche. Skizzen des Verfassers.

@@ -164,7 +164,7 @@ sie auch deshalb so freundlich zu uns. Aber draußen zu arbeiten, war
 unmöglich. Und einen ganzen Tag lang müßig dazusitzen und zuzuhören,
 wie der Regen auf mein zerlumptes Zelt trommelte, das konnte ich nicht
 aushalten. Daher wurden unsere Nachbarn benachrichtigt, daß jedes weibliche
-Wesen, das sich in Abdul Kerims großem weißem Zelte (Abb. 80, 81)
+Wesen, das sich in Abdul Kerims großem weißem Zelte (Abb.[80](ch020.xhtml#b0229_80), [81](ch020.xhtml#b0229_80))
 einfinde, um sich abkonterfeien zu lassen, eine Rupie erhalte, jedes
 männliche aber eine Tenga. Die Frauen sollten ihre besten Kleider anlegen
 und alle Schmucksachen, die sie in ihren Verstecken aufstöbern könnten.

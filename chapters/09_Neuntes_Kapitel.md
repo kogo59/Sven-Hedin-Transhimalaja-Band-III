@@ -119,7 +119,7 @@ am Schovo-tso hatten wir seine Karawane westwärts ziehen sehen, und
 wir wußten, daß er sich mit seiner Familie und seinem Gesinde auf der
 Wallfahrt nach dem Kang-rinpotsche befand. Zwischen seinem Lager und
 dem Klosterhügel strömt der Sumdang-tsangpo. Wir lagerten am linken
-Ufer, am Fuße des Klosterhügels (Abb. [64.](ch016.xhtml#b0169_64), [65.](ch016.xhtml#b0169_65)).
+Ufer, am Fuße des Klosterhügels (Abb. [64.](ch016.xhtml#b0179_64), [65.](ch016.xhtml#b0179_65)).
 
 Unsere Lage war recht beunruhigend. Wir kamen wie sechs
 zerlumpte Kerle an, niemand wußte woher. Ich war wie ein Tibeter
@@ -139,7 +139,7 @@ dem Tschoktschuhäuptlinge und dem Klosterprior am Ufer des
 Sumdang-tsangpo auf.
 
 Kaum waren wir mit den Zelten fertig, so erschien auch schon der
-Gova des Ortes ([Abb. 66](ch016.xhtml#b0169_66)), den zehn Männer begleiteten.
+Gova des Ortes ([Abb. 66](ch016.xhtml#b0179_66)), den zehn Männer begleiteten.
 Sie nahmen unaufgefordert unter meinem Filzdach Platz und lärmten tapfer darauf los,
 indem sie verzweifelte Versuche machten, mein Vaterland zu ergründen;
 Indien, Turkestan oder Ladak? Ein weißer Mann in tibetischem Gewand?
@@ -792,7 +792,7 @@ ein großes silbernes Futteral, ein tragbarer Tempel, und im Gürtel saß,
 wagerecht eingesteckt, der Säbel. Die Gattinnen saßen nach Männerart
 auf ihren kleinen munteren Pferden, hatten ihre Filzstiefel in die
 Steigbügel gesteckt und ihre Kapuzen über den Kopf gezogen. Die übrige Schar
-war wie zu einem Kriegszuge gerüstet (Abb. [70](ch017.xhtml#b0189_70)—[72](ch018.xhtml#b0209_72)).
+war wie zu einem Kriegszuge gerüstet (Abb. [70](ch017.xhtml#b0199_70)—[72](ch018.xhtml#b0209_72)).
 Sie trugen Säbel; lange Lanzen mit flacher Stahlspitze und polierten Stahlstreifen, die sich
 wie Schlangen um den Schaft ringelten, hingen ihnen an Riemen von
 der Schulter, und sie schleppten sich mit plumpen Musketen mit langen
@@ -813,8 +813,8 @@ vor ihm die Klöster Mendong und Lunkar. Nun aber öffneten sie sich
 mir ohne Bedenken. Der „Nerpa“, der Proviantmeister von Selipuk,
 kam mir entgegen und führte mich durch das große Tor in einen Vorhof,
 dessen Wände mit Proviantballen garniert waren, die man in
-Yakhäute mit der Wolle nach außen eingenäht hatte (Abb. 75, 76). Die
-Ballen enthielten Tee und Gerste, Tsamba und Salz. In einer Ecke
+Yakhäute mit der Wolle nach außen eingenäht hatte (Abb. [75](ch019.xhtml#b0219_75), [76](ch019.xhtml#b0219_76)).
+Die Ballen enthielten Tee und Gerste, Tsamba und Salz. In einer Ecke
 lagen aufgetürmt die Holzsättel der Transportyaks. An einer Mauer
 hingen verschiedene Flinten und Säbel in malerischem Durcheinander.
 Selipuk war im Falle eines Angriffs sichtlich zu seiner Verteidigung
@@ -858,9 +858,9 @@ war er alleiniger Herr im Hause und tat, was er wollte. Die andern
 Mönche kamen auch herauf, und alle waren gleich vergnügt.
 
 Nun erschien mein Freund, der Dorfhäuptling, in Begleitung einiger
-anderer Tibeter (Abb. 77—79). Sie überreichten mir ein Stück Malzzucker
-und eine kupferne Schüssel voll Milch, und dann warfen sie sich der Länge
-nach vor mir nieder, mit der Stirn den Boden berührend, und benahmen sich
+anderer Tibeter (Abb. [77](ch019.xhtml#b0219_77)—[79](ch019.xhtml#b0219_79)). Sie überreichten
+mir ein Stück Malzzucker und eine kupferne Schüssel voll Milch, und dann warfen sie sich
+der Länge nach vor mir nieder, mit der Stirn den Boden berührend, und benahmen sich
 gerade so, als ob ich eine Buddhastatue sei. Ich fragte verwundert, was
 dies zu bedeuten habe, und sollte nur zu bald die Lösung des Rätsels
 erfahren. Es war eine lange Geschichte.
