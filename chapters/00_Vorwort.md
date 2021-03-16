@@ -171,13 +171,13 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 83. [Gebirgslandschaft in Südwesttibet.](ch021.xhtml#b0239_83)
 84. [Der Gouverneur von Saka-dsong.](ch021.xhtml#b0239_84)
 85. [Der Gipfel des Kang-rinpotsche.](ch021.xhtml#b0239_85) Skizzen des Verfassers.
-86. [Junger Tibeter.](ch021.xhtml#b0239_86) Skizze des Verfassers.
-87. [Räuberhauptmann Kamba Tsenam.](ch021.xhtml#b0239_87) Skizze des Verfassers.
-88. Bewohner von Toktschen.
-89. Der dreizehnjährige Prior von Langbo-nan. Skizze des Verfassers.
-90. Tibetischer Jager.
-91. Mönche mit Klarinette und Muschelhorn. Skizzen des Verfassers.
-92. Lama mit drei Meter langer Kupferposaune. Skizze des Verfassers.
+86. [Junger Tibeter.](ch021.xhtml#b0249_86) Skizze des Verfassers.
+87. [Räuberhauptmann Kamba Tsenam.](ch021.xhtml#b0249_87) Skizze des Verfassers.
+88. [Bewohner von Toktschen.](ch022.xhtml#b0259_88)
+89. [Der dreizehnjährige Prior von Langbo-nan.](ch022.xhtml#b0259_89) Skizze des Verfassers.
+90. [Tibetischer Jäger.](ch023.xhtml#b0269_90)
+91. [Mönche mit Klarinette und Muschelhorn.](ch023.xhtml#b0269_91) Skizzen des Verfassers.
+92. [Lama mit drei Meter langer Kupferposaune.](ch023.xhtml#b0269_92) Skizze des Verfassers.
 93. Lama mit Tempeltrommel. Skizze des Verfassers.
 94. Lama in Tschiu-gumpa. Skizze des Verfasses.
 * Bunte Tafel. Am Manasarovar. Aquarell des Verfassers.

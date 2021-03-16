@@ -336,7 +336,7 @@ an mit 4,<small>9</small> Kubikmeter in der Sekunde.
 Am 23. Juli hoffte ich, daß die Tage der Gefangenschaft ihr Ende
 erreicht hätten. Von ihren Dienern begleitet, besuchten mich die
 Häuptlinge; soweit es der Raum gestattete, wurden sie alle in Abdul Kerims
-großem Zelte untergebracht ([Abb. 86](ch021.xhtml#b0239_86)). Der Gova von Pangri
+großem Zelte untergebracht ([Abb. 86](ch021.xhtml#b0249_86)). Der Gova von Pangri
 ergriff das Wort und sprach im Namen der anderen. Er zählte alle Gründe auf, welche
 die Notwendigkeit eines Rückzugs nach Norden dartaten. Da er keine
 Miene machte, aufzuhören, unterbrach ich ihn und erinnerte die
@@ -381,7 +381,7 @@ sind unerbittlich, aber stets höflich und freundlich.
 Es war klar, daß ich mir selbst helfen mußte. Die Karawane
 bestand aus zehn Pferden und Mauleseln. Neun davon sollten beladen
 werden, und ich würde auf dem Schimmel reiten, den ich im fernen
-Osten von dem Räuberhauptmann Kamba Tsenam gekauft hatte ([Abb. 87](ch021.xhtml#b0239_87)).
+Osten von dem Räuberhauptmann Kamba Tsenam gekauft hatte ([Abb. 87](ch021.xhtml#b0249_87)).
 Wir konnten nicht verlangen, daß die redlichen Tibeter sich unseretwegen
 Unannehmlichkeiten aussetzten.
 
@@ -417,7 +417,7 @@ mit dem Bescheide zurück, daß dem Häuptling die Sache leid geworden sei.
 
 Damit war das Signal zum Aufbruch gegeben. Schnell wurden die
 Pferde und Maultiere beladen, und angesichts aller Tibeter Toktschens zogen
-wir talabwärts (Abb. 88). Die Tiere hatten sich ausgeruht und waren in
+wir talabwärts ([Abb. 88](ch022.xhtml#b0259_88)). Die Tiere hatten sich ausgeruht und waren in
 ziemlich gutem Zustand. Ihre Lasten waren schwerer als gewöhnlich, da
 die Yaks ihnen ja nicht länger tragen halfen. Über Wiesen und
 Geröllabhänge schritt der Zug am linken Ufer des Samo--tsangpo vorwärts.
