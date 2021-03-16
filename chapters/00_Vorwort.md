@@ -168,11 +168,11 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 80. [Abdul Kerims großes Zelt.](ch020.xhtml#b0229_80)
 81. [Neugierige Besucher.](ch020.xhtml#b0229_81)
 82. [Auf einem Passe des Transhimalaja.](ch020.xhtml#b0229_82)
-83. Gebirgslandschaft in Sudwesttibet
-84. Der Gouverneur von Saka-dsong.
-85. Der Gipfel des Kang-rinpotsche. Skizzen des Verfassers.
-86. Junger Tibeter. Skizze des Verfassers.
-87. Räuberhauptmann Kamba Tsenam. Skizze des Verfassers.
+83. [Gebirgslandschaft in Südwesttibet.](ch021.xhtml#b0239_83)
+84. [Der Gouverneur von Saka-dsong.](ch021.xhtml#b0239_84)
+85. [Der Gipfel des Kang-rinpotsche.](ch021.xhtml#b0239_85) Skizzen des Verfassers.
+86. [Junger Tibeter.](ch021.xhtml#b0239_86) Skizze des Verfassers.
+87. [Räuberhauptmann Kamba Tsenam.](ch021.xhtml#b0239_87) Skizze des Verfassers.
 88. Bewohner von Toktschen.
 89. Der dreizehnjährige Prior von Langbo-nan. Skizze des Verfassers.
 90. Tibetischer Jager.

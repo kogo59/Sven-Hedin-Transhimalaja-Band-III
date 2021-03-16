@@ -3,7 +3,7 @@
 ::: justified
 *A*ls ich im vergangenen Jahre einen unvergeßlichen Sommermonat
 am Tso--mavang, dem Manasarovar der Hindus, und auf ihm
-verlebte, fühlte ich mich wie ein Herr im eigenen Lande und Seefahrer au
+verlebte, fühlte ich mich wie ein Herr im eigenen Lande und Seefahrer auf
 eigenem Wasser. Jetzt waren wir nur eine Schar Zugvögel, die sich aus
 den heiligen Gegenden fortsehnten.
 
@@ -449,8 +449,8 @@ hundert Meter lange, außergewöhnlich gut erhaltene Manimauer weist
 nach dem Kloster Tirtapuri hin, das sich an einem terrassenförmigen
 Abhang erhebt und das ein ganzes Trabantenkorps von Tschorten umgibt.
 
-Ich ritt zum Heiligtum hinauf. Der Prior, ein Kanpolama, ge-
-ruhte nicht, sich zu zeigen; aber von den 21 Mönchen des Klosters waren
+Ich ritt zum Heiligtum hinauf. Der Prior, ein Kanpolama, geruhte
+nicht, sich zu zeigen; aber von den 21 Mönchen des Klosters waren
 16 anwesend, und sie hatten nichts dagegen, mich herumzuführen. Sie
 sprachen den Namen des Ortes wie Tretapuri aus, aber das Wort
 Tirtapuri ist indischen Ursprungs und bedeutet „Wallfahrtsort“. Sanft lächelnd
@@ -512,7 +512,7 @@ lebenden Nomaden zu sein, das alles war viel bequemer, als mit
 Karawanen umherzuziehen, Schafe und Yaks zu hüten oder in Tschang--tang
 Salz zu brechen.
 
-Der Regen.hörte nicht auf. Aber wir hatten jetzt genug von der
+Der Regen hörte nicht auf. Aber wir hatten jetzt genug von der
 „heiligen Sau“ und ihren Mönchen, wir hüllten uns in unsere Mäntel
 und eilten zu unsern alten Zelten hinunter.
 

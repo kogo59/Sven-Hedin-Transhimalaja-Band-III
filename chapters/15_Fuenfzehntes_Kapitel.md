@@ -321,7 +321,7 @@ ausgescholten, weil er mich unerlaubterweise hatte nach Hor ziehen lassen.
 Nun würde wohl Kjangjang auf Pedang schelten, und so weiter die ganze
 Reihe hinauf, die Katze auf die Maus und die Maus auf den Strick, und
 der Knabe ging doch nicht in die Schule. Saka-dsong, wo man uns die ersten
-Yaks gegeben hatte, würde die letzte Nummer sein (Abb. 84). Man konnte
+Yaks gegeben hatte, würde die letzte Nummer sein ([Abb. 84](ch021.xhtml#b0239_84)). Man konnte
 einen schrecklichen Lärm in den Labyrinthen des Transhimalaja
 voraussehen, und es war ein wahres Glück, daß er nicht schon eher ausgebrochen
 war, denn dann wäre aus meinen letzten Entdeckungen nichts mehr geworden.
@@ -336,8 +336,8 @@ an mit 4,<small>9</small> Kubikmeter in der Sekunde.
 Am 23. Juli hoffte ich, daß die Tage der Gefangenschaft ihr Ende
 erreicht hätten. Von ihren Dienern begleitet, besuchten mich die
 Häuptlinge; soweit es der Raum gestattete, wurden sie alle in Abdul Kerims
-großem Zelte untergebracht (Abb. 86). Der Gova von Pangri ergriff das
-Wort und sprach im Namen der anderen. Er zählte alle Gründe auf, welche
+großem Zelte untergebracht ([Abb. 86](ch021.xhtml#b0239_86)). Der Gova von Pangri
+ergriff das Wort und sprach im Namen der anderen. Er zählte alle Gründe auf, welche
 die Notwendigkeit eines Rückzugs nach Norden dartaten. Da er keine
 Miene machte, aufzuhören, unterbrach ich ihn und erinnerte die
 Versammlung daran, daß der Gova von Pangri in Toktschen gar nichts zu
@@ -381,7 +381,7 @@ sind unerbittlich, aber stets höflich und freundlich.
 Es war klar, daß ich mir selbst helfen mußte. Die Karawane
 bestand aus zehn Pferden und Mauleseln. Neun davon sollten beladen
 werden, und ich würde auf dem Schimmel reiten, den ich im fernen
-Osten von dem Räuberhauptmann Kamba Tsenam gekauft hatte (Abb. 87).
+Osten von dem Räuberhauptmann Kamba Tsenam gekauft hatte ([Abb. 87](ch021.xhtml#b0239_87)).
 Wir konnten nicht verlangen, daß die redlichen Tibeter sich unseretwegen
 Unannehmlichkeiten aussetzten.
 
@@ -424,7 +424,7 @@ Geröllabhänge schritt der Zug am linken Ufer des Samo--tsangpo vorwärts.
 Wir marschierten an der Flußbiegung vorüber, wo im vorigen Jahre
 das Lager 211 aufgeschlagen worden war. Jetzt erweitert sich das Tal,
 und wir sehen den großen heiligen See wieder. Dort zeigt sich auch der
-Gipfel des Kailas, des heiligen Kang-rinpotsche (Abb. 85). Lobsang
+Gipfel des Kailas, des heiligen Kang-rinpotsche ([Abb. 85](ch021.xhtml#b0239_85)). Lobsang
 und Kutus warfen sich der Länge nach auf die Erde und berührten den
 Boden mit der Stirn, um die Götter des Berges zu begrüßen.
 
