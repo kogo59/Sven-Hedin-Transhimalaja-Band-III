@@ -181,11 +181,11 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 93. [Lama mit Tempeltrommel.](ch022.xhtml#b0279_93) Skizze des Verfassers.
 94. [Lama in Tschiu-gumpa.](ch022.xhtml#b0279_94) Skizze des Verfasses.
 * Bunte Tafel. [Am Manasarovar.](ch022.xhtml#b0287_00) Aquarell des Verfassers.
-95. Bettellama. Skizze des Verfassers.
-96. Major Ryder 2117
-97. Yaks auf dem Weg durch den Fluß.
-98. Im oberen Satledschtal.
-99. Der Satledsch in einer wilden Schlucht.
+95. [Bettellama.](ch022.xhtml#b0291_95) Skizze des Verfassers.
+96. [Major Ryder.](ch022.xhtml#b0291_96)
+97. [Yaks auf dem Weg durch den Fluß.](ch023.xhtml#b0301_97)
+98. [Im oberen Satledschtal.](ch023.xhtml#b0301_98)
+99. [Der Satledsch in einer wilden Schlucht.](ch023.xhtml#b0301_99)
 100. Schwieriger Marsch.
 101. Schwieriger Marsch.
 102. Querschwelle im Satledschtal bei Kjung-lung.

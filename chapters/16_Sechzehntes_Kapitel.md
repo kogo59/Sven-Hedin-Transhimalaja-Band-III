@@ -119,7 +119,7 @@ Hirten, Feuerungssammler und Wasserträger, ja sogar Tundup Lamas alte
 Mutter, und jeder erhielt aus alter Freundschaft ein kleines Geldgeschenk.
 Auch ein Bettellama erschien. Über der rechten Schulter trug er ein Paar
 mit Fell überzogene Holzsohlen, die er an den Händen festschnallte, wenn
-er kriechend den heiligen Kailas umkreiste (Abb. 95).
+er kriechend den heiligen Kailas umkreiste (Abb. [95](ch022.xhtml#b0291_95)).
 
 Am Ufer lagerte unter freiem Himmel eine Schar Hindupilger.
 Einer von ihnen war ein urkomischer Typus, etwa fünfzig Jahre alt,

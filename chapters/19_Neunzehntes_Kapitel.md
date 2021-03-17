@@ -317,7 +317,7 @@ des Kailas. Jetzt wissen wir aber, daß der Indus in dem Lande auf
 der Nordseite des Transhimalaja beginnt und der Satledsch am
 Nordabhange des Himalaja entspringt.
 
-Major Ryder (Abb. 96) und Hauptmann Rawling zogen Ende
+Major Ryder ([Abb. 96](ch022.xhtml#b0291_96)) und Hauptmann Rawling zogen Ende
 November 1904 an den beiden Seen entlang, also genau um dieselbe Zeit des
 Jahres, wie Pater Desideri im Jahre 1715. Die Eisschollen, die den
 Kanal zwischen den beiden Seen anfüllten, kamen, wie sich herausstellte,
@@ -612,6 +612,13 @@ verbindet er sein Geschick mit dem des Indus. Trübe und durch Indiens
 Erde belastet gleiten die sterbenden Ströme leise und still in das öde
 Meer hinaus, das den Erdball ringsum umspannt.
 
+:::: {.wrap-70  .break-before}
+![95. Bettellama. (S. 161.) <small>Skizze des Verfassers.</small>](Transhimalaja_Vol_III_291a.jpg "Bettellama."){#b0291_95}
+::::
+
+:::: {.wrap-70  .break-before}
+![96. Major Ryder. (S. 210.)](Transhimalaja_Vol_III_291b.jpg "Major Ryder."){#b0291_96}
+::::
 
 :::
 
