@@ -165,22 +165,22 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 77. [Alter Tibeter.](ch019.xhtml#b0219_77)
 78. [Bettellama.](ch019.xhtml#b0219_78)
 79. [Nomade.](ch019.xhtml#b0219_79) Skizzen des Verfassers.
-80. [Abdul Kerims großes Zelt.](ch020.xhtml#b0229_80)
-81. [Neugierige Besucher.](ch020.xhtml#b0229_81)
-82. [Auf einem Passe des Transhimalaja.](ch020.xhtml#b0229_82)
-83. [Gebirgslandschaft in Südwesttibet.](ch021.xhtml#b0239_83)
-84. [Der Gouverneur von Saka-dsong.](ch021.xhtml#b0239_84)
-85. [Der Gipfel des Kang-rinpotsche.](ch021.xhtml#b0239_85) Skizzen des Verfassers.
-86. [Junger Tibeter.](ch021.xhtml#b0249_86) Skizze des Verfassers.
-87. [Räuberhauptmann Kamba Tsenam.](ch021.xhtml#b0249_87) Skizze des Verfassers.
-88. [Bewohner von Toktschen.](ch022.xhtml#b0259_88)
-89. [Der dreizehnjährige Prior von Langbo-nan.](ch022.xhtml#b0259_89) Skizze des Verfassers.
-90. [Tibetischer Jäger.](ch023.xhtml#b0269_90)
-91. [Mönche mit Klarinette und Muschelhorn.](ch023.xhtml#b0269_91) Skizzen des Verfassers.
-92. [Lama mit drei Meter langer Kupferposaune.](ch023.xhtml#b0269_92) Skizze des Verfassers.
-93. Lama mit Tempeltrommel. Skizze des Verfassers.
-94. Lama in Tschiu-gumpa. Skizze des Verfasses.
-* Bunte Tafel. Am Manasarovar. Aquarell des Verfassers.
+80. [Abdul Kerims großes Zelt.](ch019.xhtml#b0229_80)
+81. [Neugierige Besucher.](ch019.xhtml#b0229_81)
+82. [Auf einem Passe des Transhimalaja.](ch019.xhtml#b0229_82)
+83. [Gebirgslandschaft in Südwesttibet.](ch020.xhtml#b0239_83)
+84. [Der Gouverneur von Saka-dsong.](ch020.xhtml#b0239_84)
+85. [Der Gipfel des Kang-rinpotsche.](ch020.xhtml#b0239_85) Skizzen des Verfassers.
+86. [Junger Tibeter.](ch020.xhtml#b0249_86) Skizze des Verfassers.
+87. [Räuberhauptmann Kamba Tsenam.](ch020.xhtml#b0249_87) Skizze des Verfassers.
+88. [Bewohner von Toktschen.](ch021.xhtml#b0259_88)
+89. [Der dreizehnjährige Prior von Langbo-nan.](ch021.xhtml#b0259_89) Skizze des Verfassers.
+90. [Tibetischer Jäger.](ch021.xhtml#b0269_90)
+91. [Mönche mit Klarinette und Muschelhorn.](ch021.xhtml#b0269_91) Skizzen des Verfassers.
+92. [Lama mit drei Meter langer Kupferposaune.](ch021.xhtml#b0269_92) Skizze des Verfassers.
+93. [Lama mit Tempeltrommel.](ch022.xhtml#b0279_93) Skizze des Verfassers.
+94. [Lama in Tschiu-gumpa.](ch022.xhtml#b0279_94) Skizze des Verfasses.
+* Bunte Tafel. [Am Manasarovar.](ch022.xhtml#b0287_00) Aquarell des Verfassers.
 95. Bettellama. Skizze des Verfassers.
 96. Major Ryder 2117
 97. Yaks auf dem Weg durch den Fluß.
@@ -253,9 +253,9 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 
 ## Karten.
 
-* Gaubils Karte der beiden Seen und der angeblichen Gangesquelle.
-* Anquetil du Perrons Karte des Manasarovar und Rakas-tal.
-* Moorecrofts Karte des Manasarovar und Rakas-tal.
+* [Gaubils Karte der beiden Seen und der angeblichen Gangesquelle.](ch020.xhtml#b0243_00)
+* [Anquetil du Perrons Karte des Manasarovar und Rakas-tal.](ch020.xhtml#b0245_00)
+* [Moorcrofts Karte des Manasarovar und Rakas-tal.](ch021.xhtml#b0261_00)
 * Westtibet. Gezeichnet von Leutnant C. J. Otto Kjellström. Maßstab: 1:1500&nbsp;000.
 
 :::: align-center

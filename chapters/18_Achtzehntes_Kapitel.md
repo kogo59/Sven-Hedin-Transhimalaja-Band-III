@@ -525,11 +525,11 @@ hatten.
 ::::
 
 :::: {.wrap-100 }
-![91. Mönche mit Klarinette und Muschelhorn. (S. 161.) <small>Skizzen des Verfassers</small>](Transhimalaja_Vol_III_269b.jpg "Mönche mit Klarinette und Muschelhorn"){#b0269_91}
+![91. Mönche mit Klarinette und Muschelhorn. (S. 161.) <small>Skizzen des Verfassers.</small>](Transhimalaja_Vol_III_269b.jpg "Mönche mit Klarinette und Muschelhorn"){#b0269_91}
 ::::
 
 :::: {.wrap-100 }
-![92.Lama mit drei Meter langer Kupferposaune. (S. 161.) <small>Skizze des Verfassers</small>](Transhimalaja_Vol_III_269c.jpg "Lama mit drei Meter langer Kupferposaune."){#b0269_92}
+![92. Lama mit drei Meter langer Kupferposaune. (S. 161.) <small>Skizze des Verfassers.</small>](Transhimalaja_Vol_III_269c.jpg "Lama mit drei Meter langer Kupferposaune."){#b0269_92}
 ::::
 
 Leutnant J. D. Cunningham, der 1844 schrieb, sammelte die

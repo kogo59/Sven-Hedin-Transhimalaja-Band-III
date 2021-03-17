@@ -670,7 +670,7 @@ gezogen. Weil der Fluß von Norden her große Nebenflüsse empfing, konnte
 man sich ohne Risiko das Vorhandensein hoher Berge in ihren
 Quellgebieten denken. Aber für geologische Hypothesen gab es gar keine
 Anhaltspunkte. Demjenigen, der darüber Klarheit gewinnen wollte, stand
-nur ein Weg offen: das Gebirge selbst reden zu lassen ([Abb. 83](ch021.xhtml#b0239_83)).
+nur ein Weg offen: das Gebirge selbst reden zu lassen ([Abb. 83](ch020.xhtml#b0239_83)).
 
 Von allen den Stellen, wo ich anstehendes Gestein antraf, habe
 ich Gesteinsproben mitgenommen, und ich habe dort auch jedesmal das

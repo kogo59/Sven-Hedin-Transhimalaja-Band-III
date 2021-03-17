@@ -44,7 +44,7 @@ nach Tschiu-gumpa weiterzog, besuchten ich, Lobsang und Kutus den
 jungen Prior Tsering in Langbo-nan. In seiner geräumigen
 Klosterzelle war alles gleich geblieben; er saß auf demselben Diwan hinter
 demselben rotlackierten Tische, und die heiligen Bücher lagen noch ebenso
-wie früher auf ihren staubigen Brettern ([Abb. 89](ch022.xhtml#b0259_89)). Sein Bild ist auch im
+wie früher auf ihren staubigen Brettern ([Abb. 89](ch021.xhtml#b0259_89)). Sein Bild ist auch im
 zweiten Bande auf S. 17 zu finden (Abb. 202). Der einzige Unterschied
 war, daß Lama Tsering ein Jahr älter geworden war; er war jetzt dreizehn
 Jahre alt. Die älteren Mönche des Klosters leisteten ihm Gesellschaft.
@@ -104,8 +104,8 @@ genügend lange andauernde Niederschläge den Tso-mavang steigen lassen.
 ![79. Nomade. <small>Skizzen des Verfassers</small>](Transhimalaja_Vol_III_219e.jpg "Nomade."){#b0219_79}
 ::::
 
-Auch in Tschiu-gumpa fand ich alte Freunde (Abb. [90](ch023.xhtml#b0269_90)—94). Der
-hauptsächlichste unter ihnen war der junge Mönch Tundup Lama, der mit
+Auch in Tschiu-gumpa fand ich alte Freunde (Abb. [90](ch021.xhtml#b0269_90)—[94.](ch022.xhtml#b0279_94)).
+Der hauptsächlichste unter ihnen war der junge Mönch Tundup Lama, der mit
 einem Klumpen Butter als Bewillkommnungsgabe und mit
 langausgestreckter Zunge sich in mein Zelt hineindienerte. Er war magerer geworden,
 sein Gesicht sah abgezehrt aus, er ging gebückt und mit schleppenden
