@@ -267,8 +267,8 @@ hatte. Hier zog ich meine eigenen Füße denen des Pferdes vor.
 Gleich einer Wandleiste klebt der Pfad an dem jähen Abhange. Die
 Straße kriecht in jede Schlucht und Kluft der Bergwand hinein, sie windet
 sich um jeden Felsvorsprung, sie steigt und fällt und benutzt stets die
-launenhaften Formen des anstehenden Gesteines (Abb. 100, 101). Sie läuft
-unförmliche Treppenstufen in nacktem, kalkhaltigem Sandstein und Quarzit
+launenhaften Formen des anstehenden Gesteines (Abb. [100](ch024.xhtml#b0311_100), [101](ch024.xhtml#b0311_101)).
+Sie läuft unförmliche Treppenstufen in nacktem, kalkhaltigem Sandstein und Quarzit
 hinauf und hinunter, wo sich nie eine menschliche Hand erhoben hat, um ein
 Hindernis aus dem Wege zu räumen oder eine Unebenheit auszugleichen.
 Das Zurücklegen einer Strecke, die wenig länger war als hundert Meter,
@@ -374,8 +374,8 @@ Alles dieses Wasser ist dick wie Erbsensuppe durch das feste
 Material, das der Regen fortgespült und die Kraft der Erosion losgerissen hat
 und das den Fluß noch mehr befähigt, sein Bett immer tiefer auszuhöhlen.
 Hier, bei Kjung-lung, hat der Fluß eines seiner ersten schwierigen
-Hindernisse, eine Querschwelle, zu bekämpfen (Abb. 102). Es werden auf dem Zuge,
-der uns bevorsteht, wohl noch mehrere dieser Art kommen! Sie nehmen
+Hindernisse, eine Querschwelle, zu bekämpfen ([Abb. 102](ch024.xhtml#b0311_102)).
+Es werden auf dem Zuge, der uns bevorsteht, wohl noch mehrere dieser Art kommen! Sie nehmen
 auf dem Wege abwärts nur an Größe zu, wie der Fluß an Umfang.
 Eines der schönsten, imposantesten Durchbruchstäler der Erde ist das Tal,
 das der Satledsch durch den Himalaja geschnitten hat. Unsere Spannung
@@ -408,8 +408,8 @@ Unglückliche käme in dem siedenden Strudel um.
 Unweit des Ufers steht eine Reihe rotangestrichener Manimauern und
 Tschortenpyramiden. Wohl hundert Meter über dem Flusse schwebt das
 Kloster Kjung-lung wie das Nest einer Felsenschwalbe auf der Höhe einer
-seltsam modellierten Geröllterrasse (Abb. 104). In ihrer außerordentlich
-steilen Front hat das Regenwasser Kegel und Pfeiler, Mauern und Türme
+seltsam modellierten Geröllterrasse ([Abb. 104](ch024.xhtml#b0321_104)). In ihrer
+außerordentlich steilen Front hat das Regenwasser Kegel und Pfeiler, Mauern und Türme
 ausgewaschen. Ganz oben auf dieser anscheinend zerbrechlichen Unterlage
 thront Kjung-lung, das dem Flusse eine ziegelrote Fassade zukehrt und an
 Lama-juru in Ladak erinnert, obwohl es viel kleiner ist. Ein Gebäude
@@ -426,7 +426,7 @@ den Gelukpa, der orthodoxen Sekte.
 Lama Samtang Rangdol hat sich von mir verabschiedet und sich ins
 Kloster hinaufbegeben. Während meine Ladaki die Tiere abladen, sehe
 ich mir die Brücke, die von der gewöhnlichen asiatischen Art ist,
-genauer an (Abb. 103, 105).
+genauer an (Abb. [103](ch024.xhtml#b0311_103), [105](ch024.xhtml#b0321_105)).
 
 Dort, wo der Fluß am schmalsten ist und zwei vorspringende Felsen
 sich einander auf nur 13 Meter Abstand nähern, hat man die Brücke

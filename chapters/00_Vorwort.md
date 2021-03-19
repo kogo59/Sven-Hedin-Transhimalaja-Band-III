@@ -186,13 +186,13 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 97. [Yaks auf dem Weg durch den Fluß.](ch023.xhtml#b0301_97)
 98. [Im oberen Satledschtal.](ch023.xhtml#b0301_98)
 99. [Der Satledsch in einer wilden Schlucht.](ch023.xhtml#b0301_99)
-100. Schwieriger Marsch.
-101. Schwieriger Marsch.
-102. Querschwelle im Satledschtal bei Kjung-lung.
-103. Transport über die Satledschbrücke bei Daba.
-104. Kloster Kjung-lung. Skizze des Verfassers.
-105. Satledschbrücke bei Kjung-lung.
-106. Steinmal am Steilrande des Satledschtals.
+100. [Schwieriger Marsch.](ch024.xhtml#b0311_100)
+101. [Schwieriger Marsch.](ch024.xhtml#b0311_101)
+102. [Querschwelle im Satledschtal bei Kjung-lung.](ch024.xhtml#b0311_102)
+103. [Transport über die Satledschbrücke bei Daba.](ch024.xhtml#b0311_103)
+104. [Kloster Kjung-lung.](ch024.xhtml#b0321_104) Skizze des Verfassers.
+105. [Satledschbrücke bei Kjung-lung.](ch024.xhtml#b0321_105)
+106. [Steinmal am Steilrande des Satledschtals.](ch024.xhtml#b0321_106)
 107. „Der Blick bestreicht gewaltige Räume“.
 108. In einem Talgrunde
 109. Aussicht von Dongbo-gumpa nach Nordost über das Satledschtal. Skizze des Verfasserss.
