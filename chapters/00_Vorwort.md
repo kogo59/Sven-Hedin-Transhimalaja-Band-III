@@ -193,11 +193,11 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 104. [Kloster Kjung-lung.](ch024.xhtml#b0321_104) Skizze des Verfassers.
 105. [Satledschbrücke bei Kjung-lung.](ch024.xhtml#b0321_105)
 106. [Steinmal am Steilrande des Satledschtals.](ch024.xhtml#b0321_106)
-107. „Der Blick bestreicht gewaltige Räume“.
-108. In einem Talgrunde
-109. Aussicht von Dongbo-gumpa nach Nordost über das Satledschtal. Skizze des Verfasserss.
-* Bunte Tafel. Der Vorraum zum Kloster in Daba. Aquarell des Verfassers
-* Bunte Tafel. Aus dem Heiligtum von Mangnang-gumpa. Aquarell des Verfasser.
+107. [„Der Blick bestreicht gewaltige Räume“.](ch025.xhtml#b0327_107)
+108. [In einem Talgrunde.](ch025.xhtml#b0327_108)
+109. [Aussicht von Dongbo-gumpa nach Nordost über das Satledschtal.](ch025.xhtml#b0327_109) Skizze des Verfassers.
+* Bunte Tafel. [Der Vorraum zum Kloster in Daba.](ch025.xhtml#b0333_000) Aquarell des Verfassers
+* Bunte Tafel. [Aus dem Heiligtum von Mangnang-gumpa.](ch026.xhtml#b0343_000) Aquarell des Verfasser.
 110. Durch eine Schlucht zum Satledschtal.
 111. Talboden bei Daba.
 112. Wohnungen der Mönche in Daba-gumpa.

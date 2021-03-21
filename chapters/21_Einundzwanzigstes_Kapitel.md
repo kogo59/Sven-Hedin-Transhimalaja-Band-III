@@ -81,7 +81,7 @@ dem Wasser bei der Ausmeißelung und Vertiefung des Bettes als
 Werkzeug.
 
 :::: {.wrap-100 .break-before }
-![100. Schwierige Stellen auf dem Marsche.(S. 223.)](Transhimalaja_Vol_III_311a.jpg "Schwierige Stellen auf dem  Marsche."){#b0311_100}
+![100. Schwierige Stellen auf dem Marsche. (S. 223.)](Transhimalaja_Vol_III_311a.jpg "Schwierige Stellen auf dem  Marsche."){#b0311_100}
 ::::
 
 :::: {.wrap-100  }
@@ -101,7 +101,7 @@ hinüber und an den steilen Wänden bergab und durchqueren zwei tief
 eingeschnittene Nebentäler ohne Wasser. Man muß über alle diese
 hinderlichen Nebentäler hinüber, die den Weg nach Indien so unendlich lang
 machen. Und dann geht es wieder nach den flach wellenförmigen Höhen
-hinauf. Der Blick bestreicht gewaltige Räume (Abb. 107). Man
+hinauf. Der Blick bestreicht gewaltige Räume ([Abb. 107](ch025.xhtml#b0327_107)). Man
 vergißt die senkrecht eingeschnittenen Cañontäler und meint, daß zwischen den
 niedrigen Kämmen und Gipfeln, die sich im Norden und Süden
 erheben, das ganze Land eben sei.
@@ -170,7 +170,7 @@ Dort, wo man auf jüngeren und älteren Terrassenabsätzen und bergauf
 und bergab in Rinnen und Seitentälern oder über domförmige Hügel
 hinweg reitet, bedarf man keines Führers. Aber manchmal geht der
 Weg eine Weile in einem Talgrunde weiter und ist dort unsichtbar, durch
-angeschwollenes Wasser fortgespült (Abb. 108). Dort wären wir verloren,
+angeschwollenes Wasser fortgespült ([Abb. 108](ch025.xhtml#b0327_108)). Dort wären wir verloren,
 wenn wir Samje Karmo nicht hätten. Er ist wirklich angenehm als
 Gesellschaft. Das fand augenscheinlich auch das kleine stumpfnäsige
 chinesische Schoßhündchen mit dem Schellenhalsbande, das Samje auf dem
@@ -292,7 +292,7 @@ vorgenommen wird, war das einzige Außergewöhnliche. Das Portal des
 Lhakang war verschlossen.
 
 Ich zeichne eine flüchtige Skizze des Klosters und des Dongbotales,
-das sich nach dem Satledsch hinunterschlängelt (Abb. 109). Aber der Regen
+das sich nach dem Satledsch hinunterschlängelt ([Abb. 109](ch025.xhtml#b0327_109)). Aber der Regen
 setzt wieder ein, und auf nassem Papier läßt sich nicht zeichnen. Sogar
 Mönchen und Laien wird das Wetter zu feucht, und sie verschwinden
 einer nach dem andern wie Ratten in ihren dumpfigen Löchern. Es
@@ -327,8 +327,8 @@ einschlafen zu müssen, beschlossen wir blutenden Herzens, eine der Ziegen zu
 opfern. Es war grausam, aber es mußte sein. Die Ziege war mager
 und elend, leistete uns aber doch ihren letzten Freundschaftsdienst, so gut
 sie konnte. Am Abend sangen meine Leute ihre alten Lieder, aber der
-Gesang klang matter als sonst, weil der Fluß und die Wolken aus kräf—
-tigen Kehlen mitsangen.
+Gesang klang matter als sonst, weil der Fluß und die Wolken aus
+kräftigen Kehlen mitsangen.
 
 Die nächtliche Temperatur geht auf 4,<small>6</small> Grad über Null herunter,
 und noch haben wir nicht einmal einen Gruß von Indiens Sommer
@@ -388,8 +388,8 @@ wir euch im Kloster!“
 
 „Quengelt nicht, sondern bezahlt bar!“
 
-Zwei meiner Leute sahen sich die Stelle an, und es stellte sich her—
-aus, daß die Ziegen dort allerdings geschmaust hatten — was ihnen
+Zwei meiner Leute sahen sich die Stelle an, und es stellte sich
+heraus, daß die Ziegen dort allerdings geschmaust hatten — was ihnen
 gern gegönt war — aber daß sie höchstens Gerste im Werte einer Rupie
 hatten vertilgen können. Die Damen erhielten jedoch drei und traten
 zufrieden lächelnd den Rückzug an. Sie hatten die Ziegen selbst ins
@@ -494,7 +494,6 @@ Dabatales hinunter (Abb. 110, 111). Der Fluß gleichen Namens war
 in mehrere Arme geteilt und führte nur 4,<small>5</small> Kubikmeter Wasser in der
 Sekunde. An seinem linken Ufer stand das Lager 468 unmittelbar
 unterhalb des Klosterdorfes.
-
 
 :::
 
