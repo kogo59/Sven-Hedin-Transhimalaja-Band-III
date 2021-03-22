@@ -490,9 +490,9 @@ Wir haben nun genug gesehen und gehen in das Nebental hinab,
 das wir vor kurzem zur Rechten hatten. Von geringen Anfängen an
 gräbt es sich immer tiefer ein, und durch die abschüssigen Labyrinthe
 seiner Rinnen, Vorsprünge und Hügel ziehen wir nach dem Grunde des
-Dabatales hinunter (Abb. 110, 111). Der Fluß gleichen Namens war
-in mehrere Arme geteilt und führte nur 4,<small>5</small> Kubikmeter Wasser in der
-Sekunde. An seinem linken Ufer stand das Lager 468 unmittelbar
+Dabatales hinunter (Abb. [110](ch027.xhtml#b0353_110), [111](ch027.xhtml#b0353_111)).
+Der Fluß gleichen Namens war in mehrere Arme geteilt und führte nur 4,<small>5</small> Kubikmeter
+Wasser in der Sekunde. An seinem linken Ufer stand das Lager 468 unmittelbar
 unterhalb des Klosterdorfes.
 
 :::

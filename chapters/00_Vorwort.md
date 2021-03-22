@@ -198,14 +198,14 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 109. [Aussicht von Dongbo-gumpa nach Nordost über das Satledschtal.](ch025.xhtml#b0327_109) Skizze des Verfassers.
 * Bunte Tafel. [Der Vorraum zum Kloster in Daba.](ch025.xhtml#b0333_000) Aquarell des Verfassers
 * Bunte Tafel. [Aus dem Heiligtum von Mangnang-gumpa.](ch026.xhtml#b0343_000) Aquarell des Verfasser.
-110. Durch eine Schlucht zum Satledschtal.
-111. Talboden bei Daba.
-112. Wohnungen der Mönche in Daba-gumpa.
-113. Aus dem Dorfe Daba. Skizzen des Verfassers.
-114. Dorf Daba mit dem Kloster.
-115. Dorf Daba.
+110. [Durch eine Schlucht zum Satledschtal.](ch027.xhtml#b0353_110)
+111. [Talboden bei Daba.](ch027.xhtml#b0353_111)
+112. [Wohnungen der Mönche in Daba-gumpa.](ch027.xhtml#b0353_112)
+113. [Aus dem Dorfe Daba.](ch027.xhtml#b0353_113) Skizzen des Verfassers.
+114. [Dorf Daba mit dem Kloster.](ch027.xhtml#b0353_114)
+115. [Dorf Daba.](ch027.xhtml#b0353_115)
 116. Tschorten in Daba gumpa.
-117. Klostermauer in Daba-gumpa. Skizzen des Verfasses.
+117. Klostermauer in Daba-gumpa. Skizzen des Verfassers.
 118. Terrasse in Daba-gumpa.
 119. Tschorten in Daba-gumpa, von oben gesehen.
 120. Aus dem Tempel von Daba-gumpa. Skizze des Verfassers.

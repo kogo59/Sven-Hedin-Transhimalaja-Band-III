@@ -352,7 +352,7 @@ und der Träume.
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
-[^2300]: [*Totling*: vergleiche [Thoding-Kloster](ttps://de.wikipedia.org/wiki/Thoding-Kloster)]{.footnote}
+[^2300]: [*Totling*: vergleiche [Thoding-Kloster](https://de.wikipedia.org/wiki/Thoding-Kloster)]{.footnote}
 
 [^2301]: [*Simla*:  vergleiche [Shimla](https://de.wikipedia.org/wiki/Shimla)]{.footnote}
 

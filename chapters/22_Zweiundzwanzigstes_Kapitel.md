@@ -12,7 +12,8 @@ Zuerst zeichnete ich der Reihe nach ein Panorama aller der Ritterburgen,
 Türme und krenelierten Mauern, die ihre phantastischen Fassaden
 der Gasse des Dabatales zukehrten und durch Regen und Rinnen in
 den untersten Absätzen des linken Abhanges modelliert worden waren
-(Abb. 112, 113). Ich war noch nicht damit fertig, als Kutus und
+(Abb. [112](ch027.xhtml#b0353_112), [113](ch027.xhtml#b0353_112)). Ich war noch
+nicht damit fertig, als Kutus und
 Lobsang von einer ersten Rekognoszierung im Dorfe zurückkehrten; sie hatten
 ihre Bündel voller Reis und Tsamba, dazu auch Gerste für die Tiere.
 So waren wir denn einstweilen wieder vor Hungersnot bewahrt. Schlechten
@@ -41,10 +42,10 @@ so zum Skizzieren Reizendes hatte ich nicht gesehen, seitdem ich
 Taschi-lunpos Tempelhöfe hinter mir zurückgelassen hatte. Das Dorf liegt wie
 ein Vogelnest in der Mündung eines außerordentlich kurzen Zirkustales,
 einer Nische oder, wie ich diese taschenförmige Einsenkung sonst nennen
-soll (Abb. 114, 115). Sie liegt in der Geröllterrasse inmitten eines
-Waldes versteinerter Pyramiden und Kegel, die durch vertikale Klüfte
-voneinander getrennt werden, aber oft so eng sind, daß man nicht in sie
-hineinkriechen konnte. Eine Mauer, die gerissen ist; eine
+soll (Abb. [114](ch027.xhtml#b0353_114), [115](ch027.xhtml#b0353_115)). Sie liegt 
+in der Geröllterrasse inmitten eines Waldes versteinerter Pyramiden und Kegel, die
+durch vertikale Klüfte voneinander getrennt werden, aber oft so eng sind, daß
+man nicht in sie hineinkriechen konnte. Eine Mauer, die gerissen ist; eine
 Hintergrunddekoration in wildester gigantischer Skulptur; eine Reihe an der Wand
 befestigter Säulen in mehreren Etagen; eine Riesenorgel mit dicht
 aneinander gedrängten Pfeifen. Zwischen den verschiedenen Absätzen tritt
