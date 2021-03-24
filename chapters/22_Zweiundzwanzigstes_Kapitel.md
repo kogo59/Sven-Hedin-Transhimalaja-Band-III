@@ -42,7 +42,7 @@ so zum Skizzieren Reizendes hatte ich nicht gesehen, seitdem ich
 Taschi-lunpos Tempelhöfe hinter mir zurückgelassen hatte. Das Dorf liegt wie
 ein Vogelnest in der Mündung eines außerordentlich kurzen Zirkustales,
 einer Nische oder, wie ich diese taschenförmige Einsenkung sonst nennen
-soll (Abb. [114](ch027.xhtml#b0353_114), [115](ch027.xhtml#b0353_115)). Sie liegt 
+soll (Abb. [114](ch027.xhtml#b0353_114), [115](ch027.xhtml#b0353_115)). Sie liegt
 in der Geröllterrasse inmitten eines Waldes versteinerter Pyramiden und Kegel, die
 durch vertikale Klüfte voneinander getrennt werden, aber oft so eng sind, daß
 man nicht in sie hineinkriechen konnte. Eine Mauer, die gerissen ist; eine
@@ -301,9 +301,9 @@ Schlagintweits Ermordung in Kaschgar ausgestellt worden.
 
 Nun mühen wir uns ab, um durch eine enge, steile Rinne in dem
 launenhaften Abhange des Geröllbettes nach der ebenen Terrasse vor
-Daba-gumpa hinaufzugelangen (Abb. 117, 118). Ein alter Lama kommt
-mir entgegen; er ist beauftragt, mir das Kloster und die Tempelsäle zu
-zeigen. Zuerst geleitet er mich in einen Vorhof, der nur teilweise ein
+Daba-gumpa hinaufzugelangen (Abb. [117](ch028.xhtml#b0365_117), [118](ch028.xhtml#b0365_118)).
+Ein alter Lama kommt mir entgegen; er ist beauftragt, mir das Kloster und die
+Tempelsäle zu zeigen. Zuerst geleitet er mich in einen Vorhof, der nur teilweise ein
 schützendes Dach hat. Hier sehe ich die gewöhnliche Anordnung wieder, das
 Portal des Lhakang mit seinen roten Türfüllungen, die mit eisernen und
 Messingbeschlägen verziert sind, die blauen, an der Wand befestigten
@@ -337,8 +337,8 @@ der rechte ist mit Gold überzogen. In wahren Schützenlinien, tadellos
 ausgerichtet, stehen andere Götterbilder auf Tischen und Wandbrettern zwischen
 Opfergefäßen und Lichtschalen aufgereiht. Auf dunklen Blättern liegen
 die Wahrheiten des Lamaismus zwischen ihren alten Holzdeckeln
-eingeklemmt, in grüne und blaue Tücher gewickelt (Abb. 120). Die heiligen
-Legenden sprechen auch in bunten Bildern aus einem Walde von Tankas,
+eingeklemmt, in grüne und blaue Tücher gewickelt (Abb. [120](ch028.xhtml#b0365_120).
+Die heiligen Legenden sprechen auch in bunten Bildern aus einem Walde von Tankas,
 und um die Säulen herum sind die üblichen Zeugbahnen gewunden.
 
 Ein kleinerer Tempelsaal heißt Lama-lhakang, nach dem Jabjan
@@ -416,7 +416,8 @@ Elefantenflusse.
 Der Abend naht; wir beginnen den Abstieg, aber noch einmal müssen
 wir an der steilen Wand verweilen, da, wo ein halbes Dutzend hoher
 Tschorten steht, die in ihrer Form schön und ehrwürdig sind und infolge
-ihres beginnenden Verfalles ein antikes Gepräge tragen (Abb. 116, 119).
+ihres beginnenden Verfalles ein antikes Gepräge tragen
+(Abb. [116](ch028.xhtml#b0365_116), [119](ch028.xhtml#b0365_119)).
 Ein würfelförmiges, mit Leisten und Ornamenten verziertes Fundament
 trägt eine zusammengedrückte Kuppel mit zwiebelförmigem Türmchen, das
 mit einem vergoldeten Halbmond um eine runde Scheibe endet. Sie sind

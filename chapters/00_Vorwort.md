@@ -204,12 +204,13 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 113. [Aus dem Dorfe Daba.](ch027.xhtml#b0353_113) Skizzen des Verfassers.
 114. [Dorf Daba mit dem Kloster.](ch027.xhtml#b0353_114)
 115. [Dorf Daba.](ch027.xhtml#b0353_115)
-116. Tschorten in Daba gumpa.
-117. Klostermauer in Daba-gumpa. Skizzen des Verfassers.
-118. Terrasse in Daba-gumpa.
-119. Tschorten in Daba-gumpa, von oben gesehen.
-120. Aus dem Tempel von Daba-gumpa. Skizze des Verfassers.
-121. Schlucht auf dem Wege nach Totling. 122. Brücke von Totling.
+116. [Tschorten in Daba-gumpa.](ch028.xhtml#b0365_116)
+117. [Klostermauer in Daba-gumpa.](ch028.xhtml#b0365_117) Skizzen des Verfassers.
+118. [Terrasse in Daba-gumpa.](ch028.xhtml#b0365_118)
+119. [Tschorten in Daba-gumpa, von oben gesehen.](ch028.xhtml#b0365_119)
+120. [Aus dem Tempel von Daba-gumpa.](ch028.xhtml#b0365_120) Skizze des Verfassers.
+121. [Schlucht auf dem Wege nach Totling.](ch028.xhtml#b0365_121)
+122. [Brücke von Totling.](ch028.xhtml#b0365_122)
 123. Brücke von Totling.
 124. Übergang über die Brücke von Totling.
 125. Schlucht bei Natang.
