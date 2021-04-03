@@ -208,23 +208,23 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 117. [Klostermauer in Daba-gumpa.](ch028.xhtml#b0365_117) Skizzen des Verfassers.
 118. [Terrasse in Daba-gumpa.](ch028.xhtml#b0365_118)
 119. [Tschorten in Daba-gumpa, von oben gesehen.](ch028.xhtml#b0365_119)
-120. [Aus dem Tempel von Daba-gumpa.](ch028.xhtml#b0365_120) Skizze des Verfassers.
-121. [Schlucht auf dem Wege nach Totling.](ch028.xhtml#b0365_121)
-122. [Brücke von Totling.](ch028.xhtml#b0365_122)
-123. Brücke von Totling.
-124. Übergang über die Brücke von Totling.
-125. Schlucht bei Natang.
-126. Schangdse-Tal.
-127. Tal beim Kloster Rabgjäling. Skizzen des Verfassers.
-128. Kloster Rabgjäling.
-129. Kloster Rabgjäling. Skizzen des Verfassers.
-130. Tal des Ngari-tsangpo.
-131. Die kleine Brücke über den Ngari-tsangpo.
-132. Bergkette an der Grenze zwischen Tibet und Indien.
-133. Schlucht bei Optil.
-134. Im Höllenloch des Ngari-tsanghphoge.
-135. Brücke über den Tomlang-tsangpo.
-136. Loptschak-Brücke.
+120. [Aus dem Tempel von Daba-gumpa.](ch028.xhtml#b0375_120) Skizze des Verfassers.
+121. [Schlucht auf dem Wege nach Totling.](ch028.xhtml#b0375_121)
+122. [Brücke von Totling.](ch028.xhtml#b0375_122)
+123. [Brücke von Totling.](ch029.xhtml#b0385_123)
+124. [Übergang über die Brücke von Totling.](ch029.xhtml#b0385_124)
+125. [Schlucht bei Natang.](ch029.xhtml#b0385_125)
+126. [Schangdse-Tal.](ch029.xhtml#b0396_126)
+127. [Tal beim Kloster Rabgjäling.](ch029.xhtml#b0396_127) Skizzen des Verfassers.
+128. [Kloster Rabgjäling.](ch029.xhtml#b0396_128)
+129. [Kloster Rabgjäling.](ch029.xhtml#b0396_129) Skizzen des Verfassers.
+130. [Tal des Ngari-tsangpo.](ch030.xhtml#b0405_130)
+131. [Die kleine Brücke über den Ngari-tsangpo.](ch030.xhtml#b0405_131)
+132. [Bergkette an der Grenze zwischen Tibet und Indien.](ch030.xhtml#b0405_132)
+133. [Schlucht bei Optil.](ch030.xhtml#b0405_133)
+134. [Im Höllenloch des Ngari-tsangpo.](ch030.xhtml#b0415_134)
+135. [Brücke über den Tomlang-tsangpo.](ch030.xhtml#b0415_135)
+136. [Loptschak-Brücke.](ch030.xhtml#b0415_136)
 137. Ziegen auf dem Weg über die Loptschak-Brücke.
 138. Brücke über den Satledsch. Skizze des Verfassers.
 139. Die Karawane nach glücklicher Passierung der Loptschak-Brücke.
