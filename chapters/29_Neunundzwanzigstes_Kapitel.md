@@ -116,7 +116,7 @@ Sie standen auf einem schmalen Landstreifen zwischen einer senkrechten
 Felsenwand und dem rauschenden Bache. Laue Lüfte flüsterten in den Kronen der
 Weiden und ließen die schreiend grün gegen die grauen Gesteinplatten
 abstechenden Gerstenfelder wogen; die Gebetwimpel flatterten träge an ihren
-Stangen, halbnackte niedsiche, artig kleine Kinder spielten auf den platten
+Stangen, halbnackte niedliche, artig kleine Kinder spielten auf den platten
 Dächern der Hütten, und, ihr helles Lachen hallte zwischen den Bergen wider.
 Dann und wann ertönte das Bellen der Dorfköter, und unveränderlich singt der
 Fluß sein sehnsuchtsvolles Lied von dem unendlich langen Wege nach dem Meere.
@@ -193,7 +193,7 @@ endlosen Abstieg.
 ::::
 
 :::: {.wrap-100 }
-![141. Satledschtal unterhalb Loptschak. (S. 333.) ](Transhimalaja_Vol_III_435c.jpg "Satledschtal unterhalb Loptschak."){#b0435_142}
+![142. Satledschtal unterhalb Loptschak. (S. 333.) ](Transhimalaja_Vol_III_435c.jpg "Satledschtal unterhalb Loptschak."){#b0435_142}
 ::::
 
 Nun folgen zahllose Zickzackbiegungen, die an steilen Wänden und Böschungen

@@ -231,9 +231,9 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 140. [Unter den Bäumen des Dorfes Schipki.](ch032.xhtml#b0435_140) Skizze des Verfassers.
 141. [Schipki-la.](ch032.xhtml#b0435_141)
 142. [Satledschtal unterhalb Loptschak.](ch032.xhtml#b0435_142)
-143. Auf dem Schipki-la.
-144. Ziegenkarawane auf der Paßhöhe.
-145. Ein typisches Dorf an der tibetischen Grenze. Photographie von Missionar Marx in Poo.
+143. [Auf dem Schipki-la.](ch033.xhtml#b0435_143)
+144. [Ziegenkarawane auf der Paßhöhe.](ch033.xhtml#b0435_144)
+145. [Ein typisches Dorf an der tibetischen Grenze.](ch033.xhtml#b0435_145) Photographie von Missionar Marx in Poo.
 146. Drahtseilbrücke bei Poo.
 147. Drahtseilbrücke bei Poo. Skizze des Verfassers.
 148. Deva Ram auf dem Wege zu uns.
