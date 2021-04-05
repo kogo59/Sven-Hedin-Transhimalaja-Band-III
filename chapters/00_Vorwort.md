@@ -225,12 +225,12 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 134. [Im Höllenloch des Ngari-tsangpo.](ch030.xhtml#b0415_134)
 135. [Brücke über den Tomlang-tsangpo.](ch030.xhtml#b0415_135)
 136. [Loptschak-Brücke.](ch030.xhtml#b0415_136)
-137. [Ziegen auf dem Weg über die Loptschak-Brücke.](ch030.xhtml#b0425_137)
-138. [Brücke über den Satledsch.](ch030.xhtml#b0425_138) Skizze des Verfassers.
-139. [Die Karawane nach glücklicher Passierung der Loptschak-Brücke.](ch030.xhtml#b0425_139)
-140. Unter den Bäumen des Dorfes Schipki. Skizze des Verfassers.
-141. Schipki-la.
-142. Satledschtal unterhalb Loptschak.
+137. [Ziegen auf dem Weg über die Loptschak-Brücke.](ch031.xhtml#b0425_137)
+138. [Brücke über den Satledsch.](ch031.xhtml#b0425_138) Skizze des Verfassers.
+139. [Die Karawane nach glücklicher Passierung der Loptschak-Brücke.](ch031.xhtml#b0425_139)
+140. [Unter den Bäumen des Dorfes Schipki.](ch032.xhtml#b0435_140) Skizze des Verfassers.
+141. [Schipki-la.](ch032.xhtml#b0435_141)
+142. [Satledschtal unterhalb Loptschak.](ch032.xhtml#b0435_142)
 143. Auf dem Schipki-la.
 144. Ziegenkarawane auf der Paßhöhe.
 145. Ein typisches Dorf an der tibetischen Grenze. Photographie von Missionar Marx in Poo.
