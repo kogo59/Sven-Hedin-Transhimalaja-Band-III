@@ -234,9 +234,9 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 143. [Auf dem Schipki-la.](ch033.xhtml#b0435_143)
 144. [Ziegenkarawane auf der Paßhöhe.](ch033.xhtml#b0435_144)
 145. [Ein typisches Dorf an der tibetischen Grenze.](ch033.xhtml#b0435_145) Photographie von Missionar Marx in Poo.
-146. Drahtseilbrücke bei Poo.
-147. Drahtseilbrücke bei Poo. Skizze des Verfassers.
-148. Deva Ram auf dem Wege zu uns.
+146. [Drahtseilbrücke bei Poo.](ch034.xhtml#b0435_146)
+147. [Drahtseilbrücke bei Poo.](ch034.xhtml#b0435_147) Skizze des Verfassers.
+148. [Deva Ram auf dem Wege zu uns.](ch034.xhtml#b0435_148)
 149. „Ich schwebe zwischen dem Himmel und dem mörderischen Satledsch“. Photographie von Missionar Marx in Popo.
 150. Luftige Fahrt über den Satledsch. Photographie von Missionar Marx in Poo.
 151. Drahtseilbrücke über den Scha-Fluß. Skizze des Verfassers.

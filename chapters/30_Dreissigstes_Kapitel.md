@@ -198,7 +198,7 @@ bildet.
 ::::
 
 :::: {.wrap-100 }
-![145. Ein typisches Dorf an der tibetischen Grenze. (S. 336.) ](Transhimalaja_Vol_III_445c.jpg "Ein typisches Dorf an der tibetischen Grenze."){#b0445_144}
+![145. Ein typisches Dorf an der tibetischen Grenze. (S. 336.) ](Transhimalaja_Vol_III_445c.jpg "Ein typisches Dorf an der tibetischen Grenze."){#b0445_145}
 ::::
 
 Die Dorfbewohner sind Lamaisten, sprechen tibetisch und tragen um den Hals
