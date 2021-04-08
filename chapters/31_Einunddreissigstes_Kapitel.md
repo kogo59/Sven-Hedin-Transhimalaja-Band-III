@@ -12,7 +12,7 @@ die als ein Triumph der Ingenieurkunst galt und auf welcher die Straße vom
 linken auf das rechte Ufer hinüberführte. Sie war während des Herbstes gerade
 fertig und dem Verkehre übergeben worden, und die Eingeborenen betrachteten sie
 mit Staunen und Bewunderung. Uns aber sollte sie nicht das Geringste nützen.
-Das Bauholz, das man aus der Nachbar—schaft erhalten hatte, erwies sich als
+Das Bauholz, das man aus der Nachbarschaft erhalten hatte, erwies sich als
 außergewöhnlich brüchig, und drei Wochen vor unserer Ankunft gaben die untern
 Balken dicht neben den Dammauern nach, und der ganze Bau stürzte krachend in
 die darunter tobenden Wasserwirbel.“
@@ -46,7 +46,7 @@ leugnen, daß es greulich aussah, als er den äußersten Rand des Sprungbrettes
 hinter sich ließ und über dem Abgrund baumelte. Solange das Kabel sich noch dem
 tiefsten Punkte seines Bogens zuneigte, ging es leicht, aufwärts aber schwerer.
 Ich atmete leichter, als ich ihn über dem Steingrunde der rechten Brückenmauer
-schweben sah. Dort sprang er aus den Osen heraus und verschwand wie ein
+schweben sah. Dort sprang er aus den Ösen heraus und verschwand wie ein
 Steinbock auf den Anhängen, über die die Straße nach Poo führte.
 
 Während wir warteten, wurde Feuer angezündet, und Gulam setzte Teewasser auf.
@@ -72,7 +72,7 @@ Ich lege mich vornüber auf die Brückenplattform und rutsche vorsichtig nach de
 Rande. Gerade unter mir tost der gewaltige Fluß, der einer der Riesen des
 Himalaja ist. Gleich unterhalb der Steinmauern sind zwei Blockkolosse in das
 Bett hineingestürzt; zwischen ihnen und der rechten Felsenwand war der Fluß zu
-vielleicht acht Meter Breite zu—sammengepreßt. Der ganze Satledsch hatte sich
+vielleicht acht Meter Breite zusammengepreßt. Der ganze Satledsch hatte sich
 hier anscheinend in einen spritzenden Strahl verwandelt, der sich mit
 staunenerregender Kraft einen Weg durch das Gebirge bohrt. Die weißschäumende
 Wassermasse scheint unter die Blöcke hinabzutauchen und dort zu verschwinden, um
@@ -191,7 +191,7 @@ den Rand hinaus und sehe nun unter mir in der Tiefe die grauweißen Wellen des
 Flusses hinrollen. Eine Ewigkeit vergeht. Weshalb komme ich denn nicht schon
 drüben an? Es sind ja nur 35 Meter. Droben auf den Höhen ist mein altes Tibet.
 Drunten in den Ebenen ist Indien. Meine Karawane ist auseinandergerissen. Ich
-selbst schwebe zwischen dem Himmel und dem mörderischen Satledsch (Abb. 149).
+selbst schwebe zwischen dem Himmel und dem mörderischen Satledsch ([Abb. 149](ch035.xhtml#b0465_149)).
 Ich habe diesen Fluß erforscht und seine ursprüngliche Quelle gefunden. Die
 Entdeckung kostete gewiß ein Opfer! Nie hatte ich vor dem gewaltigen,
 majestätischen Flusse solchen Respekt gehabt wie in diesem Augenblick, und auf
@@ -234,10 +234,10 @@ Jugendfreunde. Wir bleiben noch eine Weile auf der Plattform stehen, um Lobsang
 mit verbundenen Augen heranschweben zu sehen; er traute seiner Kaltblütigkeit
 nicht und war sehr erregt, als er landete. Ich empfing auch noch meinen
 Reitschimmel und strich ihm über die Nase und Augen, um ihn zu beruhigen. Die
-anderen konnten für sich selber sorgen (Abb. 150) und wurden auch vor 8 Uhr
-nicht fertig, so daß das Übersetzen im ganzen gute fünf Stunden gedauert hat.
-Die Missionare erzählten mir, ein Engländer sei beim Anblicke des Kabels wieder
-umgekehrt.
+anderen konnten für sich selber sorgen ([Abb. 150](ch035.xhtml#b0465_150)) und
+wurden auch vor 8 Uhr nicht fertig, so daß das Übersetzen im ganzen gute fünf
+Stunden gedauert hat. Die Missionare erzählten mir, ein Engländer sei beim
+Anblicke des Kabels wieder umgekehrt.
 
 Nun ziehen wir die steilen Hänge nach Poo hinauf. Gerade, als es dämmerig wird,
 treten wir in die engen, unbelebten Gassen des Dorfes ein. Nur ein paar Gruppen

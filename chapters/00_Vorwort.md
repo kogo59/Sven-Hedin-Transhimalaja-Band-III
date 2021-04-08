@@ -231,18 +231,18 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 140. [Unter den Bäumen des Dorfes Schipki.](ch032.xhtml#b0435_140) Skizze des Verfassers.
 141. [Schipki-la.](ch032.xhtml#b0435_141)
 142. [Satledschtal unterhalb Loptschak.](ch032.xhtml#b0435_142)
-143. [Auf dem Schipki-la.](ch033.xhtml#b0435_143)
-144. [Ziegenkarawane auf der Paßhöhe.](ch033.xhtml#b0435_144)
-145. [Ein typisches Dorf an der tibetischen Grenze.](ch033.xhtml#b0435_145) Photographie von Missionar Marx in Poo.
-146. [Drahtseilbrücke bei Poo.](ch034.xhtml#b0435_146)
-147. [Drahtseilbrücke bei Poo.](ch034.xhtml#b0435_147) Skizze des Verfassers.
-148. [Deva Ram auf dem Wege zu uns.](ch034.xhtml#b0435_148)
-149. „Ich schwebe zwischen dem Himmel und dem mörderischen Satledsch“. Photographie von Missionar Marx in Popo.
-150. Luftige Fahrt über den Satledsch. Photographie von Missionar Marx in Poo.
-151. Drahtseilbrücke über den Scha-Fluß. Skizze des Verfassers.
-152. Straße im Satledschtal.
-153. Gatschen Lobsang Tarva.
-154. Jangpur, der älteste Mann in Kanam. Skizzen des Verfassers.
+143. [Auf dem Schipki-la.](ch033.xhtml#b0445_143)
+144. [Ziegenkarawane auf der Paßhöhe.](ch033.xhtml#b0445_144)
+145. [Ein typisches Dorf an der tibetischen Grenze.](ch033.xhtml#b0445_145) Photographie von Missionar Marx in Poo.
+146. [Drahtseilbrücke bei Poo.](ch034.xhtml#b0455_146)
+147. [Drahtseilbrücke bei Poo.](ch034.xhtml#b0455_147) Skizze des Verfassers.
+148. [Deva Ram auf dem Wege zu uns.](ch034.xhtml#b0455_148)
+149. [„Ich schwebe zwischen dem Himmel und dem mörderischen Satledsch“.](ch035.xhtml#b0465_149) Photographie von Missionar Marx in Popo.
+150. [Luftige Fahrt über den Satledsch.](ch035.xhtml#b0465_150) Photographie von Missionar Marx in Poo.
+151. [Drahtseilbrücke über den Scha-Fluß.](ch035.xhtml#b0475_151) Skizze des Verfassers.
+152. [Straße im Satledschtal.](ch035.xhtml#b0475_152)
+153. [Gatschen Lobsang Tarva.](ch035.xhtml#b0475_153)
+154. [Jangpur, der älteste Mann in Kanam.](ch035.xhtml#b0475_154) Skizzen des Verfassers.
 155. Csomas Klosterzelle.
 156. Csomas Haus in Kanam. Skizzen des Verfassers.
 157. Blick auf das Satledschtal bei Kanam.

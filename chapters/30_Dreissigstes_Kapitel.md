@@ -142,7 +142,7 @@ uns herum türmen sich die Kämme auf, deren Zinnen in die Wolken ragen. Wir
 selbst sind schon so hoch gelangt, daß uns dünne Wolkenfetzen, rein und weiß wie
 Wasserdämpfe, zeitweise die Taltiefe verhüllen. Zuweilen fällt ein wenig
 Sprühregen, und die Luft ist kühl. Nicht weit nach rechts gewahren wir das
-äußerste Ende des Felsengrates, auf dem wir uns mühsam nach dem Schipki-la
+äußerste Ende des Felsengrates, auf dem wir uns mühsam nach dem Schipki-la^[^3005]^
 hinaufarbeiten. Von seinem Rande geht das Gefälle senkrecht nach dem
 schwindelerregenden Abgrunde hinunter, auf dessen Boden der Satledsch seine
 wilde Durchbruchsbiegung ausführt. Nie hat ein Menschenauge die Felsenwände
@@ -281,3 +281,5 @@ liegt Poo an der andern Seite, und wir müssen hinüber!
 ::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
+
+[^3005]: [*Schipki-la *: vergleiche [Shipki La](https://en.wikipedia.org/wiki/Shipki_La)]{.footnote}
