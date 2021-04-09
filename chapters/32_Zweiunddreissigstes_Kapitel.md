@@ -266,7 +266,7 @@ Säulen des Saales vergoldete.
 
 „Wo ist die Mönchszelle, die der europäische Lama seinerzeit bewohnt hat?“
 fragte ich Gatschen Lobsang Tarva, einen etwa 55 Jahre alten Mönch, der sehr
-liebenswürdig und freundlich'war ([Abb. 153](ch035.xhtml#b0475_153)).
+liebenswürdig und freundlich war ([Abb. 153](ch035.xhtml#b0475_153)).
 
 „Kommen Sie mit mir, Herr“, sagte er und führte mich auf das platte Dach. Von
 hier erstiegen wir eine Außentreppe, über die man in die Veranda vor einem
@@ -494,7 +494,7 @@ ihn von dem Ziele seiner Sehnsucht trennten.
 ![153. Gatschen Lobsang Tarva. (S. 356.)](Transhimalaja_Vol_III_475c.jpg "Gatschen Lobsang Tarva."){#b0475_153}
 ::::
 
-:::: {.wrap-70 }
+:::: {.wrap-60 }
 ![154. Jangpur, der älteste Mann in Kanam. (S. 362.) <small>Skizzen des Verfassers</small>](Transhimalaja_Vol_III_475d.jpg "Jangpur, der älteste Mann in Kanam."){#b0475_154}
 ::::
 
@@ -621,27 +621,28 @@ zehn Jahren war das Haus baufällig, und das Gebälk wurde fester zusammengefüg
 aber genau ebenso, wie es vorher gewesen war.“
 
 Auf die Veranda gehen eine niedrige Tür und ein kleines Fenster, beide mit
-rotangestrichenen Rahmen, während die Wand im übrigen weiß ist (Abb. 156). Die
-inneren Mauern bestehen aus kürzlich weiß getünchten Steinen; daher sucht man
-vergeblich nach irgendwelchen an die Wand geschriebenen Aufzeichnungen oder dort
-eingeritzten Worten. An der Längswand der Tür und dem Fenster gegenüber stehen
-eine hölzerne Bank und ein kleiner Schrank, beide europäischer, nicht
-asiatischer Form und plump gearbeitet (Abb. 155). Jangpur behauptete, sie hätten
-Ganderbek gehört. Dazu kam noch eine einfache Holzpritsche. Schmale Balken
-trugen die Decke, der Fußboden bestand aus dickeren Bohlen. Das Ganze stimmt
-genau mit Gerards Beschreibung überein: „Two rustie benches and a couple of
-ruder chairs are all the furniture in his small abode.“ Nur fehlten jetzt die
-Stühle. Die Lage des Hauses im Dorfe und zu dem Kandschur-lhakang paßt genau zu
-dem Berichte Gerards.
+rotangestrichenen Rahmen, während die Wand im übrigen weiß ist ([Abb.156](ch036.xhtml#b0485_156)).
+Die inneren Mauern bestehen aus kürzlich weiß getünchten Steinen; daher sucht
+man vergeblich nach irgendwelchen an die Wand geschriebenen Aufzeichnungen oder
+dort eingeritzten Worten. An der Längswand der Tür und dem Fenster gegenüber
+stehen eine hölzerne Bank und ein kleiner Schrank, beide europäischer, nicht
+asiatischer Form und plump gearbeitet ([Abb. 155](ch036.xhtml#b0485_155)).
+Jangpur behauptete, sie hätten Ganderbek gehört. Dazu kam noch eine einfache
+Holzpritsche. Schmale Balken trugen die Decke, der Fußboden bestand aus dickeren
+Bohlen. Das Ganze stimmt genau mit Gerards Beschreibung überein: „Two rustie
+benches and a couple of ruder chairs are all the furniture in his small abode.“
+Nur fehlten jetzt die Stühle. Die Lage des Hauses im Dorfe und zu dem
+Kandschur-lhakang paßt genau zu dem Berichte Gerards.
 
 Eine der schönsten Landschaften der Erde entrollte sich den Blicken des einsamen
 Forschers, wenn er auf seine Veranda hinaustrat. Tief drunten im Talgrunde
 schlängelt sich der Satledsch schmal und wild zwischen schroffen Bergkulissen
-hin (Abb. 157, 158), und im Hintergrund erheben sich die scharfgezeichneten
-Pyramiden der Kailasgipfel. An einigen Abhängen sieht man dunkelgrüne Flecke,
-Nadelholzwald. Wie oft wird Csoma diese Berge und Täler in jenen Jahren der
-Einsamkeit betrachtet haben! Ich konnte mich an ihnen nicht satt sehen, sie
-erschienen mir wie der Erinnerung gewidmete Denkmale.
+hin (Abb. [157](ch036.xhtml#b0485_157), [158](ch036.xhtml#b0485_158)), und im
+Hintergrund erheben sich die scharfgezeichneten Pyramiden der Kailasgipfel. An
+einigen Abhängen sieht man dunkelgrüne Flecke, Nadelholzwald. Wie oft wird Csoma
+diese Berge und Täler in jenen Jahren der Einsamkeit betrachtet haben! Ich
+konnte mich an ihnen nicht satt sehen, sie erschienen mir wie der Erinnerung
+gewidmete Denkmale.
 
 Aber die Stunden verrannen; es wurde Zeit, zu den Zelten hinunterzugehen. Auf
 der Hälfte des Weges angelangt, schauten wir schnell noch in einen dritten

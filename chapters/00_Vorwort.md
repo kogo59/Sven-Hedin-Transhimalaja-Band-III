@@ -243,10 +243,10 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 152. [Straße im Satledschtal.](ch035.xhtml#b0475_152)
 153. [Gatschen Lobsang Tarva.](ch035.xhtml#b0475_153)
 154. [Jangpur, der älteste Mann in Kanam.](ch035.xhtml#b0475_154) Skizzen des Verfassers.
-155. Csomas Klosterzelle.
-156. Csomas Haus in Kanam. Skizzen des Verfassers.
-157. Blick auf das Satledschtal bei Kanam.
-158. Schlucht im Satledschtal.
+155. [Csomas Klosterzelle.](ch036.xhtml#b0485_155)
+156. [Csomas Haus in Kanam.](ch036.xhtml#b0485_156) Skizzen des Verfassers.
+157. [Blick auf das Satledschtal bei Kanam.](ch036.xhtml#b0485_157)
+158. [Schlucht im Satledschtal.](ch036.xhtml#b0485_158)
 159. Himalajalandschaft.
 160. Straße in der Satledschschlucht.
 161. Aus den Bergen des Himalaja.
