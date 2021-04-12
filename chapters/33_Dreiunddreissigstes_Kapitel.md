@@ -279,7 +279,8 @@ immer tiefer durch den Leib des Himalaja zu schneiden. Bedenkt die Wucht dieser
 Wassermasse und erinnert euch daran, daß sie in beständiger Bewegung ist und
 Blöcke und Geröll durch das Bett hinabwälzt. Da ist es kein Wunder, daß das Tal
 so tief ist und daß die Landschaft die unser Auge entzückenden, großzügigen und
-wildzerklüfteten Formen angenommen hat (Abb. 159, 161).
+wildzerklüfteten Formen angenommen hat
+(Abb. [159](ch037.xhtml#b0495_159), [161](ch037.xhtml#b0495_161)).
 
 In einem kleinen, abschüssigen Nebentale mit einem munter plätschernden Bache
 begegnen wir einer Mauleselkarawane, deren Lasten nur einem weißen Manne gehören
@@ -291,7 +292,7 @@ verplauderten wohl eine Stunde im Schatten, ehe wir, jeder in seiner Richtung,
 weiterzogen.
 
 Wir sind wieder tiefer gelangt, und das Getöse des Flusses nimmt an Kraft zu.
-Aha, es kommt ein neues Nebental, die tiefe Rinne desJula-garang, der sich mit
+Aha, es kommt ein neues Nebental, die tiefe Rinne des Jula-garang, der sich mit
 rasender Gewalt in das anstehende Gestein eingeschnitten hat. Jenseits seiner
 Brücke geht es wieder bergauf, zum Bungalow des Dorfes Urni hinauf. Ich frage
 mich, ob auf der ganzen Erde wohl ein Lagerplatz schöner liegen könne als
@@ -339,7 +340,7 @@ Gefahr, die. Wanderern und Karawanen dort stets droht. Indessen sieht man an
 ihrer Gestalt, daß sie nicht erst kürzlich unten angekommen sind. Das Wasser hat
 sie benagt, bis es sie rundgeschliffen hat, und ein geduldiger Wasserstrahl hat
 an ihren Seiten Schalen und Vertiefungen, glatte Flächen oder geschweifte Rücken
-ausgehöhlt — gutta cavat lapidem! Es ist ihr Schicksal, daß sie mit der Zeit
+ausgehöhlt — gutta cavat lapidem^[^3300]^! Es ist ihr Schicksal, daß sie mit der Zeit
 vernichtet und durch neue Blöcke ersetzt werden. Rings um sie her tanzt das
 Wasser in schäumenden Wellen, die Sprühtropfensträuße spritzen in zischenden
 Kaskaden durch enge Öffnungen, und über einigen Schwellen bilden sich kleine
@@ -352,9 +353,9 @@ oder schwach überhängend zum Flusse abstürzt. Das Einsprengen einer Galerie i
 ihre Seiten wäre zu kostspielig geworden, da die Strecke an hundert Meter lang
 ist. Man hat sich damit begnügt, starke Eisenkrampen in der Felswand zu
 befestigen und eine offene Brücke mit einem Geländer an der Außenseite darüber
-zu legen (Abb. 160). Die Höhe dieser Brücke über dem Flusse mag vierzig Meter
-betragen, und wenn man sich über die Brüstung neigt, so hat man den Satledsch
-gerade unter sich. Hier ist die Aussicht prachtvoll, beinahe beklemmend.
+zu legen ([Abb. 160](ch037.xhtml#b0495_160)). Die Höhe dieser Brücke über dem Flusse
+mag vierzig Meter betragen, und wenn man sich über die Brüstung neigt, so hat man
+den Satledsch gerade unter sich. Hier ist die Aussicht prachtvoll, beinahe beklemmend.
 
 Jenseits der an der Bergwand klebenden Brücke drängt sich das Tal zusammen,
 obgleich alle Maße kolossaler Art sind. Grotten und Riesentöpfe, die das Wasser
@@ -392,3 +393,5 @@ verdunkeln, dichtere als die des Waldes!
 ::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
+
+[^3300]: [steter Tropfen höhlt den Stein]{.footnote}

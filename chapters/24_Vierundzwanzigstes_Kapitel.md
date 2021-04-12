@@ -19,7 +19,7 @@ Der Blick bestreicht diese ganze Mauer in Verkürzung, und man erhält einen
 ausgezeichneten Begriff von ihren verschiedenen Schichten, welche wechselnde
 Mächtigkeit haben, bald senkrecht sind, wo das Material hart ist, bald schräge
 Neigung haben, wo es loser wird; drunten in der Tiefe sieht man den letzten
-Schuttkegel in den Boden der engen Talrinne übergehen ([Abb. 121](ch028.xhtml#b0365_121)).
+Schuttkegel in den Boden der engen Talrinne übergehen ([Abb. 121](ch028.xhtml#b0375_121)).
 Das oberste Lager, auf dessen Boden wir stehen, besteht aus einem fünf Meter mächtigen Bett
 rotbraunen Geröllschuttes. Über seine ebene Fläche sausen die Winde des Himmels
 ungehindert hin, aber seine Seiten sind senkrecht. Von einem geeigneten Punkte

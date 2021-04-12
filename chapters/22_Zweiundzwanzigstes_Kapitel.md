@@ -337,7 +337,7 @@ der rechte ist mit Gold überzogen. In wahren Schützenlinien, tadellos
 ausgerichtet, stehen andere Götterbilder auf Tischen und Wandbrettern zwischen
 Opfergefäßen und Lichtschalen aufgereiht. Auf dunklen Blättern liegen
 die Wahrheiten des Lamaismus zwischen ihren alten Holzdeckeln
-eingeklemmt, in grüne und blaue Tücher gewickelt (Abb. [120](ch028.xhtml#b0365_120).
+eingeklemmt, in grüne und blaue Tücher gewickelt (Abb. [120](ch028.xhtml#b0375_120).
 Die heiligen Legenden sprechen auch in bunten Bildern aus einem Walde von Tankas,
 und um die Säulen herum sind die üblichen Zeugbahnen gewunden.
 

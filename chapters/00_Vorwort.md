@@ -247,9 +247,9 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 156. [Csomas Haus in Kanam.](ch036.xhtml#b0485_156) Skizzen des Verfassers.
 157. [Blick auf das Satledschtal bei Kanam.](ch036.xhtml#b0485_157)
 158. [Schlucht im Satledschtal.](ch036.xhtml#b0485_158)
-159. Himalajalandschaft.
-160. Straße in der Satledschschlucht.
-161. Aus den Bergen des Himalaja.
+159. [Himalajalandschaft.](ch037.xhtml#b0495_159)
+160. [Straße in der Satledschschlucht.](ch037.xhtml#b0495_160)
+161. [Aus den Bergen des Himalaja.](ch037.xhtml#b0495_161)
 
 
 ## Karten.
@@ -257,7 +257,7 @@ Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell
 * [Gaubils Karte der beiden Seen und der angeblichen Gangesquelle.](ch020.xhtml#b0243_00)
 * [Anquetil du Perrons Karte des Manasarovar und Rakas-tal.](ch020.xhtml#b0245_00)
 * [Moorcrofts Karte des Manasarovar und Rakas-tal.](ch021.xhtml#b0261_00)
-* Westtibet. Gezeichnet von Leutnant C. J. Otto Kjellström. Maßstab: 1:1500&nbsp;000.
+* [Westtibet.](ch038.xhtml#b0500) Gezeichnet von Leutnant C. J. Otto Kjellström. Maßstab: 1:1500&nbsp;000.
 
 :::: align-center
 ****

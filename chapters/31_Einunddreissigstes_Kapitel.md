@@ -26,7 +26,7 @@ Rufen noch mit Zeichen kann man die Aufmerksamkeit seiner Bewohner erregen, kaum
 einen Flintenschuß würden sie dort droben hören können.
 
 Ich trete auf die Balken des Brückenkopfes hinaus. Sie ragen wie ein Sprungbrett
-in den leeren Raum ([Abb. 146](ch034.xhtml#b0435_146)). Fünfundzwanzig Meter unter mir kocht der
+in den leeren Raum ([Abb. 146](ch034.xhtml#b0455_146)). Fünfundzwanzig Meter unter mir kocht der
 eingeengte Fluß. Es hatte den Anschein, als ob uns hier der Weg abgeschnitten
 sei und Simla trostlos fern liege. Ich erfuhr jedoch später, daß man der
 Blattern wegen den Übergang absichtlich gesperrt hatte und keine Reisenden von
@@ -109,7 +109,7 @@ daß ich während jener Zeit mein eigener Herrscher war, und sind begierig zu
 hören, wie es mir ergangen ist.
 
 Ein Eingeborener, der Deva Ram heißt und Dorfschulze in Poo ist, kommt, unter
-dem Mauleselsattel baumelnd, auf unsere Seite herüber ([Abb.148](ch034.xhtml#b0435_148)).
+dem Mauleselsattel baumelnd, auf unsere Seite herüber ([Abb.148](ch034.xhtml#b0455_148)).
 Man sieht, daß er an diesen Sport gewöhnt ist und
 zum Aviatiker passen würde. Nachdem er glücklich gelandet ist und mich höflich
 begrüßt hat, bindet er einige Säcke und ein Zelt unter den Sattel, an welchem

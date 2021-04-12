@@ -151,8 +151,8 @@ gesprengt werden, eine Straße, die den Karawanen das Überschreiten des
 Schipki-la ersparen würde?
 
 Nach einer letzten, sehr anstrengenden Steigung sind wir droben am Steinmal
-(Abb. [141](ch032.xhtml#b0435_141), [143](ch033.xhtml#b0435_143),
-[144](ch033.xhtml#b0435_144)). Die Yaktreiber nannten den Paß Pimig-la,
+(Abb. [141](ch032.xhtml#b0435_141), [143](ch033.xhtml#b0445_143),
+[144](ch033.xhtml#b0445_144)). Die Yaktreiber nannten den Paß Pimig-la,
 erklärten aber, daß er nach dem Dorfe öfter Schipki-la genannt werde. Die Höhe
 beträgt 4695 Meter, und wir sind von der Brücke von Loptschak an wieder um 1713
 Meter gestiegen. So tief hat sich der Satledsch an diesem Punkte in den Himalaja
@@ -183,7 +183,7 @@ erschließt.
 
 Ein soeben abgemähtes Feld bietet für das Lager 484 einen passenden Platz. Tief
 unter uns zeigen sich mehrere Dörfer auf ihren Bergabsätzen
-([Abb.145](ch033.xhtml#b0435_145)). Auf der rechten Seite steigen wilde, schroffe
+([Abb.145](ch033.xhtml#b0445_145)). Auf der rechten Seite steigen wilde, schroffe
 Felsen zu schwindelnder Höhe über dem Flusse an. Unendlich schön und bezaubernd
 ist diese Aussicht. Heftige Windstöße fegen über die steilen Hänge hin; es
 pfeift in der Hecke wilder Rosen, die eine Barrikade um unsere Zelte herum
