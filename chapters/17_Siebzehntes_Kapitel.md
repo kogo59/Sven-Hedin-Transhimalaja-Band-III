@@ -743,10 +743,9 @@ ebenfalls aus diesem See herausströmt. Die Herkunft des Sardschuflusses ist
 eine Erinnerung an Tieffenthalers Karte, wie auch die Schreibweise der
 Namen ähnlich ist.
 
-Der andere Fakir wußte von den verwickelten Wasserstraßen nichts
-zu erzählen. Er glaubt nur bemerkt zu haben, daß am Maun Talai
-(Manasarovar) vier Länder zusammenstoßen, nämlich China, das „
-Lamaland“, Beschahr und Kulu.
+Der andere Fakir wußte von den verwickelten Wasserstraßen nichts zu erzählen. Er
+glaubt nur bemerkt zu haben, daß am Maun Talai (Manasarovar) vier Länder
+zusammenstoßen, nämlich China, das „Lamaland“, Beschahr und Kulu.
 
 Jahr für Jahr sind Pilger um den See herumgewandert, um
 Entsündigung ihrer Seele und die Hoffnung auf Brahmas Paradies und

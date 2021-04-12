@@ -119,7 +119,7 @@ am Schovo-tso hatten wir seine Karawane westwärts ziehen sehen, und
 wir wußten, daß er sich mit seiner Familie und seinem Gesinde auf der
 Wallfahrt nach dem Kang-rinpotsche befand. Zwischen seinem Lager und
 dem Klosterhügel strömt der Sumdang-tsangpo. Wir lagerten am linken
-Ufer, am Fuße des Klosterhügels (Abb. [64.](ch016.xhtml#b0179_64), [65.](ch016.xhtml#b0179_65)).
+Ufer, am Fuße des Klosterhügels (Abb. [64](ch016.xhtml#b0179_64), [65](ch016.xhtml#b0179_65)).
 
 Unsere Lage war recht beunruhigend. Wir kamen wie sechs
 zerlumpte Kerle an, niemand wußte woher. Ich war wie ein Tibeter

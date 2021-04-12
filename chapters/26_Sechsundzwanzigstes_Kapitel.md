@@ -535,10 +535,11 @@ immer ein bedeutender Teil seines Vermögens an die Kirche fällt und ein Götze
 denjenigen Priestern geschenkt werden muß, die „ganz wie im römisch-katholischen
 Glauben“ für die Seelenruhe des Verstorbenen beten. (Vgl. Asiatio Researches, XII, 1818, S. 437.)
 
--![126. Schangdse-Tal. (S. 309.) ](Transhimalaja_Vol_III_396a.jpg "Schangdse-Tal."){#b0396_126}
+:::: {.wrap-100 .break-before }
+![126. Schangdse-Tal. (S. 309.) ](Transhimalaja_Vol_III_396a.jpg "Schangdse-Tal."){#b0396_126}
 ::::
 
-::: {.wrap-100 }
+:::: {.wrap-100 }
 ![127. Tal beim Kloster Rabgjäling. (S. 310.) <small>Skizzen des Verfassers.</small>](Transhimalaja_Vol_III_396b.jpg "Tal beim Kloster Rabgjäling."){#b0396_127}
 ::::
 

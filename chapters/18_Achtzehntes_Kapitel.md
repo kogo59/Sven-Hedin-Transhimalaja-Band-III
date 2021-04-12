@@ -520,11 +520,11 @@ die Land, Flüsse und Seen mit eigenen Augen gesehen hatten, und gegen
 sie Autoritäten anzurufen, die niemals die Grenzen Tibets überschritten
 hatten.
 
-:::: {.wrap-100 }
+:::: {.wrap-100 .break-before }
 ![90. Tibetischer Jäger. (S. 161.)](Transhimalaja_Vol_III_269a.jpg "Tibetischer Jäger."){#b0269_90}
 ::::
 
-:::: {.wrap-100 }
+:::: {.wrap-100 .break-before}
 ![91. Mönche mit Klarinette und Muschelhorn. (S. 161.) <small>Skizzen des Verfassers.</small>](Transhimalaja_Vol_III_269b.jpg "Mönche mit Klarinette und Muschelhorn"){#b0269_91}
 ::::
 
