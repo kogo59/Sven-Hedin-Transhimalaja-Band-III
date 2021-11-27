@@ -183,14 +183,14 @@ sie mit religiöser Ehrfurcht.“
 
 Hier spukt also wieder der Ganges durch unsere Seen. Trotzdem
 hat Kawagutschis Mitteilung ein gewisses Interesse. Seine beiden Quellen
-sind wahrscheinlich dieselben, an denen ich am Laufe des Tage--tsangpo
+sind wahrscheinlich dieselben, an denen ich am Laufe des Tage-tsangpo
 vorübergezogen bin, wie ich im zweiten Bande S. 86 erwähnt habe! Er
 nennt die erste Tschumik Ganga; Tschumik ist tibetisch und bedeutet
 Quelle, Ganga ist der indische Name des Ganges. Als ich nach dem
 Namen der Quelle fragte, erhielt ich die Antwort, daß der Bach der
 Langtschen-kamba oder Satledschfluß sei; die Langtschen-kabab, die Quelle
 des Satledsch, liege ein wenig weiter im Südosten. Aber der Kanal
-vom Manasarovar nach dem Rakas--tal wurde mir als Ganga bezeichnet.
+vom Manasarovar nach dem Rakas-tal wurde mir als Ganga bezeichnet.
 Dies scheint darauf hinzudeuten, daß der Verbindungskanal als Fortsetzung
 des Tage-tsangpo betrachtet wird, eine Auffassung, die vollkommen richtig
 ist und sowohl mit D'Anvilles Karte wie auch mit der chinesischen

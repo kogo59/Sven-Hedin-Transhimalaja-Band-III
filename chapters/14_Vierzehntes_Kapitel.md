@@ -120,8 +120,8 @@ Existenz ich später durch das Besuchen jener Stellen bestätigen konnte.
 
 In Verbindung mit den Entdeckungen der Punditen im westlichen
 Tibet sprach Sir Henry Rawlinson die Vermutung aus, daß, wenn
-man einmal über den Indus und die „innere nördliche Bergkette“ hin-
-über sei, man sich „droben auf dem Plateau der Tartarei“ befinde und
+man einmal über den Indus und die „innere nördliche Bergkette“ hinüber
+sei, man sich „droben auf dem Plateau der Tartarei“ befinde und
 mit Pferd und Wagen nach der großen Wüste hinabfahren könne, ohne
 einen einzigen Paß zu überschreiten. Zu Wagen über Kara-korum,
 Arka-tag und Kwen-lun, wo man Gott danken kann, wenn man zu Pferd
@@ -415,8 +415,8 @@ Regelmäßigkeit und die Höhe dieser Reihe mächtiger Gipfel, die sich über de
 Ausläufern erheben, die ihrerseits, geordnet wie die Zelte eines Kriegslagers,
 nach dem See hin abfallen. Und alles dies beherrschen majestätisch vier
 hohe Eisspitzen, welche die Tibeter anbeten, denn dahinter liegt Lhasa, die
-Geisterstadt. Richtet man den Blick auf das Nordufer des Sees, so ge-
-wahrt man auf der ihn begrenzenden kleinen Kette keinen Schnee, während
+Geisterstadt. Richtet man den Blick auf das Nordufer des Sees, so
+gewahrt man auf der ihn begrenzenden kleinen Kette keinen Schnee, während
 die Seiten des Ningling Tanla weiß sind, und man erkennt die
 Wahrheit des tibetischen Sprichworts: ,Das Wasser des Namtso wird vom
 Schnee des Ningling Tanla gebildet‘.“

@@ -14,7 +14,6 @@ Druck von F. A. Brockhaus, Leipzig.
 ::::
 
 
-
 :::: {.wrap-100 .align-center }
 ![](cover1.jpg ""){#cover}
 ::::

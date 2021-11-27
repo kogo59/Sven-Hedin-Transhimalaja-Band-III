@@ -546,4 +546,4 @@ und Lanzen verteidigte.
 
 [^2401]: [*Tsaparang*: vergleiche [Tsaparang](https://en.wikipedia.org/wiki/Tsaparang)]{.footnote}
 
-[^0016]: [*Ferdinand von Richthofen*:  vergleiche [Ferdinand von Richthofen](https://de.wikipedia.org/wiki/Ferdinand_von_Richthofen)]{.footnote
+[^0016]: [*Ferdinand von Richthofen*:  vergleiche [Ferdinand von Richthofen](https://de.wikipedia.org/wiki/Ferdinand_von_Richthofen)]{.footnote}

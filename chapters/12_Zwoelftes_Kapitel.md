@@ -391,8 +391,8 @@ Großherzog von Toskana mit dem guten Grüber nach seiner Heimkehr
 hatte. Der Großherzog fragte unter anderm, ob Pater Johannes von
 der Tartarei oder dem Lande der Usbeken aus in das Reich des
 Großmoguls hineingezogen oder ob er von Osten hergekommen sei und ob
-er die Gegenden Tibets, die Antonio de Andrade geschildert, kennen ge-
-lernt habe. Hierauf antwortete Grüber, daß er von Peking bis Sining-fu
+er die Gegenden Tibets, die Antonio de Andrade geschildert, kennen
+gelernt habe. Hierauf antwortete Grüber, daß er von Peking bis Sining-fu
 immer westwärts gegangen sei und daß er von der großen Mauer an
 eine südwestliche Richtung eingehalten habe. Um in die Länder des
 Großmoguls zu gelangen, sei er durch die Wüste der Tartarei und die
