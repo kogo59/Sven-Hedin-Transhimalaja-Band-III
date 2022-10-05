@@ -346,7 +346,7 @@ und öde vor uns aus, und im Hintergrund erglänzte der kleine See.
 Enttäuscht ziehen wir wieder abwärts. Wir nähern uns dem Seebecken,
 die Luft wird milder; wenn nicht ein so greulicher Wind wehte,
 könnten wir uns hier noch eines letzten Abschiedsgrußes des entschwundenen
-Sommers erfreuen.
+Sommers erfreuen. 
 
 Nach einer Weile wird die Wüstenei durch 500 Schafe belebt, die
 in derselben Richtung wie wir weit vor uns trippeln. Aha, das sind

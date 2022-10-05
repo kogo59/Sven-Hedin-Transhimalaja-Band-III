@@ -77,7 +77,7 @@ anspruchslosen Nomaden.
 
 :::: align-center
 ****
-::::
+:::: 
 
 | *Das bunte Bild auf dem Einband des dritten Bandes*, nach einem Aquarell
 |     des Verfassers, stellt den Manasarovar mit dem Kailas im Hintergrund dar.
