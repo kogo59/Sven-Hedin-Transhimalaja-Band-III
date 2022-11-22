@@ -22,4 +22,4 @@ before January 1, 1924.
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
- Transhimalaja. Dritter Band. [California-USA](babel.hathitrust.org/cgi/pt?id=msu.31293015836160)
+ Transhimalaja. Dritter Band. [California-USA](https://babel.hathitrust.org/cgi/pt?id=msu.31293015836160)
