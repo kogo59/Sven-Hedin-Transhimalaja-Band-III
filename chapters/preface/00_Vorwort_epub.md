@@ -79,9 +79,9 @@ anspruchslosen Nomaden.
 ****
 :::: 
 
-| *Das bunte Bild auf dem Einband des dritten Bandes*, nach einem Aquarell
-|     des Verfassers, stellt den Manasarovar mit dem Kailas im Hintergrund dar.
-|     (Siehe Band III, Seite 171.)
+*Das bunte Bild auf dem Einband des dritten Bandes*, nach einem Aquarell
+des Verfassers, stellt den Manasarovar mit dem Kailas im Hintergrund dar.
+(Siehe Band III, Seite 171.)<br />
 
 Bunte Tafel. [Der heilige See der Inder und Tibeter.](ch001.xhtml#b000) Aquarell des Verfassers. Titelbild.
 
