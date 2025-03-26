@@ -460,11 +460,6 @@ Tale wider.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2200]: [*Daba*: vergleiche [Daba](https://en.wikipedia.org/wiki/Daba,_Zanda_County)]{.footnote}
 

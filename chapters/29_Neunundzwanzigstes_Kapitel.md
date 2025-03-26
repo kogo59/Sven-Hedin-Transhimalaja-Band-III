@@ -318,8 +318,3 @@ der auf den äußersten Enden der Balkenlagen ruht.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -397,11 +397,6 @@ der Sekunde zu sammeln.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0050]: [*Punditen*:  vergleiche [Pundit](https://de.wikipedia.org/wiki/Pundit_(Vermesser))]{.footnote}
 

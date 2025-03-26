@@ -324,11 +324,6 @@ Luftspiegelung scheinen sie ein wenig über der Erdoberfläche zu schweben.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0252]: [*Dangra-jum-tso*:  vergleiche [Tangra Yumco](https://de.wikipedia.org/wiki/de:Tangra%20Yumco?uselang=de)]{.footnote}
 

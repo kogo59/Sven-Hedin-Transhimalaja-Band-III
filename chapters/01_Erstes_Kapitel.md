@@ -414,11 +414,6 @@ ihr Lärm die sonst so stille Nacht.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0353]: [*Taschi-lunpo*: vergleiche [Trashilhünpo](https://de.wikipedia.org/wiki/Trashilh%C3%BCnpo)]{.footnote}
 

@@ -631,8 +631,3 @@ harten Händen unbarmherzig über die Brücke gezogen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

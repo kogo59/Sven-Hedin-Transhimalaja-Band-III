@@ -278,10 +278,5 @@ mit Schnee bedeckten Ketten zur Sonne emporragen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3400]: [*Thalatta, Thalatta*: vergleiche [Thalatta, Thalatta](https://de.wikipedia.org/wiki/Liste_griechischer_Phrasen/Theta#%CE%98%CE%AC%CE%BB%CE%B1%CF%84%CF%84%CE%B1,_%CE%B8%CE%AC%CE%BB%CE%B1%CF%84%CF%84%CE%B1)]{.footnote}

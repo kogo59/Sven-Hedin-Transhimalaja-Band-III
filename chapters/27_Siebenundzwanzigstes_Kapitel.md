@@ -376,11 +376,6 @@ ranziger Butter zu verkaufen.
 
 ::::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2700]: [*Atmosphärilien*: vergleiche [Atmosphärilien](https://de.wikipedia.org/wiki/Atmosph%C3%A4rilien)]{.footnote}
 

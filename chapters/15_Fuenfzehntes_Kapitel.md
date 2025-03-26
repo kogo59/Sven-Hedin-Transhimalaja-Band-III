@@ -460,10 +460,5 @@ und schliefen ruhig an dem heiligen Ufer.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0061]: [*Satledsch*:  vergleiche [Satluj](https://de.wikipedia.org/wiki/Satluj)]{.footnote}

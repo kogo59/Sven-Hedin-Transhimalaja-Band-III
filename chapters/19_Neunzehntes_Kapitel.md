@@ -622,11 +622,6 @@ Meer hinaus, das den Erdball ringsum umspannt.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1900]: [*Ekai Kawagutschi*: vergleiche [Ekai Kawaguchi](https://en.wikipedia.org/wiki/Ekai_Kawaguchi)]{.footnote}
 

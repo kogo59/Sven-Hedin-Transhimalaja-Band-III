@@ -346,11 +346,6 @@ und der Träume.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2300]: [*Totling*: vergleiche [Thoding-Kloster](https://de.wikipedia.org/wiki/Thoding-Kloster)]{.footnote}
 

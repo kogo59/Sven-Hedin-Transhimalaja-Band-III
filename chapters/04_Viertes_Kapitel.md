@@ -378,11 +378,6 @@ Maulesel das Opfer eines Rudels Isegrime geworden.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0213]: [*Gartok*:  vergleiche [Gartok](https://en.wikipedia.org/wiki/Gartok)]{.footnote}
 

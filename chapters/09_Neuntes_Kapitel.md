@@ -976,11 +976,6 @@ und keine Lebensmittel besaßen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0351]: [*Nganglaring-tso*: vergleiche [Ang Laren Lake](https://en.wikipedia.org/wiki/Ang_Laren_Lake)]{.footnote}
 

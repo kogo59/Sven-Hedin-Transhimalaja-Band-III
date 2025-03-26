@@ -600,11 +600,6 @@ damals hatte also der östliche See Abfluß nach seinem westlichen Nachbarn.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1701]: [*F. Wilford*: vergleiche [Francis Wilford](https://en.wikipedia.org/wiki/Francis_Wilford)]{.footnote}
 

@@ -66,7 +66,6 @@ anspruchslosen Nomaden.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0001]: [*Anders Hennig*:  vergleiche [Anders Hennig](https://de.wikipedia.org/wiki/Anders_Hennig)]{.footnote}
 

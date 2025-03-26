@@ -792,12 +792,6 @@ vorläufigen Mitteilungen fußenden Aufsatz zugeschrieben hat.“
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1200]: [*Joseph Hooker*: vergleiche [Joseph Dalton Hooker](https://de.wikipedia.org/wiki/Joseph_Dalton_Hooker)]{.footnote}
 
 [^1201]: [*Alexander Cunningham*: vergleiche [Alexander Cunningham](https://de.wikipedia.org/wiki/Alexander_Cunningham_(Indologe))]{.footnote}

@@ -314,11 +314,6 @@ ein Faltensystem der Erdrinde, das zwar vom Himalaja an Höhe weit
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1312]: [*Hälleflinta*: vergleiche [Hälleflinta](https://de.wikipedia.org/wiki/H%C3%A4lleflinta)]{.footnote}
 

@@ -536,11 +536,6 @@ und Lanzen verteidigte.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2400]: [*Pluvialzeit*: vergleiche [Pluvialzeit](https://de.wikipedia.org/wiki/Pluvialzeit)]{.footnote}
 

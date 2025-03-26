@@ -409,8 +409,3 @@ das mächtigste Gebirgssystem der Erde!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

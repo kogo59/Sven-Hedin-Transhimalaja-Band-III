@@ -296,11 +296,6 @@ gewidmet.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0012]: [*Younghusband*:  vergleiche [Francis Younghusband](https://de.wikipedia.org/wiki/Francis_Younghusband)]{.footnote}
 

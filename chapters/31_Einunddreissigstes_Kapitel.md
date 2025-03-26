@@ -373,10 +373,5 @@ funkeln die Sterne der Winternacht freundlich über den Gräbern in Poo.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3100]: [*Poo*: vergleiche [Poo](https://en.wikipedia.org/wiki/Poo,_Himachal_Pradesh)]{.footnote}

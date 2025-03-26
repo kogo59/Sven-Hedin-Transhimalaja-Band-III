@@ -428,11 +428,6 @@ welche Ritter in den eben angeführten Worten flüchtig streift.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2500]: [*Antonio de Andrade*: vergleiche [Antonio de Andrade](https://de.wikipedia.org/wiki/Antonio_de_Andrade)]{.footnote}
 

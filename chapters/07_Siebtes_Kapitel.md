@@ -346,11 +346,6 @@ hindurch brausende Unruhe.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0116]: [*Rudok*:  vergleiche [Rudok](https://en.wikipedia.org/wiki/Rudok)]{.footnote}
 

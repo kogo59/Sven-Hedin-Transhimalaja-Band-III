@@ -675,11 +675,6 @@ er kam nie wieder! Er war umgekehrt, um nach Poo zurückzulaufen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3200]: [*Alexander Csoma de Körös*: vergleiche [Alexander Csoma](https://de.wikipedia.org/wiki/S%C3%A1ndor_Csoma)]{.footnote}
 

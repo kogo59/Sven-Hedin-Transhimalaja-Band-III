@@ -685,11 +685,6 @@ Schatten auf seinen Namen werfen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0690]: [*Gaurisankar*: vergleiche [Gauri Sankar](https://de.wikipedia.org/wiki/Gauri_Sankar)]{.footnote}
 

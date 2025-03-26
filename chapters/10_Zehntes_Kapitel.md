@@ -352,11 +352,6 @@ Hagel vom Winde gegen unsere Zelte gepeitscht wurde.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0599]: [*Goaantilopen*: vergleiche [Tibetgazelle](https://de.wikipedia.org/wiki/Tibetgazelle)]{.footnote}
 

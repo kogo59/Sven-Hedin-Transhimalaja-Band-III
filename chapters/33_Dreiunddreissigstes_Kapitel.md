@@ -388,10 +388,5 @@ verdunkeln, dichtere als die des Waldes!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3300]: [steter Tropfen höhlt den Stein]{.footnote}

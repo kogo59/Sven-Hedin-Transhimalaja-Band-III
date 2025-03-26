@@ -497,8 +497,3 @@ unterhalb des Klosterdorfes.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -276,10 +276,5 @@ liegt Poo an der andern Seite, und wir müssen hinüber!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3005]: [*Schipki-la *: vergleiche [Shipki La](https://en.wikipedia.org/wiki/Shipki_La)]{.footnote}

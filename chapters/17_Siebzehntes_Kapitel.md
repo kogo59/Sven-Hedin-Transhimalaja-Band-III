@@ -785,11 +785,6 @@ kleinen Anzahl Reisender gemacht worden sind, aufzusuchen und zu sammeln.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0323]: [*Manasarovar*: vergleiche [Manasarovar](https://de.wikipedia.org/wiki/Manasarovar)]{.footnote}
 

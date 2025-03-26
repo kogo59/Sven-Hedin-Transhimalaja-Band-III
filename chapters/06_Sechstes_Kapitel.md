@@ -345,11 +345,6 @@ und Geister ihr Spiel trieben?
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0313]: [*Taschi-gang*:  vergleiche [Zhaxigang](https://de.wikipedia.org/wiki/Zhaxigang)]{.footnote}
 

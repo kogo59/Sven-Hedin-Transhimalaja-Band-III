@@ -518,8 +518,3 @@ und eilten zu unsern alten Zelten hinunter.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

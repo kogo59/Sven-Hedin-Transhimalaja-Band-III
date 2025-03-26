@@ -329,8 +329,3 @@ glänzendem Porzellan.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -752,12 +752,6 @@ christlichen Glocken in Tibet in hellen Tönen erklungen waren.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^2600]: [*Rubruquis*: vergleiche [Wilhelm von Rubruk](https://de.wikipedia.org/wiki/Wilhelm_von_Rubruk)]{.footnote}
 
 [^2601]: [*W. W. Rockhill*: vergleiche [William Woodville Rockhill](https://en.wikipedia.org/wiki/William_Woodville_Rockhill)]{.footnote}

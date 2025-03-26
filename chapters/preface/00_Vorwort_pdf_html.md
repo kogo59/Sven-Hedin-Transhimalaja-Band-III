@@ -66,8 +66,6 @@ anspruchslosen Nomaden.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0001]: [*Anders Hennig*:  vergleiche [Anders Hennig](https://de.wikipedia.org/wiki/Anders_Hennig)]{.footnote}
 
 [^0003]: [*Dr. Nils Ekholm*:  vergleiche [Nils Gustaf Ekholm](https://de.wikipedia.org/wiki/Nils_Gustaf_Ekholm)]{.footnote}
