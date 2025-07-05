@@ -1,6 +1,6 @@
 # Transhimalaja. Dritter Band.
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/194173752-96576ecc-f697-4e73-9c35-2c48de5480b0.jpg">
+<img align="right" width="200"  src="https://user-images.githubusercontent.com/13177792/194173752-96576ecc-f697-4e73-9c35-2c48de5480b0.jpg">
 
 This is a git repository of the source files for the book
 "Transhimalaja von Sven Hedin. Dritter Band."
